@@ -12,7 +12,9 @@ OS-Climate is part of The Linux Foundation®. All rights reserved. The Linux Fou
 
 Governance Info: https://os-climate.org/governance/
 
-### Project Overviews
+### Project/Workstream Overviews
+Technical Overview:  https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf; https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf
+
 Data Commons: https://os-climate.org/data-commons/
 
 Physical Risk:  https://os-climate.org/physical-risk-tool/
