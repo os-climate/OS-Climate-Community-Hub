@@ -1,10 +1,12 @@
-# CommunityInfo
+# OS-Climate Community Hub
 OS-Climate Community &amp; Project Collaboration Space
 
 ## Quick Links
 OS-Climate website: https://os-climate.org/
 
 Learn more about us: https://vimeo.com/645351364
+
+Getting Started/On-boarding Guide: https://docs.google.com/presentation/d/1-rH1l4NbiDwSv5pq21ud82OAsBzuvffMgchX2LbNM7g/edit?usp=sharing
 
 ### Legal & Governance
 
