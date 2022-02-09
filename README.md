@@ -1,6 +1,8 @@
 # OS-Climate Community Hub
 OS-Climate Community &amp; Project Collaboration Space
 
+Community Calendar (Meetings & Events): https://calendar.google.com/calendar/u/0?cid=b3NjLWNhbGVuZGFyQG9zLWNsaW1hdGUub3Jn
+
 ## Quick Links
 OS-Climate website: https://os-climate.org/
 
