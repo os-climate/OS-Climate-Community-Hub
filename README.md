@@ -1,36 +1,47 @@
 # OS-Climate Community Hub
 OS-Climate Community &amp; Project Collaboration Space
 
-Community Calendar (Meetings & Events): https://calendar.google.com/calendar/u/0?cid=b3NjLWNhbGVuZGFyQG9zLWNsaW1hdGUub3Jn
+**Join one of our meetings! Subscribe to a group list!** (instructions below)
 
-## Quick Links
+Community Calendar (Meetings & Events): https://west.exch092.serverdata.net/owa/calendar/f55f275b1e724cc49b5a52f50c30a11f@os-climate.org/022d1c0017744eebbf9f14f737493bd67046415453482209411/calendar.html
+
+## Current Members
+https://os-climate.org/current-members/
+
+## Community Resources & Information
 OS-Climate website: https://os-climate.org/
 
-Learn more about us: https://vimeo.com/645351364
+OS-Climate 101: https://vimeo.com/645351364
 
-Getting Started/On-boarding Guide: https://docs.google.com/presentation/d/1-rH1l4NbiDwSv5pq21ud82OAsBzuvffMgchX2LbNM7g/edit?usp=sharing
+Getting Started, On-boarding Guide: https://docs.google.com/presentation/d/1-rH1l4NbiDwSv5pq21ud82OAsBzuvffMgchX2LbNM7g/edit?usp=sharing
 
-### Legal & Governance
-
-OS-Climate is part of The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a registered trademark of Linus Torvalds. Privacy Policy (https://linuxfoundation.org/privacy-policy/) and Terms of Use (https://linuxfoundation.org/terms/).
-
-Governance Info: https://os-climate.org/governance/
-
-### Project/Workstream Overviews
+### Overview of OS-C's Projects/Workstreams
 Technical Overview:  https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf; https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf
 
-Data Commons: https://os-climate.org/data-commons/
+Data Commons Overview & Videos: https://os-climate.org/data-commons/
 
-Physical Risk:  https://os-climate.org/physical-risk-tool/
+Data Commons Architecture:  https://github.com/os-climate/os_c_data_commons/blob/main/README.md
 
-Transition Analysis:  https://os-climate.org/transition-tool/
+Physical Risk Overview & Videos:  https://os-climate.org/physical-risk-tool/
 
-Portfolio Alignment/ITR: https://os-climate.org/itr-alignment-tool/
+Transition Analysis Overview & Videos:  https://os-climate.org/transition-tool/
 
-Data Extraction/AI:  https://vimeo.com/652668377
+Portfolio Alignment/ITR Overview & Videos: https://os-climate.org/itr-alignment-tool/
 
-### Current Members
-https://os-climate.org/current-members/
+Data Extraction/AI Video:  https://vimeo.com/652668377
+
+### Workstream Project Boards
+PMO Dashboard: https://github.com/orgs/os-climate/projects/5
+
+Data Commons: https://github.com/orgs/os-climate/projects/7
+
+Physical Risk: https://github.com/orgs/os-climate/projects/6
+
+ITR:  https://github.com/orgs/os-climate/projects/3 
+
+Red Hat Subproject: https://github.com/orgs/os-climate/projects/4 
+
+Data Extraction/AI (ML and rules-based engines using NLP): https://github.com/os-climate/corporate_data_pipeline/projects/1 ; https://github.com/os-climate/corporate_data_pipeline/projects/2
 
 ## Join an OS-Climate Group List
 You can now subscribe to OS-Climate group lists and receive the latest information on our various workstreams, including new data sources/datasets, software development activity, tool/model enhancements, weekly meeting invites, and summary notes.  The group lists also provide a vehicle for product, tech, and process discussions between members.  We encourage everyone to use these group lists when communicating, so we create a consistent, inclusive, and reliable method to engage members based on their area of focus and/or interest.
@@ -51,3 +62,8 @@ TransitionRisk@lists.os-climate.org:  Used to discuss requirements, development,
 
 EntityMatching@lists.os-climate.org:  Used to discuss requirements, development, and testing to link key datasets to financial entities and regulatory standards, includes GLEIF, LEI, etc. To subscribe: EntityMatching+subscribe@lists.os-climate.org
 
+### Legal & Governance
+
+OS-Climate is part of The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a registered trademark of Linus Torvalds. Privacy Policy (https://linuxfoundation.org/privacy-policy/) and Terms of Use (https://linuxfoundation.org/terms/).
+
+Governance Info: https://os-climate.org/governance/
