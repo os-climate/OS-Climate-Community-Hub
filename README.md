@@ -1,9 +1,13 @@
 # OS-Climate Community Hub
-OS-Climate Community &amp; Project Collaboration Space
+**OS-Climate Community &amp; Project Collaboration Space**
 
 **Join one of our meetings! Subscribe to a group list!** (instructions below)
 
 Community Calendar (Meetings & Events): https://west.exch092.serverdata.net/owa/calendar/f55f275b1e724cc49b5a52f50c30a11f@os-climate.org/022d1c0017744eebbf9f14f737493bd67046415453482209411/calendar.html
+
+Recordings of Prior Events: https://os-climate.org/events/#watchevents
+
+Recordings of Prior Meetings: https://osclimateorg.sharepoint.com/:x:/g/EYeq5o9996JNohc5Kq7E6YoBFvNZNkEL-C4WD8pbhOpRjQ?e=hjLi53
 
 ## Current Members
 https://os-climate.org/current-members/
@@ -13,7 +17,7 @@ OS-Climate website: https://os-climate.org/
 
 OS-Climate 101: https://vimeo.com/645351364
 
-Getting Started, On-boarding Guide: https://docs.google.com/presentation/d/1-rH1l4NbiDwSv5pq21ud82OAsBzuvffMgchX2LbNM7g/edit?usp=sharing
+**Getting Started, On-boarding Guide:** https://docs.google.com/presentation/d/1-rH1l4NbiDwSv5pq21ud82OAsBzuvffMgchX2LbNM7g/edit?usp=sharing
 
 ### Overview of OS-C's Projects/Workstreams
 Technical Overview:  https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf; https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf
@@ -43,7 +47,7 @@ Red Hat Subproject: https://github.com/orgs/os-climate/projects/4
 
 Data Extraction/AI (ML and rules-based engines using NLP): https://github.com/os-climate/corporate_data_pipeline/projects/1 ; https://github.com/os-climate/corporate_data_pipeline/projects/2
 
-## Join an OS-Climate Group List
+### Join an OS-Climate Group List
 You can now subscribe to OS-Climate group lists and receive the latest information on our various workstreams, including new data sources/datasets, software development activity, tool/model enhancements, weekly meeting invites, and summary notes.  The group lists also provide a vehicle for product, tech, and process discussions between members.  We encourage everyone to use these group lists when communicating, so we create a consistent, inclusive, and reliable method to engage members based on their area of focus and/or interest.
 
 These are OS-Climate's group lists, along with a brief description:
@@ -61,6 +65,23 @@ PortfolioAlignment@lists.os-climate.org: Used to discuss requirements, developme
 TransitionRisk@lists.os-climate.org:  Used to discuss requirements, development, testing, and implementation of the Transition Risk tool with a focus on energy and economy models using SOSTrades/Witness.  To subscribe: TransitionRisk+subscribe@lists.os-climate.org
 
 EntityMatching@lists.os-climate.org:  Used to discuss requirements, development, and testing to link key datasets to financial entities and regulatory standards, includes GLEIF, LEI, etc. To subscribe: EntityMatching+subscribe@lists.os-climate.org
+
+### Commonly Used Data Sets
+EPA GHGRP (10 years of "large emitter" data)
+
+SEC DERA (2018-2021 SEC 10-K, 20-F, and 40-F reports)
+
+RMI Utilities Data (2000-2020 detailed emissions, generation, targets, fuel types, ownership, etc)
+
+WRI Global Power Plant Data (2013-2020 summary emissions, generation, fuel type, etc)
+
+US Census (2017 All-Sector survey)
+
+ESSD (Earth System Science Dataset 1970-2018 global emissions by country, gas, sector)
+
+SFI (Spatial Finance Initiative) Steel and Cement plant data
+
+PUDL: US-based utilities.
 
 ### Legal & Governance
 
