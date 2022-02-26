@@ -16,7 +16,7 @@ https://os-climate.org/current-members/
  - *OS-Climate 101:* https://vimeo.com/645351364
  - **Getting Started, On-boarding Guide:** https://docs.google.com/presentation/d/1-rH1l4NbiDwSv5pq21ud82OAsBzuvffMgchX2LbNM7g/edit?usp=sharing
 
-### Overview of OS-C's Projects/Workstreams
+## Overview of OS-C's Projects/Workstreams
  - Technical Overview:  https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf; https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf
  - Data Commons Overview & Videos: https://os-climate.org/data-commons/
  - Data Commons Architecture:  https://github.com/os-climate/os_c_data_commons/blob/main/README.md
@@ -46,7 +46,8 @@ These are OS-Climate's group lists, along with a brief description:
  - TransitionRisk@lists.os-climate.org:  Used to discuss requirements, development, testing, and implementation of the Transition Risk tool with a focus on energy and economic models using SOSTrades/Witness.  To subscribe: TransitionRisk+subscribe@lists.os-climate.org
  - EntityMatching@lists.os-climate.org:  Used to discuss requirements, development, and testing to link key datasets to financial entities and regulatory standards, includes GLEIF, LEI, etc. To subscribe: EntityMatching+subscribe@lists.os-climate.org
 
-### Available Data Sets
+## Available Data Sets (list not comprehensive)
+
 1.  EPA GHGRP (10 years of "large emitter" data)
 2.  SEC DERA (2018-2021 SEC 10-K, 20-F, and 40-F reports)
 3.  RMI Utilities Data (2000-2020 detailed emissions, generation, targets, fuel types, ownership, etc)
@@ -56,8 +57,11 @@ These are OS-Climate's group lists, along with a brief description:
 7.  SFI (Spatial Finance Initiative) Steel and Cement plant data
 8.  PUDL: US-based utilities.
 
-### Legal & Governance
+## Legal & Governance
 
 OS-Climate is part of The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a registered trademark of Linus Torvalds. Privacy Policy (https://linuxfoundation.org/privacy-policy/) and Terms of Use (https://linuxfoundation.org/terms/).
 
-Governance Info: https://os-climate.org/governance/
+ - Governance Info: https://os-climate.org/governance/
+ - OS-Climate abides by all of the following Linux Foundation policies: https://www.linuxfoundation.org/policies/
+ - All community members are expected to abide by the **LF Projects Code of Conduct**: https://lfprojects.org/policies/code-of-conduct/
+ - All project contributors are expected to adhere to the **Linux Foundation DCO Policy**: https://wiki.linuxfoundation.org/dco
