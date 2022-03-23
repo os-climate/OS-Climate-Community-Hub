@@ -46,7 +46,7 @@ These are OS-Climate's group lists, along with a brief description:
  - TransitionRisk@lists.os-climate.org:  Used to discuss requirements, development, testing, and implementation of the Transition Risk tool with a focus on energy and economic models using SOSTrades/Witness.  To subscribe: TransitionRisk+subscribe@lists.os-climate.org
  - EntityMatching@lists.os-climate.org:  Used to discuss requirements, development, and testing to link key datasets to financial entities and regulatory standards, includes GLEIF, LEI, etc. To subscribe: EntityMatching+subscribe@lists.os-climate.org
 
-## Available Data Sets (list not comprehensive)
+## Example Public Datasets Available (by 3Q22, we expect to provide more than 17,500 datasets)
 
 1.  EPA GHGRP (10 years of "large emitter" data)
 2.  SEC DERA (2018-2021 SEC 10-K, 20-F, and 40-F reports)
