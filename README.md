@@ -25,6 +25,9 @@ https://os-climate.org/current-members/
  - Portfolio Alignment/ITR Overview & Videos: https://os-climate.org/itr-alignment-tool/
  - Data Extraction/AI Video:  https://vimeo.com/652668377
 
+### Repo Access
+Need permissions to a particular repo? Please contact the appropriate admin listed here:  https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties
+
 ### Workstream Project Boards
  - PMO Dashboard: https://github.com/orgs/os-climate/projects/5
  - Data Commons: https://github.com/orgs/os-climate/projects/7
