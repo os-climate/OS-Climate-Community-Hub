@@ -56,6 +56,9 @@ These are OS-Climate's group lists, along with a brief description:
 6.  ESSD (Earth System Science Dataset 1970-2018 global emissions by country, gas, sector)
 7.  SFI (Spatial Finance Initiative) Steel and Cement plant data
 8.  PUDL: US-based utilities.
+9.  EDGAR
+10.  UNFCCC
+11.  World Bank GDP
 
 ## Legal & Governance
 
