@@ -62,6 +62,7 @@ These are OS-Climate's group lists, along with a brief description:
 9.  EDGAR
 10.  UNFCCC
 11.  World Bank GDP
+12.  S&P Global - ~8500 Corporate ESG/Sustainability reports (~75k anticipated by 2Q22)
 
 ## Legal & Governance
 
