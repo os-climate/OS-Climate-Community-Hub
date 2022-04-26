@@ -64,7 +64,7 @@ These are OS-Climate's group lists, along with a brief description:
 11.  World Bank GDP
 12.  S&P Global - ~8500 Corporate ESG/Sustainability reports (~75k anticipated by 2Q22)
 
-## Legal & Governance
+## Security, Legal & Governance
 
 OS-Climate is part of The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a registered trademark of Linus Torvalds. Privacy Policy (https://linuxfoundation.org/privacy-policy/) and Terms of Use (https://linuxfoundation.org/terms/).
 
