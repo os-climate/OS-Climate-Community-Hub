@@ -35,6 +35,7 @@ Need permissions to a particular repo? Please contact the appropriate admin list
  - ITR:  https://github.com/orgs/os-climate/projects/3 
  - Red Hat Subproject: https://github.com/orgs/os-climate/projects/4 
  - Data Extraction/AI (ML and rules-based engines using NLP): https://github.com/os-climate/corporate_data_pipeline/projects/1 ; https://github.com/os-climate/corporate_data_pipeline/projects/2
+ - Operate First OSC Project Board: https://github.com/orgs/operate-first/projects/57/views/5
 
 ### Join an OS-Climate Group List
 You can now subscribe to OS-Climate group lists and receive the latest information on our various workstreams, including new data sources/datasets, software development activity, tool/model enhancements, weekly meeting invites, and summary notes.  The group lists also provide a vehicle for product, tech, and process discussions between members.  We encourage everyone to use these group lists when communicating, so we create a consistent, inclusive, and reliable method to engage members based on their area of focus and/or interest.
