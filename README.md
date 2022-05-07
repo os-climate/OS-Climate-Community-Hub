@@ -25,8 +25,10 @@ https://os-climate.org/current-members/
  - Portfolio Alignment/ITR Overview & Videos: https://os-climate.org/itr-alignment-tool/
  - Data Extraction/AI Video:  https://vimeo.com/652668377
 
-### Repo Access
-Need permissions to a particular repo? Please contact the appropriate admin listed here:  https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties
+### Repo and/or Project Access
+Need permissions to a particular repo and/or project? Please contact the appropriate admin listed here:  https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties
+
+Want more information on how to contribute code or data?  Please see: https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/Contributing.md
 
 ### Workstream Project Boards
  - PMO Dashboard: https://github.com/orgs/os-climate/projects/5
@@ -73,4 +75,4 @@ OS-Climate is part of The Linux Foundation®. All rights reserved. The Linux Fou
  - Governance Info: https://os-climate.org/governance/
  - OS-Climate abides by all of the following Linux Foundation policies: https://www.linuxfoundation.org/policies/
  - All community members are expected to abide by the **LF Projects Code of Conduct**: https://lfprojects.org/policies/code-of-conduct/
- - All project contributors are expected to adhere to the **Linux Foundation DCO Policy**: https://wiki.linuxfoundation.org/dco
+ - All project contributors are expected to adhere to the **Linux Foundation DCO Policy**: https://wiki.linuxfoundation.org/dco  See our Contributions Guidelines for more information about DCO signoffs and fixing signoff failures:  https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/Contributing.md
