@@ -54,18 +54,23 @@ These are OS-Climate's group lists, along with a brief description:
 
 ## Example Public Datasets Available (by 3Q22, we expect to provide more than 17,500 datasets)
 
-1.  EPA GHGRP (10 years of "large emitter" data)
-2.  SEC DERA (2018-2021 SEC 10-K, 20-F, and 40-F reports)
-3.  RMI Utilities Data (2000-2020 detailed emissions, generation, targets, fuel types, ownership, etc)
-4.  WRI Global Power Plant Data (2013-2020 summary emissions, generation, fuel type, etc)
-5.  US Census (2017 All-Sector survey)
-6.  ESSD (Earth System Science Dataset 1970-2018 global emissions by country, gas, sector)
-7.  SFI (Spatial Finance Initiative) Steel and Cement plant data
-8.  PUDL: US-based utilities.
-9.  EDGAR
-10.  UNFCCC
-11.  World Bank GDP
-12.  S&P Global - ~8500 Corporate ESG/Sustainability reports (~75k anticipated by 2Q22)
+1.  GLEIF LEI Level 1 and 2 (2M+ LEI "who is who" and nearly 1M "who owns whom" records)
+2.  LEI-ISIN mappings (6M+ ISINs for stocks and bonds)
+3.  EPA GHGRP (10 years of "large emitter" data)
+4.  SEC DERA (2018-2021 SEC 10-K, 20-F, and 40-F reports)
+5.  RMI Utilities Data (2000-2020 detailed emissions, generation, targets, fuel types, ownership, etc)
+6.  WRI Global Power Plant Data (2013-2020 summary emissions, generation, fuel type, etc)
+7.  US Census (2017 All-Sector survey)
+8.  ESSD (Earth System Science Dataset 1970-2018 global emissions by country, gas, sector)
+9.  SFI (Spatial Finance Initiative) Steel and Cement plant location, capacity, and ownership data
+10.  PUDL: US-based utilities based on FERC, EIA, and EPA CEMS datasets
+11.  EDGAR 6.0 Environmental Data
+12.  UNFCCC
+13.  World Bank GDP
+14.  S&P Global - ~8500 Corporate ESG/Sustainability reports (~75k anticipated by 2Q22)
+15.  WRI Aqueduct Flood dataset (raster data and ZARR format)
+16.  WorldClim Historic climate data (26 metrics at 10-minute and 30-second spatial resolution, geoTIFF)
+17.  COMING SOON: OECM 20220504 Benchmark Data (Global, European, North American for 12 sectors: Fisheries, Agriculture, Forestry, Chemicals, Textiles, Aluminum, Steel, Cement, Buildings, Energy, Utilities, Transportation)
 
 ## Security, Legal & Governance
 
