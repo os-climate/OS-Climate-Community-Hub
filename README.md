@@ -26,6 +26,13 @@ https://os-climate.org/current-members/
  - Data Extraction/AI Video:  https://vimeo.com/652668377
 
 ### Repo and/or Project Access
+
+Open an issue on the Community Hub using this link to do the following: https://github.com/os-climate/OS-Climate-Community-Hub/issues/new/choose
+ - Request credentials for an os-climate bucket
+ - Request Onboarding to OSC Data Commons
+ - Request memberships on OS-Climate github org and credentials for Trino
+ - Report a security vulnerability
+
 Need permissions to a particular repo and/or project? Please contact the appropriate admin listed here:  https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties
 
 Want more information on how to contribute code or data?  Please see: https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/Contributing.md
@@ -33,8 +40,8 @@ Want more information on how to contribute code or data?  Please see: https://gi
 ### Workstream Project Boards
  - PMO Dashboard: https://github.com/orgs/os-climate/projects/5
  - Data Commons: https://github.com/orgs/os-climate/projects/7
- - Physical Risk: https://github.com/orgs/os-climate/projects/6
- - ITR:  https://github.com/orgs/os-climate/projects/3 
+ - Physical Risk & Resilience: https://github.com/orgs/os-climate/projects/6
+ - Portfolio Alignment/ITR:  https://github.com/orgs/os-climate/projects/3 
  - Red Hat Subproject: https://github.com/orgs/os-climate/projects/4 
  - Data Extraction/AI (ML and rules-based engines using NLP): https://github.com/os-climate/corporate_data_pipeline/projects/1 ; https://github.com/os-climate/corporate_data_pipeline/projects/2
  - Operate First OSC Project Board: https://github.com/orgs/operate-first/projects/57/views/5
