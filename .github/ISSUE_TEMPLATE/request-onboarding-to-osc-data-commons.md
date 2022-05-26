@@ -10,6 +10,7 @@ assignees: HeatherAck
 Requesting onboarding for github user: <github-user-name>
 
 Request access to github team: <team-name(s)>
+
 View teams here: https://github.com/orgs/os-climate/teams
 
 Onboarding resources:
