@@ -11,6 +11,7 @@
 ## Organizations as Members
  - Current members: https://os-climate.org/current-members/
  - Organizations interested in membership? Join Us: https://enrollment.lfx.linuxfoundation.org/?project=LFCF
+ - Note: your organization does not need to be a member to contribute your skills, time, code, and/or data.
 
 ## Community Resources & Information
  - *OS-Climate website:* https://os-climate.org/
