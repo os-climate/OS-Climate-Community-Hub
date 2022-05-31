@@ -8,8 +8,9 @@
  - Recordings of Prior Meetings: https://osclimateorg.sharepoint.com/:x:/g/EYeq5o9996JNohc5Kq7E6YoBFvNZNkEL-C4WD8pbhOpRjQ?e=hjLi53
  - Connect via Slack (os-climate.slack.com):  https://join.slack.com/t/os-climate/shared_invite/zt-14d7z1q78-gf68YdWxcaDcB2gKnVJDvg
 
-## Current Members
-https://os-climate.org/current-members/
+## Organizations as Members
+ - Current members: https://os-climate.org/current-members/
+ - Organizations interested in membership? Join Us: https://enrollment.lfx.linuxfoundation.org/?project=LFCF
 
 ## Community Resources & Information
  - *OS-Climate website:* https://os-climate.org/
