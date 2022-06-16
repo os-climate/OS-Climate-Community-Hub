@@ -11,7 +11,7 @@
 ## Organizations as Members
  - Current members: https://os-climate.org/current-members/
  - Organizations interested in membership? Join Us: https://enrollment.lfx.linuxfoundation.org/?project=LFCF
- - Note: your organization does not need to be a member to contribute your skills, time, code, and/or data.
+ - Note: you or your organization does not need to be a member to contribute your skills, time, code, and/or data.
 
 ## Community Resources & Information
  - *OS-Climate website:* https://os-climate.org/
@@ -93,5 +93,6 @@ OS-Climate is part of The Linux Foundation®. All rights reserved. The Linux Fou
  - All project contributors are expected to adhere to the **Linux Foundation DCO Policy**: https://wiki.linuxfoundation.org/dco  See our Contributions Guidelines for more information about DCO signoffs and fixing signoff failures:  https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/Contributing.md
 
 ## License
-Unless otherwise specified in a given repository's LICENSE file, OS-Climate code is distributed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
-OS-Climate data is distributed under CDLA, Version 2.0 (https://cdla.dev/permissive-2-0/)
+Unless otherwise specified in a given repository's LICENSE file: 
+ - OS-Climate code is distributed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0).
+ - OS-Climate data is distributed under CDLA, Version 2.0 (https://cdla.dev/permissive-2-0/).
