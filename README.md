@@ -91,3 +91,7 @@ OS-Climate is part of The Linux Foundation®. All rights reserved. The Linux Fou
  - OS-Climate abides by all of the following Linux Foundation policies: https://www.linuxfoundation.org/policies/
  - All community members are expected to abide by the **LF Projects Code of Conduct**: https://lfprojects.org/policies/code-of-conduct/
  - All project contributors are expected to adhere to the **Linux Foundation DCO Policy**: https://wiki.linuxfoundation.org/dco  See our Contributions Guidelines for more information about DCO signoffs and fixing signoff failures:  https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/Contributing.md
+
+## License
+Unless otherwise specified in a given repository's LICENSE file, OS-Climate code is distributed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+OS-Climate data is distributed under CDLA, Version 2.0 (https://cdla.dev/permissive-2-0/)
