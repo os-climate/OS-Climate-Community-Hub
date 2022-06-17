@@ -36,6 +36,8 @@
  - Note: you or your organization does not need to be a member to contribute your skills, time, code, and/or data.
 
 ## Overview of OS-C's Projects/Workstreams
+Please review the FAQ (https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md) to obtain a grounding in OS-Climate's Data Commons and Analytics Tools.
+
  - Technical Overview:  https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf; https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf
  - Data Commons Overview & Videos: https://os-climate.org/data-commons/
  - Data Commons Architecture:  https://github.com/os-climate/os_c_data_commons/blob/main/README.md
