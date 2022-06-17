@@ -63,7 +63,7 @@ Above already linked to SFI cement, SFI steel, and WRI Global Power Plant inform
 
 In general, tabular data is ingested by a data pipeline that populates data tables available in a Trino (SQL) database, whereas raster and geospatial data resides in S3 buckets offering programmatic access.  In some cases, data is available via API calls, and we have libraries and documentation to make those APIs available to Data Scientists using their favorite tools (typically Python-based Jupyter notebooks).
 
-### How are the datasets withing Data Common linked together? What Metadata is available?
+### How are the datasets within Data Common linked together? What Metadata is available?
 
 As the number of datasets in the Data Commons grows, it will become increasingly important to build a Data Catalog for finding and linking datasets together.  We are closely following the ISSB technical prototype from the IFRS, as well as other taxonomies and ontologies that Members have brought to review in our Data Governance Workstream.  All Members are aware that this is a large open problem, and not a problem that can be solved by one lone genius or one magical technology.  But it can be solved through collaborative, incremental innovation, and we have done considerable research on major open source technology components that give us confidence that with the right Member participation and engagement, we can solve it.
 
