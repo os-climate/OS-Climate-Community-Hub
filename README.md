@@ -12,6 +12,7 @@
  - **Getting Started, On-boarding Guide:** https://docs.google.com/presentation/d/1-rH1l4NbiDwSv5pq21ud82OAsBzuvffMgchX2LbNM7g/edit?usp=sharing
  - *OS-Climate website:* https://os-climate.org/
  - *OS-Climate 101:* https://vimeo.com/645351364
+ - **Have technical questions or want to learn more from our developer/engineering community?** Come to our Data Commons Office Hours! Every Tues & Thurs at 10:00AM ET (Link to meeting: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
  
 ### Business Model, Charter, & Oversight
  - OS-Climate Business Model: non-profit 501(c)(6) business association under the Linux Foundation (largest organizer of open-source tech initiatives globally); platform management and development funded by annual member fees plus philanthropic grants.
