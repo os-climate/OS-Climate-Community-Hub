@@ -72,15 +72,28 @@ OS-C has made significant strides toward this goal.  One of the most basic requi
 
 One example of using data pipelines to fit together multiple data sources is a Jupyter Notebook that uses a Sankey diagram to show the flow of data from the EPA GHG Reporting Program through corporate ownership, industry sectorization, and ultimately to emissions and revenues that can be seen in terms of relative intensities.  The source code is here: https://github.com/os-climate/data-platform-demo/blob/iceberg/notebooks/Sankey.ipynb and produces a diagram like this:
 
+### How are you normalizing data in your data pipelines?
+
 We have begun enhancing our data pipelines (EPA, RMI, ITR and PCAF) to produce unitized data when loaded into Pandas dataframes.  This makes it easy to normalize data to any unit system (metric, imperial, and even user-defined).  It also makes it easy to identify when data is being wrongly combined (because the units of one quantity cannot be converted into the units of another quantity).  You can see how we use Pint and Pint-Pandas in this branch of the ITR tool [https://github.com/os-climate/ITR/tree/develop] and the PCAF Sovereign project  [https://github.com/os-climate/PCAF-sovereign-footprint], and we expect this to cover virtually all data that is ever expressed with units.
 
 ### Are you using Machine Learning or Natural Language Processing to extract metrics from non-standardized information sources?
 
 **Data Extraction:** we have a workstream using NLP to extract data from ESG reports, and ML to improve the models, that can be loaded into the Data Commons: https://github.com/os-climate/corporate_data_pipeline. There are several branches under development at present.  If your firm may be willing to contribute technical resources to this project, we are happy to arrange a briefing from that team, with the aim of determining alignment with your needs and internal roadmap.
 
-The Alignment, Physical Risk/Resilience, Transition Analysis Tools are not yet major users of the Data Commons, but the objective is for these and other open source tools to be able to access through the Data Commons (including the Data Vault) all of the data required for large scale climate-aligned finance.   The OS-C Analytics projects are presently focused more on specific methodological development, using data that is more readily accessed via Python libraries than via SQL tables.  We expect to see much more interaction between these workstreams and the Data Commons later in the year.  And we also expect that as Members bring forward additional use-cases, additional datasets and data pipelines will be integrated.
-All in all, the Data Commons is a facility under active development and growing.  Recapping, the Data Commons implementation is based on 3 foundational principles:
+### How are the OS-Climate analytic tools and Data Commons connected?
+The Alignment, Physical Risk/Resilience, Transition Analysis Tools are not yet major users of the Data Commons, but the objective is for these and other open source tools to be able to access through the Data Commons (including the Data Vault) all of the data required for large scale climate-aligned finance.   The OS-C Analytics projects are presently focused more on specific methodological development, using data that is more readily accessed via Python libraries than via SQL tables.  We expect to see much more interaction between these workstreams and the Data Commons later in the year.  And we also expect that as Members bring forward additional use-cases, additional datasets and data pipelines will be integrated. All in all, the Data Commons is a facility under active development and growing.  
 
+### What functionality does the Physical Risk & Resilence workstream provide?
+
+### What functionality does the Portfolio Alignment workstream provide?
+
+### What functionality does the Transition Analysis workstream provide?
+
+### What are the foundational principles in building the Data Commons?
 1. Self-service data infrastructure as a platform: The platform provides standardized self-service infrastructure and tooling for creating, maintaining and managing data products, for communities of data scientists and developers who may not have the technology capability or time to handle infrastructure provisioning, data storage and security, data pipeline orchestration and management or product integration.
 2. Domain-oriented decentralized data product ownership: Data ownership is decentralized and domain data product owners are responsible for all capabilities within a given domain, including discoverability, understandability, quality and security of the data. In effect this is achieved by having agile, autonomous, distributed teams building data pipelines as code and data product interfaces on standard tooling and shared infrastructure services. These teams own the code for data pipelines loading, transforming and serving the data as well as the related metadata, and drive the development cycle for their own data domains. This is reflected and built into our DataOps / DevOps organization and processes, with contributor team structure, access to the platform and data management capabilities supporting autonomous collaborative development for the various data streams within OS-Climate.
 3. Federated governance: The platform requires a layer providing a federated view of the data domains while being able to support the establishment of common operating standards around data / metadata / data lineage management, quality assurance, security and compliance policies, and by extension any cross-cutting supervision concern across all data products.
+
+### Where can I learn more about the technical implementation or ask questions?
+ - Come to our Data Commons Office Hours! Every Tues & Thurs at 10:00AM ET (Link to meeting: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
+ - Create an issue: https://github.com/os-climate/os_c_data_commons/issues/new
