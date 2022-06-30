@@ -1,4 +1,5 @@
-# What is the Data Commons?
+# OS-Climate FAQ
+## What is the Data Commons?
 
 The Global Data Commons is envisioned as a Library of Libraries that will ultimately provide a “One Stop Shop” for accessing both public and proprietary data needed for climate-aligned financial decision-making, as well as a useful platform that can be installed behind corporate firewalls to manage private data as well.  We are still at the early stages of building the Data Commons, but this is in part because all institutions are in the early stages of bringing together the broad, multifactorial data necessary to manage their way into alignment with the Paris Climate Accord.
 
@@ -83,17 +84,67 @@ We have begun enhancing our data pipelines (EPA, RMI, ITR and PCAF) to produce u
 ### How are the OS-Climate analytic tools and Data Commons connected?
 The Alignment, Physical Risk/Resilience, Transition Analysis Tools are not yet major users of the Data Commons, but the objective is for these and other open source tools to be able to access through the Data Commons (including the Data Vault) all of the data required for large scale climate-aligned finance.   The OS-C Analytics projects are presently focused more on specific methodological development, using data that is more readily accessed via Python libraries than via SQL tables.  We expect to see much more interaction between these workstreams and the Data Commons later in the year.  And we also expect that as Members bring forward additional use-cases, additional datasets and data pipelines will be integrated. All in all, the Data Commons is a facility under active development and growing.  
 
-### What functionality does the Physical Risk & Resilence workstream provide?
+## What functionality does the Physical Risk & Resilence (PRR) workstream provide?
+Assessing physical climate risk requires tooling which connects asset location data to climate hazard models and vulnerability curves.  Risk measurement includes not just the hazard value (i.e. flood depth) but also the associated asset vulnerability that determines the damage and disruption risk that those assets will face as a result of the hazard.
 
-### What functionality does the Portfolio Alignment workstream provide?
+OS-Climate are gathering together many climate hazard and vulnerability models in one place which can serve risk measurement use cases.  The idea is to build physical risk tooling for the common good utilising an overarching risk methodology based on insurance standards. 
 
-### What functionality does the Transition Analysis workstream provide?
+The OS-C open source development ecosystem fosters a strong collaboration between the research community and industry where model developments can be fuelled with regards to completing gaps in measurement requirements, helping to create a common language on the topic and directing models and data better towards risk measurement needs in particular within the finance industry as a first step.   A physical risk code package will be available through the OS-C Github along with a beta UI to help users get started.  Developments will evolve to incorporate resilience at the more regional and country level over time. 
 
-### What are the foundational principles in building the Data Commons?
+The PRR aims to collect key climate models into one place, provide an ecosystem for collaborative development through open source mechanism and data commons, and compile vulnerability models for use in physical risk assessment.  Our goal is to reduce barriers to entry for inexperienced/under resourced orgs. We envision our tool being used: (1) during risk management and strategy/investment decision making; (2) on-going research on climate models and vulnerabilities; (3) calibrating models including validation of assumptions.  All corporate and industrial related sectors, in particular, those more suseptible to asset damage and disruption (e.g. power generation, real estate, heavy labor workforce industry) will benefit from this tool.  The tool also supports regulatory compliance on climate risk, helps institutions get a head start on understanding risks, portfolio risk measurement, engaging with counterparts, understanding and measuring the uncertainty (e.g. impact on collateral). The tool leverages publicly and commercialy available climate hazard and vulnerability models, and makes use of public and commercial asset data.
+
+## What functionality does the Portfolio Alignment workstream provide?
+OS-Climate is solving climate data and analytics challenges for Financial Institutions to accelerate redirection of capital to climate change mitigation and resilience.  In particular, the ITR tool helps investors align their portfolios with 1.5 degree pathways. OS-Climate's Open Source-based ITR tool enables investors to: 
+ 1. Objectively assess emissions targets and projections using recommendations from TCFD
+ 2. Lay out all the steps in calculating a related temperature score transparently
+ 3. Compare scencarios and their results; (4) allow academia and research institutions to collaborate
+ 4. Enable a partial independence from commercial data providers. 
+
+The ITR tool is compliant with the recommendations of the Portfolio Alignment Team in the TCFD-Commissioned report “Measuring Portfolio Alignment”
+
+ITR is a forward-looking management tool that facilitates the evaluation of how investment decisions can contribute to long-term climate goals – and whether individual company and portfolio behaviour exceeds net zero budget expectations.  The cumulative emissions relative to this budget at a global level informs what temperature outcome the world is likely to reach.  As a result, the mechanics of the tool are designed to compare forward-looking emissions trajectories against benchmark climate scenarios and to convert those cumulative emissions into a temperature outcome.
+
+The Portfolio Alignment Prototype can support any sector-specific benchmarks to compare against financial institution portfolios. So far, the One Earth Climate Model (OECM) and Transition Pathway Initiative (TPI) benchmarks have been implemented. The Portfolio Alignment Prototype focuses on four highest emitting sectors: Electric Utilities, Steel, Oil & Gas and Automobiles. Data is on-boarded and accessed via an open source data infrastructure, OS-Climate’s ‘Data Commons’ supported by Red Hat.
+
+The tool supports calulation of emission projections, temperature scores and portfolio reporting.  Forward-looking emissions trajectories are calculated using historical emissions intensity relative to sector-specific production metrics. For the temperature score calculation, the TCRE Multiplier approach was applied. Outputs are provided from the tool and visualized in a beta interface. Various parameters, e.g. scenario, temperature scores, weightings, can be adjusted in the final output to see the impact on the portfolio.
+
+## What functionality does the Transition Analysis workstream provide?
+The number and nature of risks are increasing with climate change, and combined with energy transition, it is about to disrupt the world as we know it. Generic impacts of energy transition on climate change, economy and people purchasing power… will have ripple consequences in most economic or institutional sectors.
+
+Our Transition Analysis Tool, WITNESS, is a framework to structure the problem following a system of systems approach, allowing to leverage numerical simulation methods and tools to build a complete world transition model. Such a framework offer the possibility to plug-in best-in-class models from various origin, in order to evaluate various strategies in front of possible energy, resources, climate or economy evolutions, collaboratively securing and combining various experts advices on strategies strengths or weaknesses, coverage or gaps.
+
+The Transition Analysis tooling (aka WITNESS and associated UI, SoSTrades) allows organizations to:
+ - perform multiple scenario trades/anamysis/business cases
+ - optimize global investments vs global objectives (e.g. investments in energy production techno to maximize economy development while minimizing emissions under resources constraints)
+ - assess the value/impact of energy production technology or resource
+ - project global economy, evolution coupled with energy, resources, climate, policies
+
+The tool should be used for (1) assessing mid to long term investment relevance vs sustainable pathways and (2) evaluating transition risks and how policies can keep it within reasonable boundaries.  The tool will support any sector/region to evaluate sector/region evolution within global evolution context.  It is fully open source with transparent methodologies.  The SoSTrades user interface allows various experts to co-define assumptions and co-analyse results.  Additionally, the tool can connect to various data sources if needed for its models, but the baseline framework is initialized with all the needed data natively.  This embedded framework is open source and free to use.  The existing models' origin and usage are fully documented within the tool online documentation.
+
+WITNESS allows holistic exploration and sustainable paths planning, so that transition risk can be kept at/under an acceptable level to ultimately overcome transition. WITNESS guarantees openness, transparency, allowing to develop trust in a pre-competitive model for a critical mass of actors to consistently act and effectively bend transition trajectory.
+The tool allows users to assess policy, macro economic impacts (e.g. capital, labor, production, energy, consumption, investment, walfare, and energy demand) along side population, energy, materials, natural resources, and environmental variables. 
+
+Advanced energy-economy bi-directional coupling: variable investment available from economy optimally spread to various energy production technologies; variable energy mix & price from energy made available to economy, while strain on resources is shared with other domains needs, and carbon emission contributed  to climate.  Advanced energy-technology-resources coupling: 40+ energy production technologies modelled, with assets depreciations & learning curves; interactions between energy production technologies; dynamic estimation emissions by technology; dynamic estimation of resources and materials consumptions. 
+
+Advanced simulation platform capabilities include:
+ 1. Complete world transition framework to evaluate strategies /scenarios in front of possible energy, resources, climate or economy evolutions
+ 2. Open framework that can be adapted or completed, enabling open experts collaboration on strategies or models, strengths or weaknesses, coverage or gaps
+ 3. Open & trusted cooperation for a critical mass of actors to build together a strategy
+ 4. Tackle global climate change issues
+ 5. Better evolution predictability to devise mid or long term strategies and/or investments.
+ 6. Design space explorations:  pareto front extracted from multi-scenario analysis, understanding what are the limiting factors to progress towards an objective.
+ 7. Run in multi-scenario a current/preferred/planned scenario, together with worst case ones (with pessimistic assumptions):  delta between current and worst cases used as a risk metric.
+ 8. Run real-options value simulation for possible trade choices: better steer investments
+
+The Transition Analysis tool is a continuously expanding exploratory and decision-support toolset to outsmart energy transition and optimize funds allocation for best environmental impact.
+
+Feel free to contact us at contact@sostrades.org for more info if needed.
+
+## What are the foundational principles in building the Data Commons?
 1. Self-service data infrastructure as a platform: The platform provides standardized self-service infrastructure and tooling for creating, maintaining and managing data products, for communities of data scientists and developers who may not have the technology capability or time to handle infrastructure provisioning, data storage and security, data pipeline orchestration and management or product integration.
 2. Domain-oriented decentralized data product ownership: Data ownership is decentralized and domain data product owners are responsible for all capabilities within a given domain, including discoverability, understandability, quality and security of the data. In effect this is achieved by having agile, autonomous, distributed teams building data pipelines as code and data product interfaces on standard tooling and shared infrastructure services. These teams own the code for data pipelines loading, transforming and serving the data as well as the related metadata, and drive the development cycle for their own data domains. This is reflected and built into our DataOps / DevOps organization and processes, with contributor team structure, access to the platform and data management capabilities supporting autonomous collaborative development for the various data streams within OS-Climate.
 3. Federated governance: The platform requires a layer providing a federated view of the data domains while being able to support the establishment of common operating standards around data / metadata / data lineage management, quality assurance, security and compliance policies, and by extension any cross-cutting supervision concern across all data products.
 
-### Where can I learn more about the technical implementation or ask questions?
+## Where can I learn more about the technical implementation or ask questions?
  - Come to our Data Commons Office Hours! Every Tues & Thurs at 10:00AM ET (Link to meeting: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
  - Create an issue: https://github.com/os-climate/os_c_data_commons/issues/new
