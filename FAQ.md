@@ -151,3 +151,6 @@ Feel free to contact us at contact@sostrades.org for more info if needed.
 
 ## Where can I report a security vulnerability or concern?
 Send an email to Security@os-climate.org
+
+## Have another question?
+Send an email to Admin@os-climate.org
