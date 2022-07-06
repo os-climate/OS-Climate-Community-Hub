@@ -148,3 +148,6 @@ Feel free to contact us at contact@sostrades.org for more info if needed.
 ## Where can I learn more about the technical implementation or ask questions?
  - Come to our Data Commons Office Hours! Every Tues & Thurs at 10:00AM ET (Link to meeting: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
  - Create an issue: https://github.com/os-climate/os_c_data_commons/issues/new
+
+## Where can I report a security vulnerability or concern?
+Send an email to Security@os-climate.org
