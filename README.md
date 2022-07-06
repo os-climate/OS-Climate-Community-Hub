@@ -14,8 +14,12 @@
  - *OS-Climate 101:* https://vimeo.com/645351364
  - **Have technical questions or want to learn more from our developer/engineering community?** Come to our Data Commons Office Hours! Every Tues & Thurs at 10:00AM ET (Link to meeting: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
  
-### Business Model, Charter, & Oversight
+### Business Model
  - OS-Climate Business Model: non-profit 501(c)(6) business association under the Linux Foundation (largest organizer of open-source tech initiatives globally); platform management and development funded by annual member fees plus philanthropic grants.
+ - Why Open Source? To overcome data & analytics barriers which block investments needed to meet Paris Climate Accord goals, we apply the community-based open-source approach that enabled major breakthroughs in Life Sciences & Tech (Human Genome Project, COVID Vaccines, Hyperledger, Linux OS).  Please see https://os-climate.org/about-open-source/
+ - OS-Climate's Theory of Change: https://os-climate.org/theory-of-change/
+ 
+ ### Charter & Oversight (also see Governance section below & https://os-climate.org/governance/) 
  - OS-Climate Charter, Participation Agreement & Membership Agreement: members are expected to adhere to the following agreements signed at the onset of their membership, 
    1. OS-Climate Participation Agreement & Charter:  https://drive.google.com/file/d/1heeB5PEAPuFldyTvSSSa6mBYphkddSgj/view; 
    2. Linux Foundation Membership Agreement: https://drive.google.com/file/d/1PGgq2TKI_wiD1cTjN1JEJZMvyQYDAPPk/view
@@ -81,7 +85,11 @@ These are OS-Climate's group lists, along with a brief description:
  - TransitionRisk@lists.os-climate.org:  Used to discuss requirements, development, testing, and implementation of the Transition Risk tool with a focus on energy and economic models using SOSTrades/Witness.  To subscribe: TransitionRisk+subscribe@lists.os-climate.org
  - EntityMatching@lists.os-climate.org:  Used to discuss requirements, development, and testing to link key datasets to financial entities and regulatory standards, includes GLEIF, LEI, etc. To subscribe: EntityMatching+subscribe@lists.os-climate.org
 
-## Example Public Datasets Available (by 3Q22, we expect to provide more than 17,500 datasets)
+## DATA
+### Need More Data?
+Data Commons enables federation with external data sources as well as ingestion/storage of data within the Data Commons.  To request data, please create an issue: [To Be Provided]
+
+### Example Public Datasets Available (by 3Q22, we expect to provide more than 17,500 datasets)
 
 1.  GLEIF LEI Level 1 and 2 (2M+ LEI "who is who" and nearly 1M "who owns whom" records)
 2.  LEI-ISIN mappings (6M+ ISINs for stocks and bonds)
@@ -96,7 +104,7 @@ These are OS-Climate's group lists, along with a brief description:
 11.  EDGAR 6.0 Environmental Data
 12.  UNFCCC
 13.  World Bank GDP
-14.  S&P Global - ~8500 Corporate ESG/Sustainability reports (~75k anticipated by 2Q22)
+14.  S&P Global - ~8500 Corporate ESG/Sustainability reports (~75k anticipated by early 3Q22)
 15.  WRI Aqueduct Flood dataset (raster data and ZARR format)
 16.  WorldClim Historic climate data (26 metrics at 10-minute and 30-second spatial resolution, geoTIFF)
 17.  NAICS/ISIC/SIC code concordance table data
