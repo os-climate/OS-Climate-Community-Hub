@@ -87,8 +87,10 @@ These are OS-Climate's group lists, along with a brief description:
 
 ## DATA
 ### Need More Data?
-Data Commons enables federation with external data sources as well as ingestion/storage of data within the Data Commons.  To request data, please create an issue: [To Be Provided]
-
+Data Commons enables federation with external data sources as well as ingestion/storage of data within the Data Commons.  To request data, please create an issue under the Data-Requests repo: 
+ - Dataset Request: https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=dataset-request.md&title=%5BData+Request%5D+
+ - Dataset Request (spreadsheet specific):  https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=data-from-spreadsheet.md&title=%5BData+from+Spreadsheet+Request%5D+
+ 
 ### Example Public Datasets Available (by 3Q22, we expect to provide more than 17,500 datasets)
 
 1.  GLEIF LEI Level 1 and 2 (2M+ LEI "who is who" and nearly 1M "who owns whom" records)
