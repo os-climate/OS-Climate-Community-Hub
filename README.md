@@ -3,16 +3,16 @@
 
 **Join one of our meetings! Subscribe to a group list! Connect over Slack!** (instructions below)
 
- - Community Calendar (Meetings & Events): https://west.exch092.serverdata.net/owa/calendar/f55f275b1e724cc49b5a52f50c30a11f@os-climate.org/022d1c0017744eebbf9f14f737493bd67046415453482209411/calendar.html
- - Recordings of Prior Events: https://os-climate.org/events/#watchevents
- - Recordings of Prior Meetings: https://osclimateorg.sharepoint.com/:x:/g/EYeq5o9996JNohc5Kq7E6YoBFvNZNkEL-C4WD8pbhOpRjQ?e=hjLi53
- - Connect via Slack (os-climate.slack.com):  https://join.slack.com/t/os-climate/shared_invite/zt-14d7z1q78-gf68YdWxcaDcB2gKnVJDvg
+ - Community Calendar (Meetings & Events): [Link to Calendar](https://west.exch092.serverdata.net/owa/calendar/f55f275b1e724cc49b5a52f50c30a11f@os-climate.org/022d1c0017744eebbf9f14f737493bd67046415453482209411/calendar.html)
+ - Recordings of Prior Events: [Watch Events](https://os-climate.org/events/#watchevents)
+ - Recordings of Prior Meetings: [View Meetings](https://osclimateorg.sharepoint.com/:x:/g/EYeq5o9996JNohc5Kq7E6YoBFvNZNkEL-C4WD8pbhOpRjQ?e=hjLi53)
+ - Connect via Slack (os-climate.slack.com):  [Join Slack](https://join.slack.com/t/os-climate/shared_invite/zt-14d7z1q78-gf68YdWxcaDcB2gKnVJDvg)
 
 ## Community Resources & General OS-Climate Information
- - **Getting Started, On-boarding Guide:** https://docs.google.com/presentation/d/1-rH1l4NbiDwSv5pq21ud82OAsBzuvffMgchX2LbNM7g/edit?usp=sharing
+ - **Getting Started, On-boarding Guide:** [Link to Guide](https://docs.google.com/presentation/d/1-rH1l4NbiDwSv5pq21ud82OAsBzuvffMgchX2LbNM7g/edit?usp=sharing)
  - *OS-Climate website:* https://os-climate.org/
- - *OS-Climate 101:* https://vimeo.com/645351364
- - **Have technical questions or want to learn more from our developer/engineering community?** Come to our Data Commons Office Hours! Every Tues & Thurs at 10:00AM ET (Link to meeting: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
+ - *OS-Climate 101:* [Watch Video](https://vimeo.com/645351364)
+ - **Have technical questions or want to learn more from our developer/engineering community?** Come to our Data Commons Office Hours! Every Tues & Thurs at 10:00AM ET  [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
  
 ### Business Model
  - OS-Climate Business Model: non-profit 501(c)(6) business association under the Linux Foundation (largest organizer of open-source tech initiatives globally); platform management and development funded by annual member fees plus philanthropic grants.
@@ -21,8 +21,8 @@
  
  ### Charter & Oversight (also see Governance section below & https://os-climate.org/governance/) 
  - OS-Climate Charter, Participation Agreement & Membership Agreement: members are expected to adhere to the following agreements signed at the onset of their membership, 
-   1. OS-Climate Participation Agreement & Charter:  https://drive.google.com/file/d/1heeB5PEAPuFldyTvSSSa6mBYphkddSgj/view; 
-   2. Linux Foundation Membership Agreement: https://drive.google.com/file/d/1PGgq2TKI_wiD1cTjN1JEJZMvyQYDAPPk/view
+   1. OS-Climate Participation Agreement & Charter:  [View OS-C Agreement/Charter](https://drive.google.com/file/d/1heeB5PEAPuFldyTvSSSa6mBYphkddSgj/view) 
+   2. Linux Foundation Membership Agreement: [View LF Member Agreement](https://drive.google.com/file/d/1PGgq2TKI_wiD1cTjN1JEJZMvyQYDAPPk/view)
  - Governing Board (fee-paying members + Academia, IGO, NGO) decides strategy, priorities, & budget. (see Governance section below for more info)
    1. Premier Membership:  $100K/year; General Membership $30K/year; Associate Membership (Academia, IGO, NGO): $0K/year
    2. Meets every 3rd Wednesday of the month
@@ -30,54 +30,54 @@
    1. Comprised of TSC chairpersons and Premier Members’ technical delegates.
    2. Meets 2nd and 4th Monday of the month
 -  Technical Steering Committees (TSCs) are responsible for technical oversight of each Project (meet weekly, see community calendar for days/times).
-   1. Data Commons Charter: https://docs.google.com/document/d/1yLL3fBkwe_EC1EOtBHV7mAThlDVSA5dQnkI4Ijnv0eI/edit?usp=sharing
-   2. Physical Risk & Resilience Charter: https://docs.google.com/document/d/1TiHw4KL2sQIdUsvkKq0Eg-ju5T681nQC/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true
-   3. Portfolio Alignment Charter: https://docs.google.com/document/d/1l5Sdz0YODYA8uLO4NHMykYLtOsUHl5nK/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true
-   4. Transition Analysis Charter: https://docs.google.com/document/d/1oApdAxwjM8_TCeHFgBE8GJp-JOeM6U21/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true
+   1. Data Commons Charter: [View Charter](https://docs.google.com/document/d/1yLL3fBkwe_EC1EOtBHV7mAThlDVSA5dQnkI4Ijnv0eI/edit?usp=sharing)
+   2. Physical Risk & Resilience Charter: [View Charter](https://docs.google.com/document/d/1TiHw4KL2sQIdUsvkKq0Eg-ju5T681nQC/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
+   3. Portfolio Alignment Charter: [View Charter](https://docs.google.com/document/d/1l5Sdz0YODYA8uLO4NHMykYLtOsUHl5nK/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
+   4. Transition Analysis Charter: [View Charter](https://docs.google.com/document/d/1oApdAxwjM8_TCeHFgBE8GJp-JOeM6U21/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
 
 ## Organizations as Members
- - Current members: https://os-climate.org/current-members/
- - Organizations interested in membership? Join Us: https://enrollment.lfx.linuxfoundation.org/?project=LFCF
+ - Current members: [View List](https://os-climate.org/current-members/)
+ - Organizations interested in membership? Join Us: [Enroll](https://enrollment.lfx.linuxfoundation.org/?project=LFCF)
  - **Please Note:** you/your organization does not need to be a member to contribute your skills, time, code, and/or data.
 
 ## Overview of OS-C's Projects/Workstreams
-Please review the FAQ (https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md) to obtain a grounding in OS-Climate's Data Commons and Analytics Tools.
+Please review the [FAQ](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md) to obtain a grounding in OS-Climate's Data Commons and Analytics Tools.
 
  - Technical Overviews:  
-   - Data Commons, Data Extraction/NLP, Physical Risk, & Portfolio Alignment/ITR:  https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf
-   - Transition Analysis: https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf
+   - [Data Commons, Data Extraction/NLP, Physical Risk, & Portfolio Alignment/ITR](https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf)
+   - [Transition Analysis](https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf)
  - Data Commons Overview & Videos: https://os-climate.org/data-commons/
- - Data Commons Architecture:  https://github.com/os-climate/os_c_data_commons/blob/main/README.md
+ - Data Commons Architecture: Managing Data as Code [Learn More](https://github.com/os-climate/os_c_data_commons/blob/main/README.md)
  - Physical Risk Overview & Videos:  https://os-climate.org/physical-risk-tool/
-   - New Model On-boarding Guide:  https://github.com/os-climate/physrisk/blob/main/docs/handbook/onboarding.rst
-   - Tool Demo:  https://osclimateorg.sharepoint.com/:v:/g/EWsSkNVFWm9NjTUAS5ljkucBMbVpePZm5r7rOdnIjK_JGg?e=tlLu8o
+   - New Model On-boarding Guide: [View Handbook](https://github.com/os-climate/physrisk/blob/main/docs/handbook/onboarding.rst)
+   - Tool Demo:  [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/EWsSkNVFWm9NjTUAS5ljkucBMbVpePZm5r7rOdnIjK_JGg?e=tlLu8o)
    - Passwd for demo: osc-0510>>AH
  - Transition Analysis Overview & Videos:  https://os-climate.org/transition-tool/
-   - Tool Demo:  https://osclimateorg.sharepoint.com/:v:/g/ERMvxOio2HNCovLLJ-rqnxMBz0jHLgDIzCCZnmCXDLovoQ?e=MkLmPo
+   - Tool Demo:  [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/ERMvxOio2HNCovLLJ-rqnxMBz0jHLgDIzCCZnmCXDLovoQ?e=MkLmPo)
    - Passwd for demo: osc-0412>>AH
  - Portfolio Alignment/ITR Overview & Videos: https://os-climate.org/itr-alignment-tool/
- - Data Extraction/AI Video:  https://vimeo.com/652668377
+ - Data Extraction/AI Overview:  [Watch Video](https://vimeo.com/652668377)
 
 ### Repo and/or Project Access
 
-Open an issue on the Community Hub using this link to do the following: https://github.com/os-climate/OS-Climate-Community-Hub/issues/new/choose
+Open an issue on the Community Hub for the following: [Open Issue](https://github.com/os-climate/OS-Climate-Community-Hub/issues/new/choose)
  - Request credentials for an os-climate bucket
  - Request Onboarding to OSC Data Commons
  - Request memberships on OS-Climate github org and credentials for Trino
  - Report a security vulnerability
 
-Need permissions to a particular repo and/or project? Please contact the appropriate admin listed here:  https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties
+Need permissions to a particular repo and/or project? Please contact the appropriate admin listed here: [Admin List](https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties)
 
-Want more information on how to contribute code or data?  Please see: https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/Contributing.md
+Want more information on how to contribute code or data?  Please see [Contribution Guidelines](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/Contributing.md)
 
 ### Workstream Project Boards
- - PMO Dashboard: https://github.com/orgs/os-climate/projects/5
- - Data Commons: https://github.com/orgs/os-climate/projects/7
- - Physical Risk & Resilience: https://github.com/orgs/os-climate/projects/6
- - Portfolio Alignment/ITR:  https://github.com/orgs/os-climate/projects/3 
- - Red Hat Subproject: https://github.com/orgs/os-climate/projects/4 
- - Data Extraction/AI (ML and rules-based engines using NLP): https://github.com/os-climate/corporate_data_pipeline/projects/1 ; https://github.com/os-climate/corporate_data_pipeline/projects/2
- - Operate First OSC Project Board: https://github.com/orgs/operate-first/projects/57/views/5
+ - [Program Mgmt Office Project Board](https://github.com/orgs/os-climate/projects/5)
+ - [Data Commons Project Board](https://github.com/orgs/os-climate/projects/7)
+ - [Physical Risk & Resilience Project Board](https://github.com/orgs/os-climate/projects/6)
+ - [Portfolio Alignment/ITR Project Board](https://github.com/orgs/os-climate/projects/3) 
+ - [Red Hat Subproject Board](https://github.com/orgs/os-climate/projects/4)
+ - Data Extraction/AI (ML and rules-based engines using NLP) [Project Board 1](https://github.com/os-climate/corporate_data_pipeline/projects/1) [Project Board 2](https://github.com/os-climate/corporate_data_pipeline/projects/2)
+ - [Operate First OSC Project Board](https://github.com/orgs/operate-first/projects/57/views/5)
 
 ### Join an OS-Climate Group List
 You can now subscribe to OS-Climate group lists and receive the latest information on our various workstreams, including new data sources/datasets, software development activity, tool/model enhancements, weekly meeting invites, and summary notes.  The group lists also provide a vehicle for product, tech, and process discussions between members.  We encourage everyone to use these group lists when communicating, so we create a consistent, inclusive, and reliable method to engage members based on their area of focus and/or interest.
@@ -95,8 +95,8 @@ These are OS-Climate's group lists, along with a brief description:
 ## DATA
 ### Need More Data?
 Data Commons enables federation with external data sources as well as ingestion/storage of data within the Data Commons.  To request data, please create an issue under the Data-Requests repo: 
- - Dataset Request: https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=dataset-request.md&title=%5BData+Request%5D+
- - Dataset Request (spreadsheet specific):  https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=data-from-spreadsheet.md&title=%5BData+from+Spreadsheet+Request%5D+
+ - [Dataset Request](https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=dataset-request.md&title=%5BData+Request%5D+)
+ - [Dataset Request (spreadsheet specific)](https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=data-from-spreadsheet.md&title=%5BData+from+Spreadsheet+Request%5D+)
  
 ### Example Public Datasets Available (by 3Q22, we expect to provide more than 17,500 datasets)
 
@@ -126,14 +126,13 @@ OS-Climate is part of The Linux Foundation®. All rights reserved. The Linux Fou
  - **To report a Security concern and/or incident, please send an email to:** security@os-climate.org
  - **Governance Info:** the OS-C Governing Board meets on the 3rd Wednesday of every month.  Premium members can name a person to serve on the Governing Board and the Technical Advisory Council (TAC).  General members can select a person to represent them as a Board Observer, attending quarterly Governing Board meetings.  Additionally, for every 4 General Members, one Board member will be elected to represent this cohort. Associate members can select a person to represent them as a Board Observer, attending quarterly Governing Board meetings.  Additionally, Associate members can elect one Academic, one IGO, and one NGO member to represent them on the Governing Board. Physical Risk & Resilience, Data Commons, Portfolio Alignment, and Transition Analysis projects are governed by Technical Steering Committees (TSCs).  The chair people (elected by project contributors) for these TSCs also serve as members of the TAC.  For more information, including links to applicable charters, please see the on-boarding guide referenced above or visit https://os-climate.org/governance//.
  - **Policies:** OS-Climate abides by all of the following Linux Foundation policies: https://www.linuxfoundation.org/policies/
- - **Code of Conduct:** all community members are expected to abide by the **LF Projects Code of Conduct**: https://lfprojects.org/policies/code-of-conduct/
- - **DCO:** all project contributors are expected to adhere to the **Linux Foundation DCO Policy**: https://wiki.linuxfoundation.org/dco  See our Contributions Guidelines for more information about DCO signoffs and fixing signoff failures:  https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/Contributing.md
+ - **Code of Conduct:** all community members are expected to abide by the [**LF Projects Code of Conduct**](https://lfprojects.org/policies/code-of-conduct/)
+ - **DCO:** all project contributors are expected to adhere to the [**Linux Foundation DCO Policy**](https://wiki.linuxfoundation.org/dco). See our Contributions Guidelines for more information about DCO signoffs and fixing signoff failures:  [Contribution Guidelines](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/Contributing.md)
 
 ## Licenses
 Unless otherwise specified in a given repository's LICENSE file: 
  - OS-Climate code is distributed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0).
  - OS-Climate data is distributed under CDLA, Version 2.0 (https://cdla.dev/permissive-2-0/).
 
-Please see OS-Climate Data Licensing Principles for more details: 
-https://docs.google.com/document/d/1RsX_v3joy0jidgs1-jOLjv5l0k8HfSX-BHZ3Qt6Kqvw/edit?usp=sharing
+Please see OS-Climate Data Licensing Principles for more details: [Licensing Info](https://docs.google.com/document/d/1RsX_v3joy0jidgs1-jOLjv5l0k8HfSX-BHZ3Qt6Kqvw/edit?usp=sharing)
 
