@@ -38,16 +38,23 @@
 ## Organizations as Members
  - Current members: https://os-climate.org/current-members/
  - Organizations interested in membership? Join Us: https://enrollment.lfx.linuxfoundation.org/?project=LFCF
- - Note: you or your organization does not need to be a member to contribute your skills, time, code, and/or data.
+ - **Please Note:** you/your organization does not need to be a member to contribute your skills, time, code, and/or data.
 
 ## Overview of OS-C's Projects/Workstreams
 Please review the FAQ (https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md) to obtain a grounding in OS-Climate's Data Commons and Analytics Tools.
 
- - Technical Overview:  https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf; https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf
+ - Technical Overviews:  
+   - Data Commons, Data Extraction/NLP, Physical Risk, & Portfolio Alignment/ITR:  https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf
+   - Transition Analysis: https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf
  - Data Commons Overview & Videos: https://os-climate.org/data-commons/
  - Data Commons Architecture:  https://github.com/os-climate/os_c_data_commons/blob/main/README.md
  - Physical Risk Overview & Videos:  https://os-climate.org/physical-risk-tool/
+   - New Model On-boarding Guide:  https://github.com/os-climate/physrisk/blob/main/docs/handbook/onboarding.rst
+   - Tool Demo:  https://osclimateorg.sharepoint.com/:v:/g/EWsSkNVFWm9NjTUAS5ljkucBMbVpePZm5r7rOdnIjK_JGg?e=tlLu8o
+   - Passwd for demo: osc-0510>>AH
  - Transition Analysis Overview & Videos:  https://os-climate.org/transition-tool/
+   - Tool Demo:  https://osclimateorg.sharepoint.com/:v:/g/ERMvxOio2HNCovLLJ-rqnxMBz0jHLgDIzCCZnmCXDLovoQ?e=MkLmPo
+   - Passwd for demo: osc-0412>>AH
  - Portfolio Alignment/ITR Overview & Videos: https://os-climate.org/itr-alignment-tool/
  - Data Extraction/AI Video:  https://vimeo.com/652668377
 
