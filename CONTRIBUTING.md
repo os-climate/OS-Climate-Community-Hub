@@ -36,6 +36,7 @@ If you run into any trouble, please reach out to us on the issue you are working
 To be provided
 
 ## Making your change
+Developers should use Github's Standard Fork and Pull Request process: https://gist.github.com/Chaser324/ce0505fbed06b947d962
 
 ### Code change guidelines
 
