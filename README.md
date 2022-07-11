@@ -13,7 +13,7 @@
  - Recordings of Prior Events: [Watch Events](https://os-climate.org/events/#watchevents)
  - Recordings of Prior Meetings: [View Meetings](https://osclimateorg.sharepoint.com/:x:/g/EYeq5o9996JNohc5Kq7E6YoBFvNZNkEL-C4WD8pbhOpRjQ?e=hjLi53)
  - Connect via Slack (os-climate.slack.com):  [Join Slack](https://join.slack.com/t/os-climate/shared_invite/zt-14d7z1q78-gf68YdWxcaDcB2gKnVJDvg)
- - Info on how to subscribe to OS-C's group e-mail lists: [Group Distro Lists](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/GROUPS.md)
+ - Info on how to subscribe to OS-C's group e-mail lists: [Group Distro Lists](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/GROUP-DISTROS.md)
 
 ## Overview of OS-C's Projects/Workstreams
 Please review the [FAQ](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md) to obtain a grounding in OS-Climate's Data Commons and Analytics Tools.
