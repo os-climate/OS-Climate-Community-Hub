@@ -68,7 +68,7 @@ Open an issue on the Community Hub for the following: [Open Issue](https://githu
 
 Need permissions to a particular repo and/or project? Please contact the appropriate admin listed here: [Admin List](https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties)
 
-Want more information on how to contribute code or data?  Please see [Contribution Guidelines](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/Contributing.md)
+Want more information on how to contribute code or data?  Please see [Contribution Guidelines](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/CONTRIBUTING.md)
 
 ### Workstream Project Boards
  - [Program Mgmt Office Project Board](https://github.com/orgs/os-climate/projects/5)
