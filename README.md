@@ -13,7 +13,7 @@
  - Recordings of Prior Events: [Watch Events](https://os-climate.org/events/#watchevents)
  - Recordings of Prior Meetings: [View Meetings](https://osclimateorg.sharepoint.com/:x:/g/EYeq5o9996JNohc5Kq7E6YoBFvNZNkEL-C4WD8pbhOpRjQ?e=hjLi53)
  - Connect via Slack (os-climate.slack.com):  [Join Slack](https://join.slack.com/t/os-climate/shared_invite/zt-14d7z1q78-gf68YdWxcaDcB2gKnVJDvg)
- - Info on how to subscribe to OS-C's group e-mail lists: [Group Distro Lists](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/GROUP-DISTROS.md)
+ - Info on how to subscribe to OS-C's group e-mail lists: [Group Distro Lists](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/GROUP-DISTROS.md) 
 
 ## Overview of OS-C's Projects/Workstreams
 Please review the [FAQ](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md) to obtain a grounding in OS-Climate's Data Commons and Analytics Tools.
@@ -23,7 +23,7 @@ Please review the [FAQ](https://github.com/os-climate/OS-Climate-Community-Hub/b
    - [Transition Analysis](https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf)
  - Data Commons Overview & Videos: https://os-climate.org/data-commons/
  - Data Commons Architecture: Managing Data as Code [Learn More](https://github.com/os-climate/os_c_data_commons/blob/main/README.md)
- - Physical Risk Overview & Videos:  https://os-climate.org/physical-risk-tool/
+ - Physical Risk & Resilience Overview & Videos:  https://os-climate.org/physical-risk-tool/
    - New Model On-boarding Guide: [View Handbook](https://github.com/os-climate/physrisk/blob/main/docs/handbook/onboarding.rst)
    - Tool Demo:  [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/EWsSkNVFWm9NjTUAS5ljkucBMbVpePZm5r7rOdnIjK_JGg?e=tlLu8o)
    - Passwd for demo: osc-0510>>AH
@@ -36,7 +36,7 @@ Please review the [FAQ](https://github.com/os-climate/OS-Climate-Community-Hub/b
 ### Repo and/or Project Access
 
 Open an issue on the Community Hub for the following: [Open Issue](https://github.com/os-climate/OS-Climate-Community-Hub/issues/new/choose)
- - Request credentials for an os-climate bucket
+ - Request credentials for an OS-Climate bucket
  - Request Onboarding to OSC Data Commons
  - Request memberships on OS-Climate github org and credentials for Trino
  - Report a security vulnerability
@@ -75,19 +75,6 @@ Want more information on how to contribute code or data?  Please see [Contributi
    3. Portfolio Alignment Charter: [View Charter](https://docs.google.com/document/d/1l5Sdz0YODYA8uLO4NHMykYLtOsUHl5nK/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
    4. Transition Analysis Charter: [View Charter](https://docs.google.com/document/d/1oApdAxwjM8_TCeHFgBE8GJp-JOeM6U21/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
 
-### Join an OS-Climate Group List
-You can now subscribe to OS-Climate group lists and receive the latest information on our various workstreams, including new data sources/datasets, software development activity, tool/model enhancements, weekly meeting invites, and summary notes.  The group lists also provide a vehicle for product, tech, and process discussions between members.  We encourage everyone to use these group lists when communicating, so we create a consistent, inclusive, and reliable method to engage members based on their area of focus and/or interest.
-
-These are OS-Climate's group lists, along with a brief description:
-
- - Developers@lists.os-climate.org:  Used to inform OS-C GitHub users (developers, prod mgrs, proj mgrs)  about key system enhancements, architecture changes, system maintenance, modified security/license processes, etc. To subscribe: Developers+subscribe@lists.os-climate.org
- - DataCommons@lists.os-climate.org:  Used to discuss work on the platform, including:  build out of architecture, data vault implementation, use of tech infrastructure (e.g. Trino), metadata, data lineage, data ingestion pipelines/processes, etc. To subscribe: DataCommons+subscribe@lists.os-climate.org
- - DataExtraction@lists.os-climate.org: Used to discuss work on the suite of tools used to extract data from non-standard formats(e.g. pdf reports) using NLP tools (ML and rules-based engines).  Also the forum to discuss corporate data collection and topics like counterparty data models. To subscribe: DataExtraction+subscribe@lists.os-climate.org
- - PhysicalRisk@lists.os-climate.org:  Used to discuss requirements, development, testing, and implementation of the Physical Risk tool - the hazard and vulnerability risk models, plug & play model functionality and methodology to assess asset impact, including data visualization and economic risk. To subscribe: PhysicalRisk+subscribe@lists.os-climate.org
- - PortfolioAlignment@lists.os-climate.org: Used to discuss requirements, development, testing, and implementation of the Implied Temperature Rise tool (ITR) along with other portfolio alignment tools - includes models, methodology, key data elements and visualization.To subscribe: PortfolioAlignment+subscribe@lists.os-climate.org
- - TransitionRisk@lists.os-climate.org:  Used to discuss requirements, development, testing, and implementation of the Transition Risk tool with a focus on energy and economic models using SOSTrades/Witness.  To subscribe: TransitionRisk+subscribe@lists.os-climate.org
- - EntityMatching@lists.os-climate.org:  Used to discuss requirements, development, and testing to link key datasets to financial entities and regulatory standards, includes GLEIF, LEI, etc. To subscribe: EntityMatching+subscribe@lists.os-climate.org
-
 ## Data Sources
 ### Need More Data?
 Data Commons enables federation with external data sources as well as ingestion/storage of data within the Data Commons.  To request data, please create an issue under the Data-Requests repo: 
@@ -116,7 +103,6 @@ Data Commons enables federation with external data sources as well as ingestion/
 18.  COMING SOON: OECM 20220504 Benchmark Data (Global, European, North American for 12 sectors: Fisheries, Agriculture, Forestry, Chemicals, Textiles, Aluminum, Steel, Cement, Buildings, Energy, Utilities, Transportation)
 
 ## Security, Legal & Governance
-
 OS-Climate is part of The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a registered trademark of Linus Torvalds. Privacy Policy (https://linuxfoundation.org/privacy-policy/) and Terms of Use (https://linuxfoundation.org/terms/).
 
  - **To report a Security concern and/or incident, please send an email to:** security@os-climate.org
