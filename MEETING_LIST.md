@@ -7,14 +7,24 @@ Group E-mail Distro: Main@lists.os-climate.org
 
 Team Slack Channel: os-climate.slack.com#general
 
-### Physical Risk - Lead: Matt Sandoe
+### Community Outreach - Lead: Heather Ackenhusen
+Learn more about OS-Climate and/or how you can contribute:  Bi-weekly Tuesdays 9:30 am - 10:00 am ET
+
+### Technical Support & Office Hours - Lead:  Erik Erlandson
+Get technical questions answered and/or learn more from our developer/engineering community: Every Tues & Thurs at 10:00 am ET
+
+Group E-mail Distro: Developers@lists.os-climate.org
+
+Team Slack Channel: os-climate.slack.com#developers
+
+### Physical Risk & Resilience - Lead: Matt Sandoe
 Team Meeting:  Thursdays 11:30 am - 12:30 pm ET
 
 Group E-mail Distro: PhysicalRisk@lists.os-climate.org
 
 Team Slack Channel: os-climate.slack.com#phys-risk
 
-### Portfolio Alignment/ITR - Lead: Leyla Javadova
+### Portfolio Alignment/ITR (Implied Temperature Rise) - Lead: Leyla Javadova
 Team Meeting:  Mondays 10:00 am - 10:30 am ET
 
 Group E-mail Distro: PortfolioAlignment@lists.os-climate.org
