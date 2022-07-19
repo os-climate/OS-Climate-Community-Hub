@@ -17,24 +17,72 @@
 
 ## Overview of OS-C's Projects/Workstreams
 Please review the [FAQ](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md) to obtain a grounding in OS-Climate's Data Commons and Analytics Tools.
-
  - Technical Overviews:  
    - [Data Commons, Data Extraction/NLP, Physical Risk, & Portfolio Alignment/ITR](https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf)
    - [Transition Analysis](https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf)
- - Data Commons Overview & Videos: https://os-climate.org/data-commons/
- - Data Commons Architecture: Managing Data as Code [Learn More](https://github.com/os-climate/os_c_data_commons/blob/main/README.md)
- - Physical Risk & Resilience Overview & Videos:  https://os-climate.org/physical-risk-tool/
+ - **Data Commons** 
+   - Overview & Videos: https://os-climate.org/data-commons/
+   - Data Commons Architecture: Managing Data as Code [Learn More](https://github.com/os-climate/os_c_data_commons/blob/main/README.md)
+   - [Data Commons Project Board](https://github.com/orgs/os-climate/projects/7)
+   - [Red Hat Subproject Board](https://github.com/orgs/os-climate/projects/4)
+   - Related Repos: 
+     - [Data Platform Demo](https://github.com/os-climate/data-platform-demo)
+     - [OS-C Data Commons](https://github.com/os-climate/os_c_data_commons)
+     - [Trino ACL DSL](https://github.com/os-climate/osc-trino-acl-dsl)
+     - [Pachyderm Notebook Image](https://github.com/os-climate/pachyderm-notebook-image)
+     - [Trinto Github Group Provider](https://github.com/os-climate/trino-github-group-provider)
+     - [Elyra Plotly Notebook](https://github.com/os-climate/elyra-plotly-notebook)
+ - **Physical Risk & Resilience**
+   - Overview & Videos:  https://os-climate.org/physical-risk-tool/
    - New Model On-boarding Guide: [View Handbook](https://github.com/os-climate/physrisk/blob/main/docs/handbook/onboarding.rst)
    - Tool Demo:  [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/EWsSkNVFWm9NjTUAS5ljkucBMbVpePZm5r7rOdnIjK_JGg?e=tlLu8o)
-   - Passwd for demo: osc-0510>>AH
- - Transition Analysis Overview & Videos:  https://os-climate.org/transition-tool/
+     - Passwd for demo: osc-0510>>AH
+   - [Physical Risk & Resilience Project Board](https://github.com/orgs/os-climate/projects/6)
+   - Related Repos:
+     - [Physical Risk Modeling](https://github.com/os-climate/physrisk)
+     - [Physical Risk API](https://github.com/os-climate/physrisk-api)
+     - [Physical Riks UI](https://github.com/os-climate/physrisk-ui)
+     - [WRI GPPD Ingestion Pipeline](https://github.com/os-climate/wri-gppd-ingestion-pipeline)
+     - [Physical Risk Data Pipeline](https://github.com/os-climate/physical_risk_data_pipeline)
+ - **Transition Analysis**
+   - Overview & Videos:  https://os-climate.org/transition-tool/
    - Tool Demo:  [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/ERMvxOio2HNCovLLJ-rqnxMBz0jHLgDIzCCZnmCXDLovoQ?e=MkLmPo)
-   - Passwd for demo: osc-0412>>AH
- - Portfolio Alignment/ITR Overview & Videos: https://os-climate.org/itr-alignment-tool/
- - Data Extraction/AI Overview:  [Watch Video](https://vimeo.com/652668377)
-
-### Repo and/or Project Access
-
+     - Passwd for demo: osc-0412>>AH
+   - Related Repos:
+     - [WITNESS Core](https://github.com/os-climate/witness-core)
+     - [WITNESS Energy](https://github.com/os-climate/witness-energy)
+     - [SOSTrades Web GUI](https://github.com/os-climate/sostrades-webgui)
+     - [SOSTrades Web API](https://github.com/os-climate/sostrades-webapi)
+     - [SOSTrades Web Core](https://github.com/os-climate/sostrades-core)
+     - [SOSTrades Web Auth API](https://github.com/os-climate/sostrades-authapi)
+     - [SOSTrades Ontology](https://github.com/os-climate/sostrades-ontology)
+ - **Portfolio Alignment/Implied Temperature Rise**
+   - Overview & Videos: https://os-climate.org/itr-alignment-tool/
+   - [Portfolio Alignment/ITR Project Board](https://github.com/orgs/os-climate/projects/3)
+   - Related Repos:
+     - [ITR Tool](https://github.com/os-climate/ITR)
+     - [ITR API](https://github.com/os-climate/ITR_api)
+     - [ITR Data Pipeline](https://github.com/os-climate/itr-data-pipeline)
+ - **Data Extraction/AI Overview [Private repos until 4Q2022]**  
+   - [Watch Video](https://vimeo.com/652668377)
+   - Data Extraction/AI (ML and rules-based engines using NLP) [Project Board 1](https://github.com/os-climate/corporate_data_pipeline/projects/1) [Project Board 2](https://github.com/os-climate/corporate_data_pipeline/projects/2)
+   - Related Repos:
+     - [Machine Learning & Rules-based Data Extraction Engines](https://github.com/os-climate/corporate_data_pipeline)
+     - [Corp Data Pipeline](https://github.com/os-climate/corporate-data-pipeline-notebook)
+     - [ML Processing Performance](https://github.com/os-climate/neural-magic-notebook)
+ - **Corporate Heirarchy Tool - Entity Matching/GLEIF**  
+   - [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/EWLsGwMLaflEsDZgQYm3-fEBftkOuXRAFT7GQM5MXyYMPg?e=qCB09H)
+   - Related Repos:
+      - [ESG Matching](https://github.com/os-climate/esg-matching)
+      - [Financial Entity Cleaner](https://github.com/os-climate/financial-entity-cleaner)
+      - [ESG Matching Pipeline](https://github.com/os-climate/esg-matching-pipeline)
+      - [GLEIF Data Pipeline](https://github.com/os-climate/gleif-data-pipeline)
+- **PCAF Sovereign Footprint Calculations (Private repos until Aug 2022)**
+   - Overview: To be provided
+   - Related Repos:
+     - [Calculation Engine](https://github.com/os-climate/PCAF-sovereign-footprint)
+   
+### Access to Repos and/or Projects
 Open an issue on the Community Hub for the following: [Open Issue](https://github.com/os-climate/OS-Climate-Community-Hub/issues/new/choose)
  - Request credentials for an OS-Climate bucket
  - Request Onboarding to OSC Data Commons
@@ -45,14 +93,51 @@ Need permissions to a particular repo and/or project? Please contact the appropr
 
 Want more information on how to contribute code or data?  Please see [Contribution Guidelines](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/CONTRIBUTING.md)
 
-### Workstream Project Boards
+### Other Project Boards
  - [Program Mgmt Office Project Board](https://github.com/orgs/os-climate/projects/5)
- - [Data Commons Project Board](https://github.com/orgs/os-climate/projects/7)
- - [Physical Risk & Resilience Project Board](https://github.com/orgs/os-climate/projects/6)
- - [Portfolio Alignment/ITR Project Board](https://github.com/orgs/os-climate/projects/3) 
- - [Red Hat Subproject Board](https://github.com/orgs/os-climate/projects/4)
- - Data Extraction/AI (ML and rules-based engines using NLP) [Project Board 1](https://github.com/os-climate/corporate_data_pipeline/projects/1) [Project Board 2](https://github.com/os-climate/corporate_data_pipeline/projects/2)
- - [Operate First OSC Project Board](https://github.com/orgs/operate-first/projects/57/views/5)
+ - We use Red Hat's Operate First Best Practices
+   - [Operate First Project Board](https://github.com/orgs/operate-first/projects/57/views/5)
+   - Related Repos:
+     - [Explore Operate First Concepts](https://github.com/os-climate/aicoe-osc-demo)
+     - [Operate First Pipeline Demo](https://github.com/os-climate/op1st-pipeline-demo)
+
+## Data Sources
+### Need More Data?
+Data Commons enables federation with external data sources as well as ingestion/storage of data within the Data Commons.  To request data, please create an issue under the Data-Requests repo: 
+ - [Dataset Request](https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=dataset-request.md&title=%5BData+Request%5D+)
+ - [Dataset Request (spreadsheet specific)](https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=data-from-spreadsheet.md&title=%5BData+from+Spreadsheet+Request%5D+)
+
+### Example Public Datasets Available (by 3Q22, we expect to provide more than 17,500 datasets)
+1.  GLEIF LEI Level 1 and 2 (2M+ LEI "who is who" and nearly 1M "who owns whom" records)
+2.  LEI-ISIN mappings (6M+ ISINs for stocks and bonds)
+3.  EPA GHGRP (10 years of "large emitter" data)
+4.  SEC DERA (2018-2021 SEC 10-K, 20-F, and 40-F reports)
+5.  RMI Utilities Data (2000-2020 detailed emissions, generation, targets, fuel types, ownership, etc)
+6.  WRI Global Power Plant Data (2013-2020 summary emissions, generation, fuel type, etc)
+7.  US Census (2017 All-Sector survey)
+8.  ESSD (Earth System Science Dataset 1970-2018 global emissions by country, gas, sector)
+9.  SFI (Spatial Finance Initiative) Steel and Cement plant location, capacity, and ownership data
+10.  PUDL: US-based utilities based on FERC, EIA, and EPA CEMS datasets
+11.  EDGAR 6.0 Environmental Data
+12.  UNFCCC
+13.  World Bank GDP
+14.  S&P Global - ~8500 Corporate ESG/Sustainability reports (~75k anticipated by early 3Q22)
+15.  WRI Aqueduct Flood dataset (raster data and ZARR format)
+16.  WorldClim Historic climate data (26 metrics at 10-minute and 30-second spatial resolution, geoTIFF)
+17.  NAICS/ISIC/SIC code concordance table data
+18.  COMING SOON: OECM 20220504 Benchmark Data (Global, European, North American for 12 sectors: Fisheries, Agriculture, Forestry, Chemicals, Textiles, Aluminum, Steel, Cement, Buildings, Energy, Utilities, Transportation)
+
+### Data Ingestion Pipelines/Repos
+  - [Standardized Data Ingestion Workflow Tool](https://github.com/os-climate/osc-ingest-tools)
+  - [US_CENSUS-ingest-pipline](https://github.com/os-climate/US_CENSUS-ingest-pipline)
+  - [DERA-ingest-pipeline](https://github.com/os-climate/DERA-ingest-pipeline)
+  - [EPA_FRS-ingest-pipeline](https://github.com/os-climate/EPA_FRS-ingest-pipeline)
+  - [SFI_GeoAsset](https://github.com/os-climate/SFI_GeoAsset)
+  - [EPA_GHGRP-ingest-pipeline](https://github.com/os-climate/EPA_GHGRP-ingest-pipeline)
+  - [RMI-Utility-Transition-Hub-ingestion-pipeline](https://github.com/os-climate/rmi-utility-transition-hub-ingestion-pipeline)
+  - [ESSD-ingest-pipeline](https://github.com/os-climate/essd-ingest-pipeline)
+  - [ISO-3166-ingest](https://github.com/os-climate/iso3166-ingest)
+  - [OS-C-ESG-Spreadsheets-ingest](https://github.com/os-climate/osc-ingest-esg-spreadsheets)
 
 ## Member Organizations
  - Current members: [View List](https://os-climate.org/current-members/)
@@ -74,33 +159,6 @@ Want more information on how to contribute code or data?  Please see [Contributi
    2. Physical Risk & Resilience Charter: [View Charter](https://docs.google.com/document/d/1TiHw4KL2sQIdUsvkKq0Eg-ju5T681nQC/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
    3. Portfolio Alignment Charter: [View Charter](https://docs.google.com/document/d/1l5Sdz0YODYA8uLO4NHMykYLtOsUHl5nK/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
    4. Transition Analysis Charter: [View Charter](https://docs.google.com/document/d/1oApdAxwjM8_TCeHFgBE8GJp-JOeM6U21/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
-
-## Data Sources
-### Need More Data?
-Data Commons enables federation with external data sources as well as ingestion/storage of data within the Data Commons.  To request data, please create an issue under the Data-Requests repo: 
- - [Dataset Request](https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=dataset-request.md&title=%5BData+Request%5D+)
- - [Dataset Request (spreadsheet specific)](https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=data-from-spreadsheet.md&title=%5BData+from+Spreadsheet+Request%5D+)
- 
-### Example Public Datasets Available (by 3Q22, we expect to provide more than 17,500 datasets)
-
-1.  GLEIF LEI Level 1 and 2 (2M+ LEI "who is who" and nearly 1M "who owns whom" records)
-2.  LEI-ISIN mappings (6M+ ISINs for stocks and bonds)
-3.  EPA GHGRP (10 years of "large emitter" data)
-4.  SEC DERA (2018-2021 SEC 10-K, 20-F, and 40-F reports)
-5.  RMI Utilities Data (2000-2020 detailed emissions, generation, targets, fuel types, ownership, etc)
-6.  WRI Global Power Plant Data (2013-2020 summary emissions, generation, fuel type, etc)
-7.  US Census (2017 All-Sector survey)
-8.  ESSD (Earth System Science Dataset 1970-2018 global emissions by country, gas, sector)
-9.  SFI (Spatial Finance Initiative) Steel and Cement plant location, capacity, and ownership data
-10.  PUDL: US-based utilities based on FERC, EIA, and EPA CEMS datasets
-11.  EDGAR 6.0 Environmental Data
-12.  UNFCCC
-13.  World Bank GDP
-14.  S&P Global - ~8500 Corporate ESG/Sustainability reports (~75k anticipated by early 3Q22)
-15.  WRI Aqueduct Flood dataset (raster data and ZARR format)
-16.  WorldClim Historic climate data (26 metrics at 10-minute and 30-second spatial resolution, geoTIFF)
-17.  NAICS/ISIC/SIC code concordance table data
-18.  COMING SOON: OECM 20220504 Benchmark Data (Global, European, North American for 12 sectors: Fisheries, Agriculture, Forestry, Chemicals, Textiles, Aluminum, Steel, Cement, Buildings, Energy, Utilities, Transportation)
 
 ## Security, Legal & Governance
 OS-Climate is part of The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a registered trademark of Linus Torvalds. Privacy Policy (https://linuxfoundation.org/privacy-policy/) and Terms of Use (https://linuxfoundation.org/terms/).
