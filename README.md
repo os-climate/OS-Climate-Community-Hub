@@ -3,6 +3,7 @@
 
 ## Community Resources & General OS-Climate Information
  - **Getting Started, On-boarding Guide:** [Link to Guide](https://docs.google.com/presentation/d/1-rH1l4NbiDwSv5pq21ud82OAsBzuvffMgchX2LbNM7g/edit?usp=sharing)
+   - You can also attend an on-boarding session. Held bi-weekly on Tuesdays @ 9:30 am. Please see Community Calendar below.
  - *OS-Climate website:* https://os-climate.org/
  - *OS-Climate 101:* [Watch Video](https://vimeo.com/645351364)
  - **Have technical questions or want to learn more from our developer/engineering community?** Come to our Data Commons Office Hours! Every Tues & Thurs at 10:00AM ET  [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
@@ -10,6 +11,7 @@
 **Join one of our meetings! Subscribe to a group list! Connect over Slack!**
 
  - Community Calendar (Meetings & Events): [Link to Calendar](https://west.exch092.serverdata.net/owa/calendar/f55f275b1e724cc49b5a52f50c30a11f@os-climate.org/022d1c0017744eebbf9f14f737493bd67046415453482209411/calendar.html)
+   - [List](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md) of OS-Climate's Recurring Meetings (community-wide and project specific)
  - Recordings of Prior Events: [Watch Events](https://os-climate.org/events/#watchevents)
  - Recordings of Prior Meetings: [View Meetings](https://osclimateorg.sharepoint.com/:x:/g/EYeq5o9996JNohc5Kq7E6YoBFvNZNkEL-C4WD8pbhOpRjQ?e=hjLi53)
  - Connect via Slack (os-climate.slack.com):  [Join Slack](https://join.slack.com/t/os-climate/shared_invite/zt-14d7z1q78-gf68YdWxcaDcB2gKnVJDvg)
@@ -59,7 +61,8 @@ Please review the [FAQ](https://github.com/os-climate/OS-Climate-Community-Hub/b
  - **Portfolio Alignment/Implied Temperature Rise**
    - Overview & Videos: https://os-climate.org/itr-alignment-tool/
    - [Portfolio Alignment/ITR Project Board](https://github.com/orgs/os-climate/projects/3)
-   - Related Repos:
+   - Related Documentation & Repos:
+     - [ITR Documentation](https://osclimateorg.sharepoint.com/:b:/g/EUf4YGdngpRIs6pfzaLSKIcBqUXqtKQiAHbp0Y-G_P8aAA?e=NB4UPP)
      - [ITR Tool](https://github.com/os-climate/ITR)
      - [ITR API](https://github.com/os-climate/ITR_api)
      - [ITR Data Pipeline](https://github.com/os-climate/itr-data-pipeline)
