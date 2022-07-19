@@ -81,7 +81,7 @@
       - [ESG Matching Pipeline](https://github.com/os-climate/esg-matching-pipeline)
       - [GLEIF Data Pipeline](https://github.com/os-climate/gleif-data-pipeline)
 - **PCAF Sovereign Footprint Calculations (Private repos until Aug 2022)**
-   - Overview: To be provided
+   - [Overview](https://osclimateorg.sharepoint.com/:b:/g/EdRTUaCr5qtOsZWQ0fNqs4cBmBrWHKoxcr2xTNS4S54YDg?e=A3pHXc)
    - Related Repos:
      - [Calculation Engine](https://github.com/os-climate/PCAF-sovereign-footprint)
    
