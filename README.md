@@ -18,8 +18,8 @@
  - Info on how to subscribe to OS-C's group e-mail lists: [Group Distro Lists](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/GROUP-DISTROS.md) 
 
 ## Overview of OS-C's Projects/Workstreams
-Please review the [FAQ](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md) to obtain a grounding in OS-Climate's Data Commons and Analytics Tools.
- - Technical Overviews:  
+**Please review the [FAQ](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md)** to obtain a grounding in OS-Climate's Data Commons and Analytics Tools.
+ - **Technical Overviews**  
    - [Data Commons, Data Extraction/NLP, Physical Risk, & Portfolio Alignment/ITR](https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf)
    - [Transition Analysis](https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf)
  - **Data Commons** 
