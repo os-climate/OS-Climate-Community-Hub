@@ -36,6 +36,7 @@
      - [Elyra Plotly Notebook](https://github.com/os-climate/elyra-plotly-notebook)
  - **Physical Risk & Resilience**
    - Overview & Videos:  https://os-climate.org/physical-risk-tool/
+   - [Learn More](https://osclimateorg.sharepoint.com/:w:/g/EfOnEcB0mcFCv2Plxeziy8kBUkCRrS6hug630E8S9wjipA?e=qkT1Gr)
    - New Model On-boarding Guide: [View Handbook](https://github.com/os-climate/physrisk/blob/main/docs/handbook/onboarding.rst)
    - Tool Demo:  [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/EWsSkNVFWm9NjTUAS5ljkucBMbVpePZm5r7rOdnIjK_JGg?e=tlLu8o)
      - Passwd for demo: osc-0510>>AH
@@ -48,6 +49,7 @@
      - [Physical Risk Data Pipeline](https://github.com/os-climate/physical_risk_data_pipeline)
  - **Transition Analysis**
    - Overview & Videos:  https://os-climate.org/transition-tool/
+   - [Learn More](https://osclimateorg.sharepoint.com/:w:/g/EesnNrUB1aFDhQzU7sBg0I0Bh3TDb12Eetkp4TDamipiKQ?e=snOYG4)
    - Tool Demo:  [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/ERMvxOio2HNCovLLJ-rqnxMBz0jHLgDIzCCZnmCXDLovoQ?e=MkLmPo)
      - Passwd for demo: osc-0412>>AH
    - Related Repos:
@@ -60,9 +62,10 @@
      - [SOSTrades Ontology](https://github.com/os-climate/sostrades-ontology)
  - **Portfolio Alignment/Implied Temperature Rise**
    - Overview & Videos: https://os-climate.org/itr-alignment-tool/
+   - [Learn More](https://osclimateorg.sharepoint.com/:w:/g/Eeq8F0bsE81KhsCCeQrBifQBDeM0DetumkkeHgHnQ0lZLA?e=YihlcA)
    - [Portfolio Alignment/ITR Project Board](https://github.com/orgs/os-climate/projects/3)
    - Related Documentation & Repos:
-     - [ITR Documentation](https://osclimateorg.sharepoint.com/:b:/g/EUf4YGdngpRIs6pfzaLSKIcBqUXqtKQiAHbp0Y-G_P8aAA?e=NB4UPP)
+     - [ITR Methodology Documentation](https://osclimateorg.sharepoint.com/:b:/g/EUf4YGdngpRIs6pfzaLSKIcBqUXqtKQiAHbp0Y-G_P8aAA?e=NB4UPP)
      - [ITR Tool](https://github.com/os-climate/ITR)
      - [ITR API](https://github.com/os-climate/ITR_api)
      - [ITR Data Pipeline](https://github.com/os-climate/itr-data-pipeline)
