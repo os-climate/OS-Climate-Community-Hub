@@ -52,6 +52,7 @@
    - [Learn More](https://osclimateorg.sharepoint.com/:w:/g/EesnNrUB1aFDhQzU7sBg0I0Bh3TDb12Eetkp4TDamipiKQ?e=snOYG4)
    - Tool Demo:  [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/ERMvxOio2HNCovLLJ-rqnxMBz0jHLgDIzCCZnmCXDLovoQ?e=MkLmPo)
      - Passwd for demo: osc-0412>>AH
+   - [Access SOSTrades](https://frontend-sostrades-namespace.apps.odh-cl1.apps.os-climate.org/)
    - Related Repos:
      - [WITNESS Core](https://github.com/os-climate/witness-core)
      - [WITNESS Energy](https://github.com/os-climate/witness-energy)
