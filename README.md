@@ -28,6 +28,7 @@
    - [Data Commons Project Board](https://github.com/orgs/os-climate/projects/7)
    - [Red Hat Subproject Board](https://github.com/orgs/os-climate/projects/4)
    - Related Repos: 
+     - [Data Commons Developers Guide](https://github.com/os-climate/os_c_data_commons/blob/main/os-c-data-commons-developer-guide.md)
      - [Data Platform Demo](https://github.com/os-climate/data-platform-demo)
      - [OS-C Data Commons](https://github.com/os-climate/os_c_data_commons)
      - [Trino ACL DSL](https://github.com/os-climate/osc-trino-acl-dsl)
@@ -37,11 +38,11 @@
  - **Physical Risk & Resilience**
    - Overview & Videos:  https://os-climate.org/physical-risk-tool/
    - [Learn More](https://osclimateorg.sharepoint.com/:w:/g/EfOnEcB0mcFCv2Plxeziy8kBUkCRrS6hug630E8S9wjipA?e=qkT1Gr)
-   - New Model On-boarding Guide: [View Handbook](https://github.com/os-climate/physrisk/blob/main/docs/handbook/onboarding.rst)
    - Tool Demo:  [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/EWsSkNVFWm9NjTUAS5ljkucBMbVpePZm5r7rOdnIjK_JGg?e=tlLu8o)
      - Passwd for demo: osc-0510>>AH
    - [Physical Risk & Resilience Project Board](https://github.com/orgs/os-climate/projects/6)
    - Related Repos:
+     - On-boarding New Models: [View Handbook](https://github.com/os-climate/physrisk/blob/main/docs/handbook/onboarding.rst)
      - [Physical Risk Modeling](https://github.com/os-climate/physrisk)
      - [Physical Risk API](https://github.com/os-climate/physrisk-api)
      - [Physical Riks UI](https://github.com/os-climate/physrisk-ui)
