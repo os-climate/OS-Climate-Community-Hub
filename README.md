@@ -25,6 +25,7 @@
  - **Data Commons** 
    - Overview & Videos: https://os-climate.org/data-commons/
    - Data Commons Architecture: Managing Data as Code [Learn More](https://github.com/os-climate/os_c_data_commons/blob/main/README.md)
+     - [Scaling the Open Source Climate Community](https://pretalx.com/bbuzz22/talk/JNJTHF/) Video featuring OS-C's software, data science, platforms, and community architecture (note: specifics about OS-C infrastructure starts at ~11 minute mark).
    - [Data Commons Project Board](https://github.com/orgs/os-climate/projects/7)
    - [Red Hat Subproject Board](https://github.com/orgs/os-climate/projects/4)
    - Related Repos: 
@@ -72,7 +73,8 @@
      - [ITR API](https://github.com/os-climate/ITR_api)
      - [ITR Data Pipeline](https://github.com/os-climate/itr-data-pipeline)
  - **Data Extraction/AI Overview [Private repos until 4Q2022]**  
-   - [Watch Video](https://vimeo.com/652668377)
+   - [Introductory Video](https://vimeo.com/652668377)
+   - Overview of the rules-based and ML-based data extraction engines along with code repositories: [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/ESYHyqXkuURAqB9Mt1xBUTcBFS9kpKN-hmBuJL_DN5JnLQ?e=f87G2J)
    - Data Extraction/AI (ML and rules-based engines using NLP) [Project Board 1](https://github.com/os-climate/corporate_data_pipeline/projects/1) [Project Board 2](https://github.com/os-climate/corporate_data_pipeline/projects/2)
    - Related Repos:
      - [Machine Learning & Rules-based Data Extraction Engines](https://github.com/os-climate/corporate_data_pipeline)
