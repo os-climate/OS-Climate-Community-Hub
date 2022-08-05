@@ -116,6 +116,9 @@ Want more information on how to contribute code or data?  Please see [Contributi
      - [Operate First Pipeline Demo](https://github.com/os-climate/op1st-pipeline-demo)
 
 ## Data Sources
+### Browse OS-C Data Sources Using Open MetaData
+Under Construction: [Open MetaData SignIn](https://openmetadata-openmetadata.apps.odh-cl2.apps.os-climate.org/signin)
+
 ### Need More Data?
 Data Commons enables federation with external data sources as well as ingestion/storage of data within the Data Commons.  To request data, please create an issue under the Data-Requests repo: 
  - [Dataset Request](https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=dataset-request.md&title=%5BData+Request%5D+)
