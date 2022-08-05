@@ -98,6 +98,10 @@ Open an issue on the Community Hub for the following: [Open Issue](https://githu
  - Request Onboarding to OSC Data Commons
  - Request memberships on OS-Climate github org and credentials for Trino
  - Report a security vulnerability
+ 
+Sample file to establish credentials/set up your [environment](https://github.com/os-climate/os_c_data_commons/blob/main/docs/credentials.env)
+
+Click here for your JWT [Token](https://das-odh-trino.apps.odh-cl2.apps.os-climate.org)
 
 Need permissions to a particular repo and/or project? Please contact the appropriate admin listed here: [Admin List](https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties)
 
