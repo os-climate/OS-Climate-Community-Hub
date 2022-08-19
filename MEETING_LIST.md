@@ -58,3 +58,7 @@ Team Meeting:  Bi-Weekly on Thursdays 11:00 am - 11:30 am ET
 Group E-mail Distro: EntityMatching@lists.os-climate.org
 
 Team Slack Channel: os-climate.slack.com#entity-matching
+
+### Data Governance & Management
+Team Meeting:  Bi-Weekly on Thursdays 9:30 am - 10:00 am ET
+Contact: hackenhusen@os-climate.org to be added to the distro
