@@ -1,7 +1,7 @@
 # Contributing to OS-Climate
 **Thank You for Contributing to OS-Climate!**
 
-**This guide explains how to:** 
+**This guide explains how to:**
 
 * Ensure your changes are accepted
 * Work on the OS-Climate code base and/or contribute data
@@ -43,7 +43,7 @@ Developers should use Github's Standard Fork and Pull Request process: https://g
 All code contributions should contain the following:
 
 * Create unit tests using XXX for new classes or methods that you introduce.
-* Create integration tests that exercise a build for the bug/feature. 
+* Create integration tests that exercise a build for the bug/feature.
 * Annotate tests that correspond to a bug on GitHub.
 * Add documentation to the appropriate Docs folder
 * For new features, the feature should be mentioned in the [Release Notes](to be provided).
@@ -57,13 +57,40 @@ The commit messages that accompany your code changes are an important piece of d
 * Keep commits discrete. Avoid including multiple unrelated changes in a single commit.
 * Keep commits self-contained. Avoid spreading a single change across multiple commits. A single commit should make sense in isolation.
 
+#### Code Commit Process
+
+1. Add file(s) you've changed to your commit.
+```
+~/git/OS-Climate-Community-Hub$ git add CONTRIBUTING.md
+```
+2. Commit with `-s` flag to add DCO. `-S` flag can also be used to add GPG signature,
+if it is set up in your local Git config.
+```
+~/git/OS-Climate-Community-Hub$ git commit -sS
+[improve-commit-info 5524747] Add details on making commits and DCO
+ 1 file changed, 15 insertions(+), 4 deletions(-)
+```
+3. If you forget to include the DCO in your commit (or use an external program,
+such as an IDE plugin that doesn't support DCO), it can be amended from the command
+line:
+```
+~/git/OS-Climate-Community-Hub$ git commit --amend -sS --no-edit
+```
+If you are amending a signed commit, be sure to include the `-S` flag again to sign
+the amended commit.
+
+4. Push your change to your fork.
+```
+~/git/OS-Climate-Community-Hub$ git push --upstream my-remote my-feature-branch
+```
+
 ### Testing changes
 
 After making changes, you can test your code:
 
 1. Run tests (steps to be provided)
 
-2. Install locally and try out a change in behavior manually (steps to be provided. 
+2. Install locally and try out a change in behavior manually (steps to be provided.
 
 Run XXX before submitting your change because this will help catch code style issues.
 
@@ -106,4 +133,3 @@ There are a number of great tools out there to manage DCO signoffs for developer
 ## Our thanks
 
 We deeply appreciate your effort toward improving OS-Climate! You work is vital towards overcoming data & analytics barriers which block investments needed to meet Paris Climate Accord goals! For any contribution, large or small, you will be immortalized in the release notes for the version you've contributed to.
-
