@@ -20,6 +20,7 @@
 ## Overview of OS-C's Projects/Workstreams
 **Please review the [FAQ](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md)** to obtain a grounding in OS-Climate's Data Commons and Analytics Tools.
  - **Technical Overviews**  
+   - [Development and Coding Best Practices](https://github.com/AICoE/workshop-coding-best-practices#workshop-development-and-coding-standards)
    - [Data Commons, Data Extraction/NLP, Physical Risk, & Portfolio Alignment/ITR](https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf)
    - [Transition Analysis](https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf)
  - **Data Commons** 
