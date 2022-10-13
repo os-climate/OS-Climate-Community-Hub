@@ -42,7 +42,7 @@ In terms of Data content (availability), we have loaded several types of sources
 
 ● Data licensed by Members to OS Climate Community for permissive uses
  - Jupiter Intelligence Global Climate hazards (30km resolution, 6 hazards, 5 timeframes, 2 scenarios)
- - S&P Global - ~8,500 Corporate ESG/Sustainability reports (~75,000 anticipated in 2Q22)
+ - S&P Global - ~75,000 Corporate ESG/Sustainability reports
  - RiskThinking.ai:
   1. 13352 datasets are scenario related (primarily NGFS projections, CMIP6, and SSP) such as solar electric capacity, CO2 emission, agricultural waste, peat burning, secondary energy.
   2. 3725 datasets are climate data sets (e.g., max temp, days of ice, frost days)
