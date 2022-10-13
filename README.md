@@ -55,7 +55,7 @@
    - [Learn More](https://osclimateorg.sharepoint.com/:w:/g/EesnNrUB1aFDhQzU7sBg0I0Bh3TDb12Eetkp4TDamipiKQ?e=snOYG4)
    - Tool Demo:  [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/ERMvxOio2HNCovLLJ-rqnxMBz0jHLgDIzCCZnmCXDLovoQ?e=MkLmPo)
      - Passwd for demo: osc-0412>>AH
-   - [Access SOSTrades](https://frontend-sostrades-namespace.apps.odh-cl1.apps.os-climate.org/)
+   - [Access SOSTrades](https://frontend-sostrades.apps.odh-cl2.apps.os-climate.org/)
    - Related Repos:
      - [WITNESS Core](https://github.com/os-climate/witness-core)
      - [WITNESS Energy](https://github.com/os-climate/witness-energy)
@@ -125,7 +125,7 @@ Data Commons enables federation with external data sources as well as ingestion/
  - [Dataset Request](https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=dataset-request.md&title=%5BData+Request%5D+)
  - [Dataset Request (spreadsheet specific)](https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=data-from-spreadsheet.md&title=%5BData+from+Spreadsheet+Request%5D+)
 
-### Example Public Datasets Available (by 3Q22, we expect to provide more than 17,500 datasets)
+### Example Public Datasets Available (by 4Q22, we expect to provide more than 17,500 datasets)
 1.  GLEIF LEI Level 1 and 2 (2M+ LEI "who is who" and nearly 1M "who owns whom" records)
 2.  LEI-ISIN mappings (6M+ ISINs for stocks and bonds)
 3.  EPA GHGRP (10 years of "large emitter" data)
@@ -139,7 +139,7 @@ Data Commons enables federation with external data sources as well as ingestion/
 11.  EDGAR 6.0 Environmental Data
 12.  UNFCCC
 13.  World Bank GDP
-14.  S&P Global - ~8500 Corporate ESG/Sustainability reports (~75k anticipated by early 3Q22)
+14.  S&P Global - ~75,000 Corporate ESG/Sustainability reports
 15.  WRI Aqueduct Flood dataset (raster data and ZARR format)
 16.  WorldClim Historic climate data (26 metrics at 10-minute and 30-second spatial resolution, geoTIFF)
 17.  NAICS/ISIC/SIC code concordance table data
