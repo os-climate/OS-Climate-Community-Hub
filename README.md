@@ -1,6 +1,8 @@
 # START HERE:  OS-Climate Community Hub
 **OS-Climate Community &amp; Project Collaboration Space**
 
+**OS-Climate Intro:** [Watch Video (1 min)](https://youtu.be/mi1zbyAV14I)
+
 ## Community Resources & General OS-Climate Information
  - **Getting Started, On-boarding Guide:** [Link to Guide](https://docs.google.com/presentation/d/1-rH1l4NbiDwSv5pq21ud82OAsBzuvffMgchX2LbNM7g/edit?usp=sharing)
    - You can also attend an on-boarding session. Held bi-weekly on Tuesdays @ 9:30 am. Please see Community Calendar below.
@@ -43,7 +45,8 @@
      - [Elyra Plotly Notebook](https://github.com/os-climate/elyra-plotly-notebook)
  - **Physical Risk & Resilience**
    - [Overview](https://osclimateorg.sharepoint.com/:w:/g/EfOnEcB0mcFCv2Plxeziy8kBUkCRrS6hug630E8S9wjipA?e=qkT1Gr)
-   - Presentation and Tool Demo: [Watch Video](https://vimeo.com/760475042)
+   - Intro Video: [Watch Video (2 min)](https://youtu.be/RdRouKhWE90)
+   - Presentation and Tool Demo: [Watch Video (1 hour)](https://vimeo.com/760475042)
    - Try out the tool: [Sandbox UI](http://physrisk-ui-latest-sandbox.apps.odh-cl1.apps.os-climate.org/)
    - [Physical Risk & Resilience Project Board](https://github.com/orgs/os-climate/projects/6)
    - Related Repos:
