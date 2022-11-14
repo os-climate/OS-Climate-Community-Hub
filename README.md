@@ -9,8 +9,9 @@
  - *OS-Climate website:* https://os-climate.org/
  - *OS-Climate 101:* [Watch Video](https://vimeo.com/645351364)
  - **Have technical questions or want to learn more from our developer/engineering community?** Come to our Data Commons Office Hours! Every Tues & Thurs at 10:00AM ET  [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
-
-**Join one of our meetings! Subscribe to a group list! Connect over Slack!**
+ - **System or ODH Issues?** File an LF [ticket](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/2) (note: select OS-Climate from project list); Get help on Slack [ODH channel](https://operatefirst.slack.com/archives/C01RMPVUUK1) OR [Data Commons channel](https://os-climate.slack.com/archives/C034SCF92BU)
+ 
+ **Join one of our meetings! Subscribe to a group list! Connect over Slack!**
 
  - Community Calendar (Meetings & Events): [Link to Calendar](https://west.exch092.serverdata.net/owa/calendar/f55f275b1e724cc49b5a52f50c30a11f@os-climate.org/022d1c0017744eebbf9f14f737493bd67046415453482209411/calendar.html)
    - [List](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md) of OS-Climate's Recurring Meetings (community-wide and project specific)
