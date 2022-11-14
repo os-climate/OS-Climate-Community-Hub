@@ -1,6 +1,8 @@
 # START HERE:  OS-Climate Community Hub
 **OS-Climate Community &amp; Project Collaboration Space**
 
+**OS-Climate is part of The Linux Foundation® (LF)**
+
 **OS-Climate Intro:** [Watch Video (1 min)](https://youtu.be/mi1zbyAV14I)
 
 ## Community Resources & General OS-Climate Information
@@ -9,7 +11,10 @@
  - *OS-Climate website:* https://os-climate.org/
  - *OS-Climate 101:* [Watch Video](https://vimeo.com/645351364)
  - **Have technical questions or want to learn more from our developer/engineering community?** Come to our Data Commons Office Hours! Every Tues & Thurs at 10:00AM ET  [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
- - **System or ODH Issues?** File an LF [ticket](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/2) (note: select OS-Climate from project list); Get help on Slack [ODH channel](https://operatefirst.slack.com/archives/C01RMPVUUK1) OR [Data Commons channel](https://os-climate.slack.com/archives/C034SCF92BU)
+ - **System or ODH Issues?** 
+   - Outage/System Failures:  File an LF [outage ticket](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/2/create/30) (note: select OS-Climate from project list)
+   - New infrastructure request (e.g., software upgrade):  File an LF [ticket](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/2) (note: select OS-Climate from project list)
+   - General infrastructure support:  Get help on Slack [ODH channel](https://operatefirst.slack.com/archives/C01RMPVUUK1) OR [Data Commons channel](https://os-climate.slack.com/archives/C034SCF92BU)
  
  **Join one of our meetings! Subscribe to a group list! Connect over Slack!**
 
@@ -166,7 +171,7 @@ Data Commons enables federation with external data sources as well as ingestion/
    4. Transition Analysis Charter: [View Charter](https://docs.google.com/document/d/1oApdAxwjM8_TCeHFgBE8GJp-JOeM6U21/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
 
 ## Security, Legal & Governance
-OS-Climate is part of The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a registered trademark of Linus Torvalds. Privacy Policy (https://linuxfoundation.org/privacy-policy/) and Terms of Use (https://linuxfoundation.org/terms/).
+OS-Climate is part of The Linux Foundation® (LF). All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a registered trademark of Linus Torvalds. Privacy Policy (https://linuxfoundation.org/privacy-policy/) and Terms of Use (https://linuxfoundation.org/terms/).
 
  - **To report a Security concern and/or incident, please send an email to:** security@os-climate.org
  - **Governance Info:** the OS-C Governing Board meets on the 3rd Wednesday of every month.  Premium members can name a person to serve on the Governing Board and the Technical Advisory Council (TAC).  General members can select a person to represent them as a Board Observer, attending quarterly Governing Board meetings.  Additionally, for every 4 General Members, one Board member will be elected to represent this cohort. Associate members can select a person to represent them as a Board Observer, attending quarterly Governing Board meetings.  Additionally, Associate members can elect one Academic, one IGO, and one NGO member to represent them on the Governing Board. Physical Risk & Resilience, Data Commons, Portfolio Alignment, and Transition Analysis projects are governed by Technical Steering Committees (TSCs).  The chair people (elected by project contributors) for these TSCs also serve as members of the TAC.  For more information, including links to applicable charters, please see the on-boarding guide referenced above or visit https://os-climate.org/governance//.
