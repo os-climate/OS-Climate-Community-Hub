@@ -152,5 +152,10 @@ Feel free to contact us at contact@sostrades.org for more info if needed.
 ## Where can I report a security vulnerability or concern?
 Send an email to Security@os-climate.org
 
+## How do I get help with Data Commons infrastructure or ODH Issues?** 
+   - Outage/System Failures:  File an LF [outage ticket](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/2/create/30) (note: select OS-Climate from project list)
+   - New infrastructure request (e.g., software upgrade):  File an LF [ticket](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/2) (note: select OS-Climate from project list)
+   - General infrastructure support:  Get help on Slack [ODH channel](https://operatefirst.slack.com/archives/C01RMPVUUK1) OR [Data Commons channel](https://os-climate.slack.com/archives/C034SCF92BU)
+
 ## Have another question?
 Send an email to Admin@os-climate.org
