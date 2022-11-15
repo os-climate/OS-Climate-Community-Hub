@@ -1,0 +1,11 @@
+# Portfolio Analysis (Implied Temperature Rise)
+## Overview [Tool Description](https://osclimateorg.sharepoint.com/:w:/g/Eeq8F0bsE81KhsCCeQrBifQBDeM0DetumkkeHgHnQ0lZLA?e=YihlcA)
+### Presentation and Tool Demo:  [Watch Video](https://vimeo.com/760067709)
+### [Portfolio Alignment/ITR Project Board](https://github.com/orgs/os-climate/projects/3)
+### Related Documentation & Repos:
+ - [ITR Methodology Documentation](https://osclimateorg.sharepoint.com/:b:/g/EUf4YGdngpRIs6pfzaLSKIcBqUXqtKQiAHbp0Y-G_P8aAA?e=NB4UPP)
+ - [Guide to testing ITR tool](https://osclimateorg.sharepoint.com/:b:/g/EUf4YGdngpRIs6pfzaLSKIcBqUXqtKQiAHbp0Y-G_P8aAA?e=sHysiV)
+ - [Data template for testing](https://osclimateorg.sharepoint.com/:x:/g/EVFrynCx7npEtjtmKEZ6FFoB2eC1M3H-mvwb0vyiAqkySw?e=LyXLxV)
+ - [ITR Tool](https://github.com/os-climate/ITR)
+ - [ITR API](https://github.com/os-climate/ITR_api)
+ - [ITR Data Pipeline](https://github.com/os-climate/itr-data-pipeline)
