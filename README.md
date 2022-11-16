@@ -1,6 +1,5 @@
-# START HERE:  OS-Climate Community Hub
-**OS-Climate Community &amp; Project Collaboration Space**
-
+# START HERE
+## OS-Climate Community Hub
 **OS-Climate is part of The Linux Foundation® (LF)**
 
 **OS-Climate Intro:** [Watch Video (1 min)](https://youtu.be/mi1zbyAV14I)
@@ -33,80 +32,18 @@
    - [Portfolio Alignment](http://3.83.126.24/portfolioalign-itr/)
  - **Technical Overviews**
    - [Development and Coding Best Practices](https://github.com/AICoE/workshop-coding-best-practices#workshop-development-and-coding-standards)
-   - [Data Commons, Data Extraction/NLP, Physical Risk, & Portfolio Alignment/ITR](https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec1_2021.pdf)
-   - [Transition Analysis](https://os-climate.org/wp-content/uploads/sites/138/2021/12/OSClimate-TechDeepDive_Dec2_2021.pdf)
- - **Data Commons** 
-   - Overview & Videos: https://os-climate.org/data-commons/
-   - Data Commons Architecture: [Learn More](https://github.com/os-climate/os_c_data_commons/blob/main/README.md)
-     - [Scaling the Open Source Climate Community](https://pretalx.com/bbuzz22/talk/JNJTHF/) Video featuring OS-C's software, data science, platforms, and community architecture (note: specifics about OS-C infrastructure starts at ~11 minute mark).
-     - Managing Data as Code: [Data pipeline example using Open Metadata and streamed data from CO2Signal](https://osclimateorg.sharepoint.com/:v:/g/EXdxjJKjCSlCqGBkYIA83DoBaCm9O5IWZdljoralV0zMKg?e=FHVML3)
-   - [Data Commons Project Board](https://github.com/orgs/os-climate/projects/7)
-   - Related Repos: 
-     - [Data Commons Developers Guide](https://github.com/os-climate/os_c_data_commons/blob/main/os-c-data-commons-developer-guide.md)
-     - [Data Platform Demo](https://github.com/os-climate/data-platform-demo)
-     - [OS-C Data Commons](https://github.com/os-climate/os_c_data_commons)
-     - [Trino ACL DSL](https://github.com/os-climate/osc-trino-acl-dsl)
-     - [Pachyderm Notebook Image](https://github.com/os-climate/pachyderm-notebook-image)
-     - [Trinto Github Group Provider](https://github.com/os-climate/trino-github-group-provider)
-     - [Elyra Plotly Notebook](https://github.com/os-climate/elyra-plotly-notebook)
- - **Physical Risk & Resilience**
-   - [Overview](https://osclimateorg.sharepoint.com/:w:/g/EfOnEcB0mcFCv2Plxeziy8kBUkCRrS6hug630E8S9wjipA?e=qkT1Gr)
-   - Intro Video: [Watch Video (2 min)](https://youtu.be/RdRouKhWE90)
-   - Presentation and Tool Demo: [Watch Video (1 hour)](https://vimeo.com/760475042)
-   - Try out the tool: [Sandbox UI](http://physrisk-ui-latest-sandbox.apps.odh-cl1.apps.os-climate.org/)
-   - [Physical Risk & Resilience Project Board](https://github.com/orgs/os-climate/projects/6)
-   - Related Repos:
-     - On-boarding New Models: [View Handbook](https://github.com/os-climate/physrisk/blob/main/docs/handbook/onboarding.rst)
-     - [Physical Risk Modeling](https://github.com/os-climate/physrisk)
-     - [Physical Risk API](https://github.com/os-climate/physrisk-api)
-     - [Physical Riks UI](https://github.com/os-climate/physrisk-ui)
-     - [WRI GPPD Ingestion Pipeline](https://github.com/os-climate/wri-gppd-ingestion-pipeline)
-     - [Physical Risk Data Pipeline](https://github.com/os-climate/physical_risk_data_pipeline)
- - **Transition Analysis**
-   - [Overview](https://osclimateorg.sharepoint.com/:w:/g/EesnNrUB1aFDhQzU7sBg0I0Bh3TDb12Eetkp4TDamipiKQ?e=snOYG4)
-   - Presentation and Tool Demo:  [Watch Video](https://vimeo.com/762652160)
-   - Try out the tool:  [Access SOSTrades](https://frontend-sostrades.apps.odh-cl2.apps.os-climate.org/)
-   - Related Repos:
-     - [WITNESS Core](https://github.com/os-climate/witness-core)
-     - [WITNESS Energy](https://github.com/os-climate/witness-energy)
-     - [SOSTrades Web GUI](https://github.com/os-climate/sostrades-webgui)
-     - [SOSTrades Web API](https://github.com/os-climate/sostrades-webapi)
-     - [SOSTrades Web Core](https://github.com/os-climate/sostrades-core)
-     - [SOSTrades Web Auth API](https://github.com/os-climate/sostrades-authapi)
-     - [SOSTrades Ontology](https://github.com/os-climate/sostrades-ontology)
- - **Portfolio Alignment/Implied Temperature Rise**
-   - [Overview](https://osclimateorg.sharepoint.com/:w:/g/Eeq8F0bsE81KhsCCeQrBifQBDeM0DetumkkeHgHnQ0lZLA?e=YihlcA)
-   - Presentation and Tool Demo:  [Watch Video](https://vimeo.com/760067709)
-   - [Portfolio Alignment/ITR Project Board](https://github.com/orgs/os-climate/projects/3)
-   - Related Documentation & Repos:
-     - [ITR Methodology Documentation](https://osclimateorg.sharepoint.com/:b:/g/EUf4YGdngpRIs6pfzaLSKIcBqUXqtKQiAHbp0Y-G_P8aAA?e=NB4UPP)
-     - [Guide to testing ITR tool](https://osclimateorg.sharepoint.com/:b:/g/EUf4YGdngpRIs6pfzaLSKIcBqUXqtKQiAHbp0Y-G_P8aAA?e=sHysiV)
-        - [Data template for testing](https://osclimateorg.sharepoint.com/:x:/g/EVFrynCx7npEtjtmKEZ6FFoB2eC1M3H-mvwb0vyiAqkySw?e=LyXLxV)
-     - [ITR Tool](https://github.com/os-climate/ITR)
-     - [ITR API](https://github.com/os-climate/ITR_api)
-     - [ITR Data Pipeline](https://github.com/os-climate/itr-data-pipeline)
- - **Data Extraction/AI Overview [Private repos until 4Q2022]**  
-   - [Overview](https://vimeo.com/652668377)
-   - Presentation about the rules-based and ML-based data extraction engines along with code repositories: [Watch Video](https://osclimateorg.sharepoint.com/:v:/g/ESYHyqXkuURAqB9Mt1xBUTcBFS9kpKN-hmBuJL_DN5JnLQ?e=f87G2J)
-   - Data Extraction/AI (ML and rules-based engines using NLP) [Project Board 1](https://github.com/os-climate/corporate_data_pipeline/projects/1) [Project Board 2](https://github.com/os-climate/corporate_data_pipeline/projects/2)
-   - Related Repos:
-     - [Machine Learning & Rules-based Data Extraction Engines](https://github.com/os-climate/corporate_data_pipeline)
-     - [Corp Data Pipeline](https://github.com/os-climate/corporate-data-pipeline-notebook)
-     - [ML Processing Performance](https://github.com/os-climate/neural-magic-notebook)
- - **Corporate Heirarchy Tool - Entity Matching/GLEIF**  
-   - [Overview & Demo](https://osclimateorg.sharepoint.com/:v:/g/EWLsGwMLaflEsDZgQYm3-fEBftkOuXRAFT7GQM5MXyYMPg?e=qCB09H)
-   - Related Repos:
-      - [ESG Matching](https://github.com/os-climate/esg-matching)
-      - [Financial Entity Cleaner](https://github.com/os-climate/financial-entity-cleaner)
-      - [ESG Matching Pipeline](https://github.com/os-climate/esg-matching-pipeline)
-      - [GLEIF Data Pipeline](https://github.com/os-climate/gleif-data-pipeline)
-- **PCAF Sovereign Footprint Calculations (Private repos until Aug 2022)**
-   - [Overview](https://osclimateorg.sharepoint.com/:b:/g/EdRTUaCr5qtOsZWQ0fNqs4cBmBrWHKoxcr2xTNS4S54YDg?e=A3pHXc)
-   - Related Repos:
-     - [Calculation Engine](https://github.com/os-climate/PCAF-sovereign-footprint)
+   - [Presentation about Data Commons](https://osclimateorg.sharepoint.com/:b:/g/ER21XXF6OS9OhYouUpr3ygMBFxVbRsUJh4mUP-H5cpEzHg?e=zl83zg)
+   - [Presentation about Analytical Tools, incl. Entity Matching and Data Extraction](https://osclimateorg.sharepoint.com/:b:/g/Efiqbwo8MbdCl8jPmeAE848BtUVJHpHq9Ng9Iw-K6apbTg?e=45LSL6)
+ - **Data Commons:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/DataCommonsRM.md#data-commons) 
+ - **Physical Risk & Resilience:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PhysicalRiskRM.md#physical-risk--resilience)
+ - **Transition Analysis:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/TransitionAnalysisRM.md#transition-analysis)
+ - **Portfolio Alignment/Implied Temperature Rise:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PortfolioAnalysisRM.md#portfolio-analysis-implied-temperature-rise)
+ - **Data Extraction/AI Overview [Private repos until 4Q2022]:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/DataExtractionRM.md#data-extraction) 
+ - **Corporate Heirarchy Tool - Entity Matching/GLEIF:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/EntityMatchingRM.md#corporate-heirarchy-tool---entity-matchinggleif)  
+- **PCAF Sovereign Footprint Calculations (Private repos until Q4 2022):** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PCAF_RM.md#pcaf-sovereign-footprint-calculations-private-repos-q4-2022)
    
-### Access to Repos and/or Projects
-Open an issue on the Community Hub for the following: [Open Issue](https://github.com/os-climate/OS-Climate-Community-Hub/issues/new/choose)
+## Access to Repos and/or Projects
+**Open an issue on the Community Hub for the following:** [Open Issue](https://github.com/os-climate/OS-Climate-Community-Hub/issues/new/choose)
  - Request credentials for an OS-Climate bucket
  - Request Onboarding to OSC Data Commons
  - Request memberships on OS-Climate github org and credentials for Trino
@@ -120,7 +57,7 @@ Need permissions to a particular repo and/or project? Please contact the appropr
 
 Want more information on how to contribute code or data?  Please see [Contribution Guidelines](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/CONTRIBUTING.md)
 
-### Other Project Boards
+## Other Project Boards
  - [Program Mgmt Office Project Board](https://github.com/orgs/os-climate/projects/5)
  - We use Red Hat's Operate First Best Practices
    - [Operate First Project Board](https://github.com/orgs/operate-first/projects/57/views/5)
@@ -139,24 +76,15 @@ Data Commons enables federation with external data sources as well as ingestion/
  - [Dataset Request](https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=dataset-request.md&title=%5BData+Request%5D+)
  - [Dataset Request (spreadsheet specific)](https://github.com/os-climate/Data-Requests/issues/new?assignees=&labels=&template=data-from-spreadsheet.md&title=%5BData+from+Spreadsheet+Request%5D+)
 
-### Data Ingestion Pipelines/Repos
+### Data Ingestion Pipelines/Repos: [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/DataIngestionRM.md#data-ingestion-pipelinesrepos)
   - [Standardized Data Ingestion Workflow Tool](https://github.com/os-climate/osc-ingest-tools)
-  - [US_CENSUS-ingest-pipline](https://github.com/os-climate/US_CENSUS-ingest-pipline)
-  - [DERA-ingest-pipeline](https://github.com/os-climate/DERA-ingest-pipeline)
-  - [EPA_FRS-ingest-pipeline](https://github.com/os-climate/EPA_FRS-ingest-pipeline)
-  - [SFI_GeoAsset](https://github.com/os-climate/SFI_GeoAsset)
-  - [EPA_GHGRP-ingest-pipeline](https://github.com/os-climate/EPA_GHGRP-ingest-pipeline)
-  - [RMI-Utility-Transition-Hub-ingestion-pipeline](https://github.com/os-climate/rmi-utility-transition-hub-ingestion-pipeline)
-  - [ESSD-ingest-pipeline](https://github.com/os-climate/essd-ingest-pipeline)
-  - [ISO-3166-ingest](https://github.com/os-climate/iso3166-ingest)
-  - [OS-C-ESG-Spreadsheets-ingest](https://github.com/os-climate/osc-ingest-esg-spreadsheets)
 
 ## Member Organizations
  - Current members: [View List](https://os-climate.org/current-members/)
- - Organizations interested in membership? Join Us: [Enroll](https://enrollment.lfx.linuxfoundation.org/?project=LFCF)
+ - Organizations interested in membership? **Join Us:** [Enroll](https://enrollment.lfx.linuxfoundation.org/?project=LFCF)
  - **Please Note:** you/your organization does not need to be a member to contribute your skills, time, code, and/or data.
 
-### Charter & Oversight (also see Governance section below & https://os-climate.org/governance/) 
+## Charter & Oversight (also see Governance section below & https://os-climate.org/governance/) 
  - OS-Climate Charter, Participation Agreement & Membership Agreement: members are expected to adhere to the following agreements signed at the onset of their membership, 
    1. OS-Climate Participation Agreement & Charter:  [View OS-C Agreement/Charter](https://drive.google.com/file/d/1heeB5PEAPuFldyTvSSSa6mBYphkddSgj/view) 
    2. Linux Foundation Membership Agreement: [View LF Member Agreement](https://drive.google.com/file/d/1PGgq2TKI_wiD1cTjN1JEJZMvyQYDAPPk/view)
