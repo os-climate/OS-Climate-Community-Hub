@@ -32,6 +32,7 @@
    - [Portfolio Alignment](http://3.83.126.24/portfolioalign-itr/)
  - **Technical Overviews**
    - [Development and Coding Best Practices](https://github.com/AICoE/workshop-coding-best-practices#workshop-development-and-coding-standards)
+   - [Data Commons Developer Guide](https://github.com/os-climate/os_c_data_commons/blob/main/os-c-data-commons-developer-guide.md)
    - [Presentation about Data Commons](https://osclimateorg.sharepoint.com/:b:/g/ER21XXF6OS9OhYouUpr3ygMBFxVbRsUJh4mUP-H5cpEzHg?e=zl83zg)
    - [Presentation about Analytical Tools, incl. Entity Matching and Data Extraction](https://osclimateorg.sharepoint.com/:b:/g/Efiqbwo8MbdCl8jPmeAE848BtUVJHpHq9Ng9Iw-K6apbTg?e=45LSL6)
  - **Data Commons:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/DataCommonsRM.md#data-commons) 
