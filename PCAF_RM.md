@@ -6,5 +6,6 @@ What is it?
 - Demonstrated that Open-Source best practices foster innovation and speed to delivery.  
 - OS-C was an early mover in this space. 
 ## [Tool Overview](https://osclimateorg.sharepoint.com/:b:/g/EdRTUaCr5qtOsZWQ0fNqs4cBmBrWHKoxcr2xTNS4S54YDg?e=A3pHXc)
+- Attend a Data Commons team meeting to learn more: [Meeting Info](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md#note)
 ## Related Repos:
   - [Calculation Engine](https://github.com/os-climate/PCAF-sovereign-footprint)
