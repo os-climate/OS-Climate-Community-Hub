@@ -1,4 +1,5 @@
 # Data Ingestion Pipelines/Repos
+**Attend a Data Commons team meeting: [Meeting Info](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md#note)**
 ## [Standardized Data Ingestion Workflow Tool](https://github.com/os-climate/osc-ingest-tools)
  - [US_CENSUS-ingest-pipline](https://github.com/os-climate/US_CENSUS-ingest-pipline)
  - [DERA-ingest-pipeline](https://github.com/os-climate/DERA-ingest-pipeline)
