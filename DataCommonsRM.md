@@ -8,7 +8,7 @@ Data Commons is the platform and infrastructure which manages data as code.  The
    - Data Commons Architecture: [Learn More](https://github.com/os-climate/os_c_data_commons/blob/main/README.md)
      - [Scaling the Open Source Climate Community](https://pretalx.com/bbuzz22/talk/JNJTHF/) Video featuring OS-C's software, data science, platforms, and community architecture (note: specifics about OS-C infrastructure starts at ~11 minute mark).
      - Managing Data as Code: [Data pipeline example using Open Metadata and streamed data from CO2Signal](https://osclimateorg.sharepoint.com/:v:/g/EXdxjJKjCSlCqGBkYIA83DoBaCm9O5IWZdljoralV0zMKg?e=FHVML3)
-   - Attend a team meeting: [Meeting Info](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md#note)
+   - Attend a Data Commons team meeting: [Meeting Info](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md#note)
    - [Data Commons Project Board](https://github.com/orgs/os-climate/projects/7)
    - Related Repos: 
      - [Data Commons Developers Guide](https://github.com/os-climate/os_c_data_commons/blob/main/os-c-data-commons-developer-guide.md)
