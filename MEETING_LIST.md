@@ -1,4 +1,5 @@
-**Please note:** all meetings are open and anyone is welcome to attend. Please access the [Community Calendar](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d) to obtain the link to one of the meetings below and/or subscribe to the related group distro to receive a calendar invite and related team updates.
+## **Note:** 
+All meetings are open and anyone is welcome to attend. **Please access the [Community Calendar](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d) to obtain the link to one of the meetings below and/or subscribe to the related group distro to receive a calendar invite and related team updates.**
 
 ### All Hands - Lead: Heather Ackenhusen
 Community-wide Meeting:  Bi-weekly Tuesdays 10:30 am - 11:00 am ET
@@ -19,6 +20,8 @@ Team Slack Channel: os-climate.slack.com#developers
 
 ### Physical Risk & Resilience - Lead: Matt Sandoe
 Team Meeting:  Thursdays 11:30 am - 12:30 pm ET
+
+Physical Risk Modelling Office Hours:  Wednesdays 11:00 am - 12:00 pm ET (Lead: Joe Moorhouse)
 
 Group E-mail Distro: PhysicalRisk@lists.os-climate.org
 
