@@ -1,4 +1,4 @@
-# **PCAF Sovereign Footprint Calculations (Private repos Q4 2022)**
+# **PCAF Sovereign Footprint Calculations**
 What is it?
 - PCAF defined Scope 1, Scope 2 and Scope 3 carbon emissions for Sovereigns in analogy to the GHG Protocol’s definition for Community-Scale Greenhouse Gas Inventories (Cities).  
 - Team implemented a solution based on a pre-release version of PCAF methodology. 
