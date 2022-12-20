@@ -5,7 +5,7 @@
 ### [Portfolio Alignment/ITR Project Board](https://github.com/orgs/os-climate/projects/3)
 ### Related Documentation & Repos:
  - [ITR Methodology Documentation](https://osclimateorg.sharepoint.com/:b:/g/EUf4YGdngpRIs6pfzaLSKIcBqUXqtKQiAHbp0Y-G_P8aAA?e=NB4UPP)
- - [Guide to testing ITR tool](https://osclimateorg.sharepoint.com/:b:/g/EUf4YGdngpRIs6pfzaLSKIcBqUXqtKQiAHbp0Y-G_P8aAA?e=sHysiV)
+ - [Guide to testing ITR tool](https://osclimateorg.sharepoint.com/:b:/g/EaLSlE8WYx9Bnun4NOBX3jIB0X6aHz2lYHoHjx3b-l40zg?e=lFArns)
  - [Data template for testing](https://osclimateorg.sharepoint.com/:x:/g/EVFrynCx7npEtjtmKEZ6FFoB2eC1M3H-mvwb0vyiAqkySw?e=LyXLxV)
  - [ITR Tool](https://github.com/os-climate/ITR)
  - [ITR API](https://github.com/os-climate/ITR_api)
