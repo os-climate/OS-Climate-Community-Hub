@@ -60,7 +60,7 @@ Above already linked to SFI cement, SFI steel, and WRI Global Power Plant inform
 ● Other data aggregated or derived by Member-led projects for specific use cases. 
  - Portfolio and company-specific Implied Temperature Rise metrics. 
  - Portfolio and corporate asset-specific physical risk metrics. 
- - PCAF Sovereign Data (using public data from EDGAR, OECD, etc.)
+ - [PCAF Sovereign Data (using public data from EDGAR, OECD, etc.)](https://osclimateorg.sharepoint.com/:x:/g/ETF_SMAPU39GsimrekI6QlUBueIgHOd7JgZbvJWIhmySVQ?e=bRjHIb)
 
 In general, tabular data is ingested by a data pipeline that populates data tables available in a Trino (SQL) database, whereas raster and geospatial data resides in S3 buckets offering programmatic access.  In some cases, data is available via API calls, and we have libraries and documentation to make those APIs available to Data Scientists using their favorite tools (typically Python-based Jupyter notebooks).
 
