@@ -4,6 +4,13 @@ Data Commons is the platform and infrastructure which manages data as code.  The
 - Leverages Open MetaData to ensure data sources are discoverable and shareable.  
 - Supports different types of data pipelines (batch data, federated data, real-time streamed data) in data creation, storage, transformation and distribution.
 - Supports “data as code” approach where the data pipeline code, the data itself and data schema are versioned so as to have transparency and reproducibility (time travel). 
+
+Key technical design aspects:
+- The entire deployment of the Data Commons platform (and our future data exchange services components) is based on declarative GitOps continuous delivery on Kubernetes, leveraging ArgoCD as the Continuous Delivery tool. 
+- All components of the platform are open source (we don't use any native cloud service) - we test and validate specific container images and maintain the deployment blueprint as code (application manifests) in an open source repository under OperateFirst (for an example, look at OpenMetadata manifests under https://github.com/operate-first/apps/tree/master/openmetadata) 
+- The platform itself follows a data mesh architecture which means it leverages a query federation technology (Trino) to query distributed data directly across SQL, NoSQL, streaming, etc... data sources, only leveraging container storage on the given cloud provider infrastructure to ingest or cache data as required. 
+- All data ingestion, transformation, data quality controls and metadata ingestion required is maintained as data pipeline code in OS-Climate repositories. This means that if you install the Data Commons component on any Cloud and run all existing data pipelines, you would get a carbon copy of the data we now have on current instances running on AWS (with a caveat - this will not get historical data for previous versions of the code that may not have been cleaned).
+
 ### [Overview & Videos](https://os-climate.org/data-commons/)
    - Data Commons Architecture: [Learn More](https://github.com/os-climate/os_c_data_commons/blob/main/README.md)
      - [Scaling the Open Source Climate Community](https://pretalx.com/bbuzz22/talk/JNJTHF/) Video featuring OS-C's software, data science, platforms, and community architecture (note: specifics about OS-C infrastructure starts at ~11 minute mark).
