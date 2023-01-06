@@ -43,20 +43,22 @@
  - **Corporate Heirarchy Tool - Entity Matching/GLEIF:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/EntityMatchingRM.md#corporate-heirarchy-tool---entity-matchinggleif)  
 - **PCAF Sovereign Footprint Calculations:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PCAF_RM.md#pcaf-sovereign-footprint-calculations-private-repos-q4-2022)
    
-## Access to Repos and/or Projects
+## Access to Repos, Trino Data, & Projects
 **Open an issue on the Community Hub for the following:** [Open Issue](https://github.com/os-climate/OS-Climate-Community-Hub/issues/new/choose)
  - Request credentials for an OS-Climate bucket
  - Request Onboarding to OSC Data Commons
  - Request memberships on OS-Climate github org and credentials for Trino
  - Report a security vulnerability
  
-Sample file to establish credentials/set up your [environment](https://github.com/os-climate/os_c_data_commons/blob/main/docs/credentials.env)
+**Trino Access**
+- Sample file to establish credentials/set up your [environment](https://github.com/os-climate/os_c_data_commons/blob/main/docs/credentials.env)
+- Click here for your JWT [Token](https://das-odh-trino.apps.odh-cl2.apps.os-climate.org)
+- Accessing Trino: introductory tutorial [notebook](https://github.com/os-climate/data-platform-demo/blob/master/notebooks/trino-pandas-demo.ipynb)
+- Sample [notebook](https://github.com/os-climate/data-platform-demo/blob/master/notebooks/riskthinking-tutorial.ipynb) for accessing Riskthinking.AI's federated datasets
 
-Click here for your JWT [Token](https://das-odh-trino.apps.odh-cl2.apps.os-climate.org)
-
-Need permissions to a particular repo and/or project? Please contact the appropriate admin listed here: [Admin List](https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties)
-
-Want more information on how to contribute code or data?  Please see [Contribution Guidelines](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/CONTRIBUTING.md)
+**Project/workstream Repos**
+- Need permissions to a particular repo and/or project? Please contact the appropriate admin listed here: [Admin List](https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties)
+- Want more information on how to contribute code or data?  Please see [Contribution Guidelines](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/CONTRIBUTING.md)
 
 ## Other Project Boards
  - [Program Mgmt Office Project Board](https://github.com/orgs/os-climate/projects/5)
