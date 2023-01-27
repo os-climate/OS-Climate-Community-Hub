@@ -1,5 +1,6 @@
 # Best Practices to Safeguard Your Credentials
 
+- Keep your credentials.env one directory level above your GitHub tree, so GitHub can never see it.
 - Red Hat team updated the osc_ingest_tools library to provide an interface that doesn't even mention credentials.env:
 - From the AWS Account page, copy the export scripts from the appropriate role using the "Command Line or Programmatic Access" link
 - Paste the copied text into ~/credentials.env
