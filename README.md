@@ -32,7 +32,7 @@
    - [Portfolio Alignment](http://3.83.126.24/portfolioalign-itr/)
  - **Technical Overviews**
    - [Development and Coding Best Practices](https://github.com/AICoE/workshop-coding-best-practices#workshop-development-and-coding-standards)
-   - [Data Commons Developer Guide](https://github.com/os-climate/os_c_data_commons/blob/main/os-c-data-commons-developer-guide.md)
+   - **UPDATED JAN-2023** [Data Commons Developer Guide](https://github.com/os-climate/os_c_data_commons/blob/main/os-c-data-commons-developer-guide.md)
    - [Presentation about Data Commons](https://osclimateorg.sharepoint.com/:b:/g/ER21XXF6OS9OhYouUpr3ygMBFxVbRsUJh4mUP-H5cpEzHg?e=zl83zg)
    - [Presentation about Analytical Tools, incl. Entity Matching and Data Extraction](https://osclimateorg.sharepoint.com/:b:/g/Efiqbwo8MbdCl8jPmeAE848BtUVJHpHq9Ng9Iw-K6apbTg?e=45LSL6)
  - **Data Commons:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/DataCommonsRM.md#data-commons) 
@@ -55,6 +55,9 @@
 - Click here for your JWT [Token](https://das-odh-trino.apps.odh-cl2.apps.os-climate.org)
 - Accessing Trino: introductory tutorial [notebook](https://github.com/os-climate/data-platform-demo/blob/master/notebooks/trino-pandas-demo.ipynb)
 - Sample [notebook](https://github.com/os-climate/data-platform-demo/blob/master/notebooks/riskthinking-tutorial.ipynb) for accessing Riskthinking.AI's federated datasets
+
+**Protect Your Credentials**
+ - Keep your credentials.env one directory level above your GitHub tree, so GitHub can never see it. [Learn more](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/SAFE_KEEPING_CREDENTIALS.md) 
 
 **Project/workstream Repos**
 - Need permissions to a particular repo and/or project? Please contact the appropriate admin listed here: [Admin List](https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties)
