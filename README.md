@@ -36,6 +36,7 @@
    - [Presentation about Data Commons](https://osclimateorg.sharepoint.com/:b:/g/ER21XXF6OS9OhYouUpr3ygMBFxVbRsUJh4mUP-H5cpEzHg?e=zl83zg)
    - [Presentation about Analytical Tools, incl. Entity Matching and Data Extraction](https://osclimateorg.sharepoint.com/:b:/g/Efiqbwo8MbdCl8jPmeAE848BtUVJHpHq9Ng9Iw-K6apbTg?e=45LSL6)
  - **Data Commons:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/DataCommonsRM.md#data-commons) 
+ - **Data Exchange:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/DataExtractionRM.md#data-extraction)
  - **Physical Risk & Resilience:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PhysicalRiskRM.md#physical-risk--resilience)
  - **Transition Analysis:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/TransitionAnalysisRM.md#transition-analysis)
  - **Portfolio Alignment/Implied Temperature Rise:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PortfolioAnalysisRM.md#portfolio-analysis-implied-temperature-rise)
