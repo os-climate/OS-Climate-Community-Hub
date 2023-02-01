@@ -17,6 +17,7 @@ Key technical design aspects:
      - Managing Data as Code: [Data pipeline example using Open Metadata and streamed data from CO2Signal](https://osclimateorg.sharepoint.com/:v:/g/EXdxjJKjCSlCqGBkYIA83DoBaCm9O5IWZdljoralV0zMKg?e=FHVML3)
      - Architecture & 2023 Roadmap [Presentation](https://osclimateorg.sharepoint.com/:b:/g/EYUQfI7k9tNHtVrHVxnqg8cBmPiOzzjYi9mH_bZGU9g9Ag?e=kRa0AT)
      - COP27 Data Commons Overview [Presentation](https://osclimateorg.sharepoint.com/:b:/g/EQtilRdHpjJBnJm08KLOmv4Bqb_UekwF1Z6qahhNdDmnTw?e=dmnJrM) 
+     - Building Data Pipelines [Video](https://drive.google.com/file/d/1Ll-bDjbycqIdmVi2h-Mdg7WATs7PcGXM/view?usp=share_link)
      - OS-Climate Data Commons article on [Data Mesh](https://towardsdatascience.com/makingclimate-data-easy-to-find-use-and-share5190a0926407)
    - **UPDATED JAN-2023** [Data Commons Developers Guide](https://github.com/os-climate/os_c_data_commons/blob/main/os-c-data-commons-developer-guide.md)
    - Attend a Data Commons team meeting: [Meeting Info](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md#note)
