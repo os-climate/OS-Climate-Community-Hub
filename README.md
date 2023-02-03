@@ -27,9 +27,9 @@
 ## Overview of OS-C's Projects/Workstreams
 **Please review the [FAQ](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md)** to obtain a grounding in OS-Climate's Data Commons and Analytics Tools.
  - **Analytical Tools: Quick Start Guides & Demos**  
-   - [Physical Risk & Resilience](http://3.83.126.24/osc-physicalrisk/#project)
-   - [Transition Analysis](http://3.83.126.24/osc-transitionrisk/)
-   - [Portfolio Alignment](http://3.83.126.24/portfolioalign-itr/)
+   - [Physical Risk & Resilience](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PhysicalRiskRM.md#physical-risk--resilience)
+   - [Transition Analysis](https://www.witness4climate.org/)
+   - [Portfolio Alignment](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PortfolioAnalysisRM.md#portfolio-analysis-implied-temperature-rise)
  - **Technical Overviews**
    - [Development and Coding Best Practices](https://github.com/AICoE/workshop-coding-best-practices#workshop-development-and-coding-standards)
    - **UPDATED JAN-2023** [Data Commons Developer Guide](https://github.com/os-climate/os_c_data_commons/blob/main/os-c-data-commons-developer-guide.md)
@@ -40,7 +40,7 @@
  - **Physical Risk & Resilience:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PhysicalRiskRM.md#physical-risk--resilience)
  - **Transition Analysis:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/TransitionAnalysisRM.md#transition-analysis)
  - **Portfolio Alignment/Implied Temperature Rise:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PortfolioAnalysisRM.md#portfolio-analysis-implied-temperature-rise)
- - **Data Extraction/AI Overview [Private repos until 4Q2022]:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/DataExtractionRM.md#data-extraction) 
+ - **Data Extraction/AI Overview [Private repos until 1Q2023]:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/DataExtractionRM.md#data-extraction) 
  - **Corporate Heirarchy Tool - Entity Matching/GLEIF:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/EntityMatchingRM.md#corporate-heirarchy-tool---entity-matchinggleif)  
 - **PCAF Sovereign Footprint Calculations:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PCAF_RM.md#pcaf-sovereign-footprint-calculations-private-repos-q4-2022)
    
