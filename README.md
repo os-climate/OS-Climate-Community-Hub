@@ -28,7 +28,7 @@
 **Please review the [FAQ](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md)** to obtain a grounding in OS-Climate's Data Commons and Analytics Tools.
  - **Analytical Tools: Quick Start Guides & Demos**  
    - [Physical Risk & Resilience](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PhysicalRiskRM.md#physical-risk--resilience)
-   - [Transition Analysis](https://www.witness4climate.org/)
+   - [Transition Analysis](https://os-climate.org/transition-analysis/)
    - [Portfolio Alignment](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PortfolioAnalysisRM.md#portfolio-analysis-implied-temperature-rise)
  - **Technical Overviews**
    - [Development and Coding Best Practices](https://github.com/AICoE/workshop-coding-best-practices#workshop-development-and-coding-standards)
