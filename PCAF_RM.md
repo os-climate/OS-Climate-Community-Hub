@@ -9,6 +9,6 @@ What is it?
 - Overview [Presentation](https://osclimateorg.sharepoint.com/:b:/g/EdRTUaCr5qtOsZWQ0fNqs4cBmBrWHKoxcr2xTNS4S54YDg?e=A3pHXc)
 - Attend a Data Commons team meeting to learn more: [Meeting Info](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md#note)
 ## Access dataset
-  - [PCAF Carbon Footprint Data](https://osclimateorg.sharepoint.com/:x:/g/ETF_SMAPU39GsimrekI6QlUBueIgHOd7JgZbvJWIhmySVQ?e=5AYnz6) as of 16-Dec-2022
+  - PCAF Carbon Footprint Data: updated version to be published in March 2023
 ## Related Repos:
   - [Calculation Engine](https://github.com/os-climate/PCAF-sovereign-footprint)
