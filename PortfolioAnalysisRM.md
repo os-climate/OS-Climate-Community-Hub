@@ -1,4 +1,4 @@
-# Portfolio Analysis (Implied Temperature Rise)
+# Portfolio Analysis & Sector Alignment (Implied Temperature Rise)
 ## Overview [Tool Description](https://osclimateorg.sharepoint.com/:w:/g/Eeq8F0bsE81KhsCCeQrBifQBDeM0DetumkkeHgHnQ0lZLA?e=YihlcA)
 ### Presentation and Tool Demo:
 - [Watch Webinar (~1 hour)](https://vimeo.com/760067709)
