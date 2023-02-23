@@ -44,13 +44,16 @@
  - **Corporate Heirarchy Tool - Entity Matching/GLEIF:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/EntityMatchingRM.md#corporate-heirarchy-tool---entity-matchinggleif)  
 - **Partnership for Carbon Accounting Financials (PCAF) Sovereign Footprint Calculations:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PCAF_RM.md#pcaf-sovereign-footprint-calculations-private-repos-q4-2022)
    
-## Access to Repos, Trino Data, & Projects
+## Access to Repos, Open MetaData, Trino Data, & Projects
 **Open an issue on the Community Hub for the following:** [Open Issue](https://github.com/os-climate/OS-Climate-Community-Hub/issues/new/choose)
  - Request credentials for an OS-Climate bucket
  - Request Onboarding to OSC Data Commons
  - Request memberships on OS-Climate github org and credentials for Trino
  - Report a security vulnerability
- 
+
+**Open MetaData**
+- [Login and view data](https://openmetadata-openmetadata.apps.odh-cl2.apps.os-climate.org/signin)
+
 **Trino Access**
 - Sample file to establish credentials/set up your [environment](https://github.com/os-climate/os_c_data_commons/blob/main/docs/credentials.env)
 - Click here for your JWT [Token](https://das-odh-trino.apps.odh-cl2.apps.os-climate.org)
@@ -74,7 +77,7 @@
 
 ## Data Sources
 ### Browse OS-C Data Sources Using Open MetaData
-Under Construction: [Open MetaData SignIn](https://openmetadata-openmetadata.apps.odh-cl2.apps.os-climate.org/signin)
+Available Data Sources: [Open MetaData SignIn](https://openmetadata-openmetadata.apps.odh-cl2.apps.os-climate.org/signin)
 
 ### Example Public Datasets Available [List](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/FAQ.md#what-data-is-in-the-data-commons)
 
