@@ -56,7 +56,8 @@
 
 **Trino Access**
 - Sample file to establish credentials/set up your [environment](https://github.com/os-climate/os_c_data_commons/blob/main/docs/credentials.env)
-- Click here for your JWT [Token](https://das-odh-trino.apps.odh-cl2.apps.os-climate.org)
+- Click here for your Cluster 1 JWT [Token](https://das-odh-trino.apps.odh-cl1.apps.os-climate.org/)
+- Click here for your Cluster 2 JWT [Token](https://das-odh-trino.apps.odh-cl2.apps.os-climate.org)
 - Accessing Trino: introductory tutorial [notebook](https://github.com/os-climate/data-platform-demo/blob/master/notebooks/trino-pandas-demo.ipynb)
 - Sample [notebook](https://github.com/os-climate/data-platform-demo/blob/master/notebooks/riskthinking-tutorial.ipynb) for accessing Riskthinking.AI's federated datasets
 
