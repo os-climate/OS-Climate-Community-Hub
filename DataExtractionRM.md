@@ -1,5 +1,5 @@
  # Data Extraction
- ## **Data Extraction/AI Overview [Private repos until 4Q2022]**  
+ ## **Data Extraction/AI Overview**  
  ### [Overview](https://vimeo.com/652668377)
  ### Introductory Presentation & Roadmap [Presentation](https://osclimateorg.sharepoint.com/:b:/g/EY2U8PyizhBOgh14Zmfq7T8BZfsoItLuIJhMpeXWcA8O-A?e=X6NaRG)
  ### Attend a Data Extraction team meeting: [Meeting Info](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md#note)
