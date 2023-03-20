@@ -2,7 +2,7 @@
 ## Overview [Tool Description](https://osclimateorg.sharepoint.com/:w:/g/Eeq8F0bsE81KhsCCeQrBifQBDeM0DetumkkeHgHnQ0lZLA?e=YihlcA)
 ### Presentation and Tool Demo:
 - [Watch Webinar (~1 hour)](https://vimeo.com/760067709)
-- [Watch Tool Demo (~15 min)](https://vimeo.com/794952685)
+- [Watch Tool Demo (~10 min)](https://vimeo.com/809946922)
 ### Meetings
 - Attend a Portfolio Alignment team meeting: [Meeting Info](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md#note)
 ### [Portfolio Alignment/ITR Project Board](https://github.com/orgs/os-climate/projects/3)
