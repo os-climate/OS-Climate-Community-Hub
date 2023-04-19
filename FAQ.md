@@ -46,7 +46,8 @@ In terms of Data content (availability), we have loaded several types of sources
  - RiskThinking.ai:
   1. 13352 datasets are scenario related (primarily NGFS projections, CMIP6, and SSP) such as solar electric capacity, CO2 emission, agricultural waste, peat burning, secondary energy.
   2. 3725 datasets are climate data sets (e.g., max temp, days of ice, frost days)
-  3. 447 datasets are geophysical (e.g., storm track, flood inundation)3 are asset related (SPI cement, SPI steel, and Global Power Plant information)
+  3. 447 datasets are geophysical (e.g., storm track, flood inundation)
+  4. 3 are asset related (SPI cement, SPI steel, and Global Power Plant information)
 
 Above already linked to SFI cement, SFI steel, and WRI Global Power Plant information
 
