@@ -9,7 +9,7 @@
    - You can also attend an on-boarding session. Held bi-weekly on Tuesdays @ 9:30 am. Please see Community Calendar below.
  - *OS-Climate website:* https://os-climate.org/
  - *OS-Climate 101:* [Watch Video](https://vimeo.com/645351364)
- - **Have technical questions or want to learn more from our developer/engineering community?** Come to our Data Commons Office Hours! Every Tues & Thurs at 10:00AM ET  [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
+ - **Have technical questions or want to learn more from our developer/engineering community?** Come to our Data Commons Office Hours! Every Tues at 10:00AM ET  [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
  - **System or ODH Issues?** 
    - Outage/System Failures:  File an LF [outage ticket](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/2/create/30) (note: select OS-Climate from project list)
    - New infrastructure request (e.g., software upgrade):  File an LF [ticket](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/2) (note: select OS-Climate from project list)
