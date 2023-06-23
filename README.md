@@ -5,7 +5,7 @@
 **OS-Climate Intro:** [Watch Video (1 min)](https://youtu.be/mi1zbyAV14I)
 
 ## Community Resources & General OS-Climate Information
- - **Getting Started, On-boarding Guide:** [Link to Guide](https://docs.google.com/presentation/d/1-rH1l4NbiDwSv5pq21ud82OAsBzuvffMgchX2LbNM7g/edit?usp=sharing)
+ - **Getting Started, On-boarding Guide:** [Link to Guide](https://docs.google.com/presentation/d/14iPE2citLdEfsT9TiEnxSCsN0AxrG1xetPb6AjRcisk/edit?usp=sharing)
    - You can also attend an on-boarding session. Held bi-weekly on Tuesdays @ 9:30 am. Please see Community Calendar below.
  - *OS-Climate website:* https://os-climate.org/
  - *OS-Climate 101:* [Watch Video](https://vimeo.com/645351364)
