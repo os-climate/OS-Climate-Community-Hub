@@ -12,6 +12,8 @@ Key technical design aspects:
 - All data ingestion, transformation, data quality controls and metadata ingestion required is maintained as data pipeline code in OS-Climate repositories. This means that if you install the Data Commons component on any Cloud and run all existing data pipelines, you would get a carbon copy of the data we now have on current instances running on AWS (with a caveat - this will not get historical data for previous versions of the code that may not have been cleaned).
 
 ### [Overview & Videos](https://os-climate.org/data-commons/)
+   - Data Commons is based on the Data Mesh Pattern documented in [OpenDataHub](https://github.com/opendatahub-io-contrib/data-mesh-pattern#data-mesh-pattern)
+      - To install your own Data Mesh Pattern [Read Me](https://github.com/opendatahub-io-contrib/data-mesh-pattern/tree/main/docs#data-mesh-lab) 
    - Data Commons Architecture: [Learn More](https://github.com/os-climate/os_c_data_commons/blob/main/README.md)
      - [Scaling the Open Source Climate Community](https://pretalx.com/bbuzz22/talk/JNJTHF/) Video featuring OS-C's software, data science, platforms, and community architecture (note: specifics about OS-C infrastructure starts at ~11 minute mark).
      - Managing Data as Code: [Data pipeline example using Open Metadata and streamed data from CO2Signal](https://osclimateorg.sharepoint.com/:v:/g/EXdxjJKjCSlCqGBkYIA83DoBaCm9O5IWZdljoralV0zMKg?e=FHVML3)
