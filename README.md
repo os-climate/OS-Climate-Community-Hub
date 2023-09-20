@@ -4,10 +4,6 @@
 
 **OS-Climate Intro:** [Watch Video (1 min)](https://youtu.be/mi1zbyAV14I)
 
-# EVAN'S CHANGES OF STARTING
-
-**Don't start here because Evan is silly and this is a test**
-
 ## Community Resources & General OS-Climate Information
  - **Getting Started, On-boarding Guide:** [Link to Guide](https://docs.google.com/presentation/d/14iPE2citLdEfsT9TiEnxSCsN0AxrG1xetPb6AjRcisk/edit?usp=sharing)
    - You can also attend an on-boarding session. Held bi-weekly on Tuesdays @ 9:30 am. Please see Community Calendar below.
