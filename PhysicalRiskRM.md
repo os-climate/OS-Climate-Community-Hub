@@ -1,6 +1,6 @@
 # Physical Risk & Resilience
 
-## Overview [Tool Description](https://osclimateorg.sharepoint.com/:w:/g/EfOnEcB0mcFCv2Plxeziy8kBUkCRrS6hug630E8S9wjipA?e=qkT1Gr)
+## Overview [Tool Description](https://drive.google.com/file/d/19GxHHwY4wrI2UtBsw6OQ0FeBuPLV-h12/view?usp=sharing)
    - Intro Video: [Watch Video (2 min)](https://youtu.be/RdRouKhWE90)
    - Presentation and Tool Demo: 
       - Latest Overview [Presentation](https://osclimateorg.sharepoint.com/:b:/g/EStbcR1uhp9NozuIt0chnVgBLay_xghx-cKfpsIox3AJtQ?e=tCxpL8)
