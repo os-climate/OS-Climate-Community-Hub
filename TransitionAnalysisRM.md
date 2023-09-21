@@ -1,6 +1,6 @@
  # Transition Analysis
  ## Overview
- - [Tool Description](https://osclimateorg.sharepoint.com/:w:/g/EesnNrUB1aFDhQzU7sBg0I0Bh3TDb12Eetkp4TDamipiKQ?e=snOYG4)
+ - [Tool Description](https://drive.google.com/file/d/1MC2Tn5n7V49bWRQ5pp-5FCQgi6uD-0XF/view?usp=sharing)
  - [Witness Website](https://www.witness4climate.org/)
  - Highlight Video [~5 min](https://vimeo.com/820711689?share=copy)
  ### Presentation and Tool Demo:  [Watch Video](https://vimeo.com/762652160)
