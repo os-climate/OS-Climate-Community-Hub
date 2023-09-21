@@ -68,13 +68,14 @@
 - Need permissions to a particular repo and/or project? Please contact the appropriate admin listed here: [Admin List](https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties)
 - Want more information on how to contribute code or data?  Please see [Contribution Guidelines](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/CONTRIBUTING.md)
 
-## Other Project Boards
- - [Program Mgmt Office Project Board](https://github.com/orgs/os-climate/projects/5)
- - We use Red Hat's Operate First Best Practices
-   - [Operate First Project Board](https://github.com/orgs/operate-first/projects/57/views/5)
-   - Related Repos:
-     - [Explore Operate First Concepts](https://github.com/os-climate/aicoe-osc-demo)
-     - [Operate First Pipeline Demo](https://github.com/os-climate/op1st-pipeline-demo)
+## Project Boards
+ - Program Mgmt Office [Project Board](https://github.com/orgs/os-climate/projects/5)
+ - Data Commons/Data Mesh [Project Board](https://github.com/orgs/os-climate/projects/7)
+ - Data Commons/Data Mesh Q4 2023 [Project Board](https://github.com/orgs/os-climate/projects/17)
+ - Data As Code POC [Project Board](https://github.com/orgs/os-climate/projects/16)
+ - Data Exchange [Project Board](https://github.com/orgs/os-climate/projects/15)
+ - Sector Alignment [Project Board](https://github.com/orgs/os-climate/projects/13)
+ - Physical Risk & Resilience [Project Board](https://github.com/orgs/os-climate/projects/12)
 
 ## Data Sources
 ### Browse OS-C Data Sources Using Open MetaData
