@@ -8,8 +8,8 @@ Group E-mail Distro: Main@lists.os-climate.org
 
 Team Slack Channel: os-climate.slack.com#general
 
-### Community Outreach - Lead: Heather Ackenhusen
-Learn more about OS-Climate and/or how you can contribute:  Bi-weekly Tuesdays 9:30 am - 10:00 am ET
+### Community Outreach - Leads: Jenn Bonner & Evan Harrison
+Learn more about OS-Climate and/or how you can contribute:  contact jbonner@linuxfoundation.org or eharrison@linuxfoundation.org
 
 ### Technical Support & Office Hours - Leads:  Mikhail Mikhailitchenko & Erik Erlandson
 Get technical questions answered and/or learn more from our developer/engineering community: Every Tues at 10:00 am ET (except 2nd Tues due to All Hands)
