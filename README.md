@@ -51,6 +51,12 @@
  - Request memberships on OS-Climate github org and credentials for Trino
  - Report a security vulnerability
 
+**OS-Climate's Cluster Information**
+ - Cluster 1 [CL1](https://console-openshift-console.apps.odh-cl1.apps.os-climate.org/):  used for development and initial upgrades of applications
+ - Cluster 2 [CL2](https://console-openshift-console.apps.odh-cl2.apps.os-climate.org/):  stable cluster, sandbox UI and released versions of tools are available from cluster 2
+ - Cluster 3 [CL3](https://console-openshift-console.apps.odh-cl3.apps.os-climate.org/):  administrative cluster, managed by Red Hat and Linux Foundation IT org
+ - Cluster 4 [CL4](https://console-openshift-console.apps.odh-cl4.apps.os-climate.org/):  latest implementation of Red Hat's Data Mesh pattern - under construction.  Follows Open Data Hub[Data Mesh Pattern](https://github.com/opendatahub-io-contrib/data-mesh-pattern).  
+
 **Open MetaData**
 - [Login and view data](https://openmetadata-openmetadata.apps.odh-cl2.apps.os-climate.org/signin)
 
