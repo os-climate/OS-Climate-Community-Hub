@@ -1,5 +1,5 @@
 ## **Note:** 
-All meetings are open and anyone is welcome to attend. **Please access the [Community Calendar](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d) to obtain the link to one of the meetings below and/or contact *Evan Harrison (eharrison@linuxfoundation.org)* to be subscribed to the related group distro and receive a calendar invite.**
+All meetings are open and anyone is welcome to attend. **Please access the [Community Calendar](https://west.exch092.serverdata.net/owa/calendar/f55f275b1e724cc49b5a52f50c30a11f@os-climate.org/022d1c0017744eebbf9f14f737493bd67046415453482209411/calendar.html) to obtain the link to one of the meetings below and/or contact *Evan Harrison (eharrison@linuxfoundation.org)* to be subscribed to the related group distro and receive a calendar invite.**
 
 ### All Hands - Lead: Truman Semans
 Community-wide Meeting:  Monthly, 2nd Tuesday 10:00 am - 11:00 am ET
