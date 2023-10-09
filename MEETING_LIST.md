@@ -19,9 +19,9 @@ Group E-mail Distro: Developers@lists.os-climate.org
 Team Slack Channel: os-climate.slack.com#developers
 
 ### Physical Risk & Resilience - Lead: Matt Sandoe
-Team Meeting:  Thursdays 11:30 am - 12:30 pm ET
+Team Meeting:  Wednesdays 11:00 am - 11:30 am ET
 
-Physical Risk Modelling Office Hours:  Wednesdays 11:00 am - 12:00 pm ET (Lead: Joe Moorhouse)
+Physical Risk Modelling Office Hours:  Wednesdays 11:30 am - 12:00 pm ET (Lead: Joe Moorhouse)
 
 Group E-mail Distro: PhysicalRisk@lists.os-climate.org
 
