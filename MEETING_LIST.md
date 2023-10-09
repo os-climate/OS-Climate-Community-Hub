@@ -54,14 +54,14 @@ Team Meeting:  Thursdays 9:00 - 9:45 am ET
 Group E-mail Distro: DataExchange@lists.os-climate.org
 
 ### Data Extraction/NLP (Machine Learning/AI and Rules-based Engines) - Leads: David Besslich 
-Team Meeting:  Wednesday 11:30 - 12:00 pm ET
+Team Meeting:  Wednesdays 11:30 - 12:00 pm ET
 
 Group E-mail Distro: DataExtraction@lists.os-climate.org
 
 Team Slack Channel: os-climate.slack.com#data-extraction-ai-nlp
 
 ### Entity Matching - Leads: Rui Dias Morais & Patrycia Barros Pereira
-Team Meeting:  Project complete, not team meetings.
+Team Meeting:  Project complete, no team meetings.
 
 Group E-mail Distro: EntityMatching@lists.os-climate.org
 
