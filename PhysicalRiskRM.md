@@ -15,6 +15,7 @@
      - On-boarding New Models: [View Handbook](https://github.com/os-climate/physrisk/blob/main/docs/handbook/onboarding.rst)
      - [Physical Risk Modeling](https://github.com/os-climate/physrisk)
      - [Physical Risk API](https://github.com/os-climate/physrisk-api)
+     - [Physical Risk Hazards](https://github.com/os-climate/hazard)
      - [Physical Riks UI](https://physrisk-ui-sandbox.apps.odh-cl1.apps.os-climate.org/)
      - [WRI GPPD Ingestion Pipeline](https://github.com/os-climate/wri-gppd-ingestion-pipeline)
      - [Physical Risk Data Pipeline](https://github.com/os-climate/physical_risk_data_pipeline)
