@@ -29,7 +29,7 @@
  - **Analytical Tools: Quick Start Guides & Demos**  
    - [Physical Risk & Resilience](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PhysicalRiskRM.md#physical-risk--resilience)
    - [Transition Analysis](https://os-climate.org/transition-analysis/)
-   - [Portfolio Alignment](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PortfolioAnalysisRM.md#portfolio-analysis-implied-temperature-rise)
+   - [Portfolio Alignment](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PortfolioAlignmentRM.md#portfolio-analysis-implied-temperature-rise)
  - **Technical Overviews**
    - [Development and Coding Best Practices](https://github.com/AICoE/workshop-coding-best-practices#workshop-development-and-coding-standards)
    - **UPDATED JAN-2023** [Data Commons Developer Guide](https://github.com/os-climate/os_c_data_commons/blob/main/os-c-data-commons-developer-guide.md)
@@ -39,7 +39,7 @@
  - **Data Exchange:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/DataExchange.md#data-exchange)
  - **Physical Risk & Resilience:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PhysicalRiskRM.md#physical-risk--resilience)
  - **Transition Analysis:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/TransitionAnalysisRM.md#transition-analysis)
- - **Portfolio Alignment/Implied Temperature Rise:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PortfolioAnalysisRM.md#portfolio-analysis-implied-temperature-rise)
+ - **Portfolio Alignment/Implied Temperature Rise:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PortfolioAlignmentRM.md#portfolio-alignment-implied-temperature-rise)
  - **Data Extraction/AI Overview:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/DataExtractionRM.md#data-extraction) 
  - **Corporate Heirarchy Tool - Entity Matching/GLEIF:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/EntityMatchingRM.md#corporate-heirarchy-tool---entity-matchinggleif)  
 - **Partnership for Carbon Accounting Financials (PCAF) Sovereign Footprint Calculations:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PCAF_RM.md#pcaf-sovereign-footprint-calculations-private-repos-q4-2022)

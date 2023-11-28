@@ -1,4 +1,4 @@
-# Portfolio Analysis & Sector Alignment (Implied Temperature Rise)
+# Portfolio Alignment & Sector Alignment (Implied Temperature Rise)
 ## Overview [Tool Description](https://drive.google.com/file/d/1pSuzoYrfAG59fIj1DSrqHf9gsJQg4mr5/view?usp=sharing)
 ### Presentation and Tool Demo:
 - [Watch Webinar (~1 hour)](https://vimeo.com/760067709)
@@ -22,6 +22,7 @@
         - Estimations and uncertainty are important factors in understanding sector alignment outcomes
  - [Guide to testing ITR tool](https://osclimateorg.sharepoint.com/:b:/g/EaLSlE8WYx9Bnun4NOBX3jIB0X6aHz2lYHoHjx3b-l40zg?e=lFArns)
  - [Data template for testing](https://osclimateorg.sharepoint.com/:x:/g/EVFrynCx7npEtjtmKEZ6FFoB2eC1M3H-mvwb0vyiAqkySw?e=LyXLxV)
- - [ITR Tool](https://github.com/os-climate/ITR)
+ - [ITR Library](https://github.com/os-climate/ITR)
+ - [ITR Tool and Examples](https://github.com/os-climate/ITR-examples)
  - [ITR API](https://github.com/os-climate/ITR_api)
  - [ITR Data Pipeline](https://github.com/os-climate/itr-data-pipeline)
