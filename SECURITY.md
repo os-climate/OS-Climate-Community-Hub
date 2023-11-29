@@ -6,4 +6,4 @@ N/A: no GA versions exist
 
 ## Reporting a Vulnerability
 
-Report any vulnerabilities to security@os-climate.org
+Report any vulnerabilities to <security@os-climate.org>
