@@ -2,7 +2,7 @@
 
 ## OS-Climate Community Hub
 
-**OS-Climate is part of The Linux Foundation® (LF)**
+### OS-Climate is part of The Linux Foundation® (LF)
 
 **OS-Climate Intro:** [Watch Video (1 min)](https://youtu.be/mi1zbyAV14I)
 
@@ -58,18 +58,18 @@
 - Request memberships on OS-Climate github org and credentials for Trino
 - Report a security vulnerability
 
-**OS-Climate's Cluster Information**
+### OS-Climate's Cluster Information
 
 - Cluster 1 [CL1](https://console-openshift-console.apps.odh-cl1.apps.os-climate.org/): used for development and initial upgrades of applications
 - Cluster 2 [CL2](https://console-openshift-console.apps.odh-cl2.apps.os-climate.org/): stable cluster, sandbox UI and released versions of tools are available from cluster 2
 - Cluster 3 [CL3](https://console-openshift-console.apps.odh-cl3.apps.os-climate.org/): administrative cluster, managed by Red Hat and Linux Foundation IT org
 - Cluster 4 [CL4](https://console-openshift-console.apps.odh-cl4.apps.os-climate.org/): latest implementation of Red Hat's Data Mesh pattern - under construction. Follows Open Data Hub[Data Mesh Pattern](https://github.com/opendatahub-io-contrib/data-mesh-pattern).
 
-**Open MetaData**
+### Open MetaData
 
 - [Login and view data](https://openmetadata-openmetadata.apps.odh-cl2.apps.os-climate.org/signin)
 
-**Trino Access**
+### Trino Access
 
 - Sample file to establish credentials/set up your [environment](https://github.com/os-climate/os_c_data_commons/blob/main/docs/credentials.env)
 - Click here for your Cluster 1 JWT [Token](https://das-odh-trino.apps.odh-cl1.apps.os-climate.org/)
@@ -77,11 +77,11 @@
 - Accessing Trino: introductory tutorial [notebook](https://github.com/os-climate/data-platform-demo/blob/master/notebooks/trino-pandas-demo.ipynb)
 - Sample [notebook](https://github.com/os-climate/data-platform-demo/blob/master/notebooks/riskthinking-tutorial.ipynb) for accessing Riskthinking.AI's federated datasets
 
-**Protect Your Credentials**
+###  Protect Your Credentials
 
 - Keep your credentials.env one directory level above your GitHub tree, so GitHub can never see it. [Learn more](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/SAFE_KEEPING_CREDENTIALS.md)
 
-**Project/workstream Repos**
+### Project/workstream Repos
 
 - Need permissions to a particular repo and/or project? Please contact the appropriate admin listed here: [Admin List](https://github.com/operate-first/apps/blob/master/kfdefs/overlays/osc/osc-cl1/trino/configs/group-mapping.properties)
 - Want more information on how to contribute code or data? Please see [Contribution Guidelines](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/CONTRIBUTING.md)
@@ -143,9 +143,19 @@ Data Commons enables federation with external data sources as well as ingestion/
 OS-Climate is part of The Linux Foundation® (LF). All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a registered trademark of Linus Torvalds. Privacy Policy (<https://linuxfoundation.org/privacy-policy/>) and Terms of Use (<https://linuxfoundation.org/terms/>).
 
 - **To report a Security concern and/or incident, please send an email to:** <security@os-climate.org>
-- **Governance Info:** the OS-C Governing Board meets on the 3rd Wednesday of every month. Premium members can name a person to serve on the Governing Board and the Technical Advisory Council (TAC). General members can select a person to represent them as a Board Observer, attending quarterly Governing Board meetings. Additionally, for every 4 General Members, one Board member will be elected to represent this cohort. Associate members can select a person to represent them as a Board Observer, attending quarterly Governing Board meetings. Additionally, Associate members can elect one Academic, one IGO, and one NGO member to represent them on the Governing Board. Physical Risk & Resilience, Data Commons, Portfolio Alignment, and Transition Analysis projects are governed by Technical Steering Committees (TSCs). The chair people (elected by project contributors) for these TSCs also serve as members of the TAC. For more information, including links to applicable charters, please see the on-boarding guide referenced above or visit <https://os-climate.org/governance//>.
+
+- **Governance Info:** the OS-C Governing Board meets on the 3rd Wednesday of every month. Premium members can name a person to serve on the Governing Board and the Technical Advisory Council (TAC). General members can select a person to represent them as a Board Observer, attending quarterly Governing Board meetings.
+
+Additionally, for every 4 General Members, one Board member will be elected to represent this cohort. Associate members can select a person to represent them as a Board Observer, attending quarterly Governing Board meetings. Additionally, Associate members can elect one Academic, one IGO, and one NGO member to represent them on the Governing Board.
+
+Physical Risk & Resilience, Data Commons, Portfolio Alignment, and Transition Analysis projects are governed by Technical Steering Committees (TSCs). The chair people (elected by project contributors) for these TSCs also serve as members of the TAC.
+
+For more information, including links to applicable charters, please see the on-boarding guide referenced above or visit <https://os-climate.org/governance//>.
+
 - **Policies:** OS-Climate abides by all of the following Linux Foundation policies: <https://www.linuxfoundation.org/policies/>
+
 - **Code of Conduct:** all community members are expected to abide by the [**LF Projects Code of Conduct**](https://lfprojects.org/policies/code-of-conduct/)
+
 - **DCO:** all project contributors are expected to adhere to the [**Linux Foundation DCO Policy**](https://wiki.linuxfoundation.org/dco). See our Contributions Guidelines for more information about DCO signoffs and fixing signoff failures: [Contribution Guidelines](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/CONTRIBUTING.md)
 
 ## Licenses
