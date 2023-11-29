@@ -1,11 +1,12 @@
 # Contributing to OS-Climate
+
 **Thank You for Contributing to OS-Climate!**
 
 **This guide explains how to:**
 
-* Ensure your changes are accepted
-* Work on the OS-Climate code base and/or contribute data
-* Get help if you encounter trouble
+- Ensure your changes are accepted
+- Work on the OS-Climate code base and/or contribute data
+- Get help if you encounter trouble
 
 ## Before you start
 
@@ -13,16 +14,16 @@ Before starting to work on a feature or a bug fix, please open an issue to discu
 
 For any non-trivial change, we need to be able to answer these questions:
 
-* Why is this change done? What's the use case?
-* For user facing features, what will the API look like?
-* What test cases should it have? What could go wrong?
-* How will it roughly be implemented? We'll happily provide code pointers to save you time.
+- Why is this change done? What's the use case?
+- For user facing features, what will the API look like?
+- What test cases should it have? What could go wrong?
+- How will it roughly be implemented? We'll happily provide code pointers to save you time.
 
 We may ask you to answer these questions directly in the GitHub issue or (for large changes) in a shared Google Doc.
 
 ### Security vulnerabilities
 
-Do not report security vulnerabilities to the public issue tracker. Send an email to security@os-climate.org. Follow our [Security Vulnerability Disclosure Policy](To be provided)
+Do not report security vulnerabilities to the public issue tracker. Send an email to <security@os-climate.org>. Follow our [Security Vulnerability Disclosure Policy](To be provided)
 
 ### Follow the Code of Conduct
 
@@ -30,56 +31,65 @@ Contributors must follow the Code of Conduct outlined at [https://lfprojects.org
 
 ### Additional help
 
-If you run into any trouble, please reach out to us on the issue you are working on or via slack: join os-climate.slack.com https://join.slack.com/t/os-climate/shared_invite/zt-14d7z1q78-gf68YdWxcaDcB2gKnVJDvg.
+If you run into any trouble, please reach out to us on the issue you are working on or via slack: join os-climate.slack.com <https://join.slack.com/t/os-climate/shared_invite/zt-14d7z1q78-gf68YdWxcaDcB2gKnVJDvg>.
 
 ## Setting up your development environment
+
 To be provided
 
 ## Making your change
-Developers should use Github's Standard Fork and Pull Request process: https://gist.github.com/Chaser324/ce0505fbed06b947d962
+
+Developers should use Github's Standard Fork and Pull Request process: <https://gist.github.com/Chaser324/ce0505fbed06b947d962>
 
 ### Code change guidelines
 
 All code contributions should contain the following:
 
-* Create unit tests using XXX for new classes or methods that you introduce.
-* Create integration tests that exercise a build for the bug/feature.
-* Annotate tests that correspond to a bug on GitHub.
-* Add documentation to the appropriate Docs folder
-* For new features, the feature should be mentioned in the [Release Notes](to be provided).
+- Create unit tests using XXX for new classes or methods that you introduce.
+- Create integration tests that exercise a build for the bug/feature.
+- Annotate tests that correspond to a bug on GitHub.
+- Add documentation to the appropriate Docs folder
+- For new features, the feature should be mentioned in the [Release Notes](to be provided).
 
 ### Creating commits and writing commit messages
 
 The commit messages that accompany your code changes are an important piece of documentation. Please follow these guidelines when creating commits:
 
-* [Write good commit messages.](https://cbea.ms/git-commit/#seven-rules)
-* [Sign off your commits](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---signoff) to indicate that you agree to the terms of [Developer Certificate of Origin](https://developercertificate.org/). We can only accept PRs that have all commits signed off.
-* Keep commits discrete. Avoid including multiple unrelated changes in a single commit.
-* Keep commits self-contained. Avoid spreading a single change across multiple commits. A single commit should make sense in isolation.
+- [Write good commit messages.](https://cbea.ms/git-commit/#seven-rules)
+- [Sign off your commits](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---signoff) to indicate that you agree to the terms of [Developer Certificate of Origin](https://developercertificate.org/). We can only accept PRs that have all commits signed off.
+- Keep commits discrete. Avoid including multiple unrelated changes in a single commit.
+- Keep commits self-contained. Avoid spreading a single change across multiple commits. A single commit should make sense in isolation.
 
 #### Code Commit Process
 
 1. Add file(s) you've changed to your commit.
+
 ```
 ~/git/OS-Climate-Community-Hub$ git add CONTRIBUTING.md
 ```
+
 2. Commit with `-s` flag to add DCO. `-S` flag can also be used to add GPG signature,
-if it is set up in your local Git config.
+   if it is set up in your local Git config.
+
 ```
 ~/git/OS-Climate-Community-Hub$ git commit -sS
 [improve-commit-info 5524747] Add details on making commits and DCO
  1 file changed, 15 insertions(+), 4 deletions(-)
 ```
+
 3. If you forget to include the DCO in your commit (or use an external program,
-such as an IDE plugin that doesn't support DCO), it can be amended from the command
-line:
+   such as an IDE plugin that doesn't support DCO), it can be amended from the command
+   line:
+
 ```
 ~/git/OS-Climate-Community-Hub$ git commit --amend -sS --no-edit
 ```
+
 If you are amending a signed commit, be sure to include the `-S` flag again to sign
 the amended commit.
 
 4. Push your change to your fork.
+
 ```
 ~/git/OS-Climate-Community-Hub$ git push --upstream my-remote my-feature-branch
 ```
@@ -123,12 +133,13 @@ Then force push your branch:
 `git push --force origin test-branch`
 
 ### Useful tools to make doing DCO signoffs easier
+
 There are a number of great tools out there to manage DCO signoffs for developers to make it much easier to do signoffs.
 
-* DCO command line tool, which let's you do a single signoff for an entire repo ( https://github.com/coderanger/dco )
-* GitHub UI integrations for adding the signoff automatically ( https://github.com/scottrigby/dco-gh-ui )
-* Chrome - https://chrome.google.com/webstore/detail/dco-github-ui/onhgmjhnaeipfgacbglaphlmllkpoijo
-* Firefox - https://addons.mozilla.org/en-US/firefox/addon/scott-rigby/?src=search
+- DCO command line tool, which let's you do a single signoff for an entire repo ( <https://github.com/coderanger/dco> )
+- GitHub UI integrations for adding the signoff automatically ( <https://github.com/scottrigby/dco-gh-ui> )
+- Chrome - <https://chrome.google.com/webstore/detail/dco-github-ui/onhgmjhnaeipfgacbglaphlmllkpoijo>
+- Firefox - <https://addons.mozilla.org/en-US/firefox/addon/scott-rigby/?src=search>
 
 ## Our thanks
 
