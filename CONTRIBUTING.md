@@ -64,35 +64,27 @@ The commit messages that accompany your code changes are an important piece of d
 
 1. Add file(s) you've changed to your commit.
 
-```
-~/git/OS-Climate-Community-Hub$ git add CONTRIBUTING.md
-```
+   ~/git/OS-Climate-Community-Hub$ git add CONTRIBUTING.md
 
 2. Commit with `-s` flag to add DCO. `-S` flag can also be used to add GPG signature,
    if it is set up in your local Git config.
 
-```
-~/git/OS-Climate-Community-Hub$ git commit -sS
-[improve-commit-info 5524747] Add details on making commits and DCO
- 1 file changed, 15 insertions(+), 4 deletions(-)
-```
+   ~/git/OS-Climate-Community-Hub$ git commit -sS
+   [improve-commit-info 5524747] Add details on making commits and DCO
+   1 file changed, 15 insertions(+), 4 deletions(-)
 
 3. If you forget to include the DCO in your commit (or use an external program,
    such as an IDE plugin that doesn't support DCO), it can be amended from the command
    line:
 
-```
-~/git/OS-Climate-Community-Hub$ git commit --amend -sS --no-edit
-```
+   ~/git/OS-Climate-Community-Hub$ git commit --amend -sS --no-edit
 
 If you are amending a signed commit, be sure to include the `-S` flag again to sign
 the amended commit.
 
 4. Push your change to your fork.
 
-```
-~/git/OS-Climate-Community-Hub$ git push --upstream my-remote my-feature-branch
-```
+   ~/git/OS-Climate-Community-Hub$ git push --upstream my-remote my-feature-branch
 
 ### Testing changes
 

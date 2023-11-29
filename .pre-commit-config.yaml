@@ -1,6 +1,6 @@
 ---
 ci:
-  autofix_commit_msg: "Chore: pre-commit autoupdate"
+  autofix_commit_msg: 'Chore: pre-commit autoupdate'
   skip:
     # pre-commit.ci cannot install WGET, so tomlint must be disabled
     - tomllint
@@ -17,7 +17,7 @@ repos:
   - repo: local
     hooks:
       - id: tomllint
-        name: "Script: scripts/tomllint.sh"
+        name: 'Script: scripts/tomllint.sh'
         language: script
         # pass_filenames: false
         files: \^*.toml
@@ -43,7 +43,7 @@ repos:
       - id: detect-private-key
       - id: end-of-file-fixer
       - id: mixed-line-ending
-        args: ["--fix=lf"]
+        args: ['--fix=lf']
       - id: name-tests-test
       # Do not allow direct push to main/master branches
       - id: no-commit-to-branch
@@ -57,14 +57,14 @@ repos:
     hooks:
       - id: prettier
         args:
-          ["--ignore-unknown", "--no-error-on-unmatched-pattern", "!chart/**"]
+          ['--ignore-unknown', '--no-error-on-unmatched-pattern', '!chart/**']
 
   # Lint: Markdown
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.37.0
     hooks:
       - id: markdownlint
-        args: ["--fix"]
+        args: ['--fix']
 
   # - repo: https://github.com/asottile/pyupgrade
   #   rev: v3.15.0
@@ -91,7 +91,7 @@ repos:
     rev: 2.1.1
     hooks:
       - id: bashate
-        args: ["--ignore=E006"]
+        args: ['--ignore=E006']
 
   - repo: https://github.com/koalaman/shellcheck-precommit
     rev: v0.9.0
@@ -135,7 +135,7 @@ repos:
   #     additional_dependencies: [black]
 
   - repo: https://github.com/pycqa/flake8
-    rev: "6.1.0"
+    rev: '6.1.0'
     hooks:
       - id: flake8
         entry: pflake8
@@ -148,6 +148,6 @@ repos:
   #   - id: codespell
 
   - repo: https://github.com/pre-commit/mirrors-mypy
-    rev: "v1.7.1"
+    rev: 'v1.7.1'
     hooks:
       - id: mypy
