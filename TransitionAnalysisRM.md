@@ -10,7 +10,7 @@
 
 - Attend a Transition Analysis team meeting: [Meeting Info](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md#note)
 
-### Try out the tool: coming soon! contact us at < contact@sostrades.org >
+### Try out the tool: coming soon! contact us at < <contact@sostrades.org> >
 
 ### Related Repos
 
