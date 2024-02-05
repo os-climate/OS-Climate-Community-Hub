@@ -66,7 +66,7 @@ Group E-mail Distro: <DataExchange@lists.os-climate.org>
 
 ### Data Extraction/NLP (Machine Learning/AI and Rules-based Engines) - Leads: David Besslich
 
-Team Meeting: Wednesdays 11:30 - 12:00 pm ET
+Team Meeting: Thursdays 10:30 - 11:00 am ET
 
 Group E-mail Distro: <DataExtraction@lists.os-climate.org>
 
