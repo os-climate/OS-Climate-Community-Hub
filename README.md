@@ -9,7 +9,7 @@
 ## Community Resources & General OS-Climate Information
 
 - **Getting Started, On-boarding Guide:** [Link to Guide](https://docs.google.com/presentation/d/14iPE2citLdEfsT9TiEnxSCsN0AxrG1xetPb6AjRcisk/edit?usp=sharing)
-  - You can also attend an on-boarding session. Held bi-weekly on Tuesdays @ 9:30 am. Please see Community Calendar below.
+  - You can also attend an on-boarding session.
 - _OS-Climate website:_ <https://os-climate.org/>
 - _OS-Climate 101:_ [Watch Video](https://vimeo.com/645351364)
 - **Have technical questions or want to learn more from our developer/engineering community?** Come to our Data Commons Office Hours! Every Tues at 10:00AM ET [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc5NDA4MGEtOTAyOS00OTBhLTliNjItMDQwZDliZDkyMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
