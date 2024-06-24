@@ -6,11 +6,11 @@ labels: Bucket-credentials
 assignees: eharrison24, strawberry-baked-alaska
 ---
 
-Requesting credentials for github user: <github-user-name>
+Requesting credentials for github user: [github-user-name]
 
-Requesting credentials for the bucket: <bucket-name>
+Requesting credentials for the bucket: [bucket-name]
 
-Email address to send a credential download link: <email-address>
+Email address to send a credential download link: [email-address]
 
 Request checklist:
 

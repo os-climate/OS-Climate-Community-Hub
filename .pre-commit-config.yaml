@@ -4,8 +4,6 @@ ci:
   skip:
     # pre-commit.ci cannot install WGET, so tomlint must be disabled
     - tomllint
-    # pre-commit.ci throws some error related to Docker!
-    - shellcheck
 
 exclude: |
   (?x)^(
@@ -25,7 +23,7 @@ repos:
         entry: scripts/tomllint.sh .
 
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.5.0
+    rev: v4.6.0
     hooks:
       - id: check-added-large-files
       - id: check-ast
@@ -45,42 +43,23 @@ repos:
       - id: mixed-line-ending
         args: ["--fix=lf"]
       - id: name-tests-test
-      # Do not allow direct push to main/master branches
+        args: ["--pytest-test-first"]
       - id: no-commit-to-branch
       # - id: pretty-format-json
       - id: requirements-txt-fixer
       - id: trailing-whitespace
 
-  # Autoformat: YAML, JSON, Markdown, etc.
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: v3.1.0
+    rev: v4.0.0-alpha.8
     hooks:
       - id: prettier
-        args:
-          ["--ignore-unknown", "--no-error-on-unmatched-pattern", "!chart/**"]
+        args: ["--no-error-on-unmatched-pattern", "--ignore-unknown"]
 
-  # Lint: Markdown
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.37.0
+    rev: v0.41.0
     hooks:
       - id: markdownlint
         args: ["--fix"]
-
-  # - repo: https://github.com/asottile/pyupgrade
-  #   rev: v3.15.0
-  #   hooks:
-  #     - id: pyupgrade
-  #       args: ['--py37-plus']
-
-  - repo: https://github.com/psf/black-pre-commit-mirror
-    rev: 23.11.0
-    hooks:
-      - id: black
-
-  - repo: https://github.com/psf/black-pre-commit-mirror
-    rev: 23.11.0
-    hooks:
-      - id: black-jupyter
 
   - repo: https://github.com/jorisroovers/gitlint
     rev: v0.19.1
@@ -91,63 +70,82 @@ repos:
     rev: 2.1.1
     hooks:
       - id: bashate
-        args: ["--ignore=E006"]
+        args: ["--ignore=E006,E011"]
 
-  - repo: https://github.com/koalaman/shellcheck-precommit
-    rev: v0.9.0
+  - repo: https://github.com/shellcheck-py/shellcheck-py
+    rev: v0.10.0.1
     hooks:
       - id: shellcheck
-      # Optionally only show errors and warnings
-      # args: ["--severity=warning"]
 
-  # If you want to avoid flake8 errors due to unused vars or imports:
-  # - repo: https://github.com/PyCQA/autoflake
-  #   rev: v2.0.0
-  #   hooks:
-  #   - id: autoflake
-  #     args: [
-  #       --in-place,
-  #       --remove-all-unused-imports,
-  #       --remove-unused-variables,
-  #     ]
-
-  - repo: https://github.com/PyCQA/isort
-    rev: 5.12.0
+  - repo: https://github.com/pycqa/pydocstyle.git
+    rev: 6.3.0
     hooks:
-      - id: isort
-
-  - repo: https://github.com/adrienverge/yamllint.git
-    rev: v1.33.0
-    hooks:
-      - id: yamllint
-        args: [--strict]
+      - id: pydocstyle
+        additional_dependencies: ["tomli"]
 
   - repo: https://github.com/Mateusz-Grzelinski/actionlint-py
-    rev: v1.6.26.11
+    rev: v1.7.1.15
     hooks:
       - id: actionlint
 
-  # If like to embrace black styles even in the docs:
+  - repo: https://github.com/pycqa/flake8
+    rev: "7.1.0"
+    hooks:
+      - id: flake8
+        additional_dependencies:
+          - pep8-naming
+
+  - repo: https://github.com/adrienverge/yamllint.git
+    rev: v1.35.1
+    hooks:
+      - id: yamllint
+        args:
+          [
+            "-d",
+            "{rules: {line-length: {max: 120}}, ignore-from-file: [.gitignore],}",
+          ]
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.4.9
+    hooks:
+      - id: ruff
+        files: ^(scripts|tests|custom_components)/.+\.py$
+        args: [--fix, --exit-non-zero-on-fix]
+      - id: ruff-format
+        files: ^(scripts|tests|custom_components)/.+\.py$
+
+  - repo: local
+    hooks:
+      - id: mypy-cache
+        name: "create mypy cache"
+        language: system
+        pass_filenames: false
+        entry: bash -c 'if [ ! -d .mypy_cache ]; then /bin/mkdir .mypy_cache; fi; exit 0'
+
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: "v1.10.0"
+    hooks:
+      - id: mypy
+        verbose: true
+        args: ["--show-error-codes", "--install-types", "--non-interactive"]
+        additional_dependencies: ["pytest", "types-requests"]
+
+  # Check for misspellings in documentation files
+  # - repo: https://github.com/codespell-project/codespell
+  #   rev: v2.2.2
+  #   hooks:
+  #   - id: codespell
+
+  # To embrace black styles, even in docs
   # - repo: https://github.com/asottile/blacken-docs
   #   rev: v1.13.0
   #   hooks:
   #   - id: blacken-docs
   #     additional_dependencies: [black]
 
-  - repo: https://github.com/pycqa/flake8
-    rev: "6.1.0"
-    hooks:
-      - id: flake8
-        entry: pflake8
-        additional_dependencies: [pyproject-flake8]
-
-  # Check for misspells in documentation files:
-  # - repo: https://github.com/codespell-project/codespell
-  #   rev: v2.2.2
+  # Automatically upgrade Python syntax for newer versions
+  # - repo: https://github.com/asottile/pyupgrade
+  #   rev: v3.15.0
   #   hooks:
-  #   - id: codespell
-
-  - repo: https://github.com/pre-commit/mirrors-mypy
-    rev: "v1.7.1"
-    hooks:
-      - id: mypy
+  #     - id: pyupgrade
+  #       args: ['--py37-plus']

@@ -6,9 +6,9 @@ labels: onboarding
 assignees: eharrison24, strawberry-baked-alaska
 ---
 
-Requesting onboarding for github user: <github-user-name>
+Requesting onboarding for github user: [github-user-name]
 
-Request access to github team: <team-name(s)>
+Request access to github team: [team-name(s)]
 
 View teams here: <https://github.com/orgs/os-climate/teams>
 

@@ -79,8 +79,8 @@ The commit messages that accompany your code changes are an important piece of d
 
    ~/git/OS-Climate-Community-Hub$ git commit --amend -sS --no-edit
 
-If you are amending a signed commit, be sure to include the `-S` flag again to sign
-the amended commit.
+   If you are amending a signed commit, be sure to include the `-S` flag again to sign
+   the amended commit.
 
 4. Push your change to your fork.
 
