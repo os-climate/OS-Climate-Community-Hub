@@ -1,6 +1,6 @@
-# START HERE
+# OS-Climate
 
-## OS-Climate Community Hub
+## Community Hub
 
 ### OS-Climate is part of The Linux Foundation® (LF)
 
