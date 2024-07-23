@@ -3,7 +3,7 @@ name: Request credentials for an os-climate bucket
 about: Request credentials for an os-climate bucket
 title: Request credentials for an os-climate bucket
 labels: Bucket-credentials
-assignees: eharrison24, strawberry-baked-alaska
+assignees: wendallkaters, strawberry-baked-alaska
 ---
 
 Requesting credentials for github user: [github-user-name]
