@@ -1,2 +1,3 @@
 # Credentials / Secrets
 credentials.env
+node_modules/**

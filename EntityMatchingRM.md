@@ -1,4 +1,4 @@
-# **Corporate Heirarchy Tool - Entity Matching/GLEIF**
+# **Corporate Hierarchy Tool - Entity Matching/GLEIF**
 
 ## Video Overview & Demo
 
