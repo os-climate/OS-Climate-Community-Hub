@@ -53,7 +53,7 @@
 - **Transition Analysis:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/TransitionAnalysisRM.md#transition-analysis)
 - **Portfolio Alignment/Implied Temperature Rise:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PortfolioAnalysisRM.md#portfolio-analysis-implied-temperature-rise)
 - **Data Extraction/AI Overview:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/DataExtractionRM.md#data-extraction)
-- **Corporate Heirarchy Tool - Entity Matching/GLEIF:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/EntityMatchingRM.md#corporate-heirarchy-tool---entity-matchinggleif)
+- **Corporate Hierarchy Tool - Entity Matching/GLEIF:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/EntityMatchingRM.md#corporate-Hierarchy-tool---entity-matchinggleif)
 - **Partnership for Carbon Accounting Financials (PCAF) Sovereign Footprint Calculations:** [Read Me](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/PCAF_RM.md#pcaf-sovereign-footprint-calculations-private-repos-q4-2022)
 
 ## Access to Repos, Open MetaData, Trino Data, & Projects
