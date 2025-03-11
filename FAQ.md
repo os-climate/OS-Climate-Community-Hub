@@ -132,7 +132,7 @@ The tool supports calculation of emission projections, temperature scores and po
 
 The number and nature of risks are increasing with climate change, and combined with energy transition, it is about to disrupt the world as we know it. Generic impacts of energy transition on climate change, economy and people purchasing power… will have ripple consequences in most economic or institutional sectors.
 
-Our Transition Analysis Tool, WITNESS, is a framework to structure the problem following a system of systems approach, allowing to leverage numerical simulation methods and tools to build a complete world transition model. Such a framework offer the possibility to plug-in best-in-class models from various origin, in order to evaluate various strategies in front of possible energy, resources, climate or economy evolutions, collaboratively securing and combining various experts advices on strategies strengths or weaknesses, coverage or gaps.
+Our Transition Analysis Tool, WITNESS, is a framework to structure the problem following a system of systems approach, allowing to leverage numerical simulation methods and tools to build a complete world transition model. Such a framework offer the possibility to plug-in best-in-class models from various origin, in order to evaluate various strategies in front of possible energy, resources, climate or economy evolutions, collaboratively securing and combining expert advice on strategies strengths or weaknesses, coverage or gaps.
 
 The Transition Analysis tooling (aka WITNESS and associated UI, SoSTrades) allows organizations to:
 
