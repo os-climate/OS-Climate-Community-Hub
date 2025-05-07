@@ -9,7 +9,7 @@
   - May 2023 [Demo (10 min)](https://vimeo.com/824250039?share=copy)
   - March 2023 [Demo (25 min)](https://vimeo.com/809962893)
   - Watch Oct 2022 Webinar [Video (1 hour)](https://vimeo.com/760475042)
-- Try out the tool: [Sandbox UI](https://physrisk-ui-physrisk.apps.odh-cl2.apps.os-climate.org/)
+- Try out the tool: [Sandbox UI](https://physrisk-ui-physrisk.apps.osc-cl1.apps.os-climate.org/)
 - [Physical Risk & Resilience Project Board](https://github.com/orgs/os-climate/projects/6)
 - Attend a Physical Risk & Resilience team meeting or Office Hours: [Meeting Info](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md#note)
 - Related Repos:
