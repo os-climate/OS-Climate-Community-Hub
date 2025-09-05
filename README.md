@@ -128,22 +128,14 @@ Data Commons enables federation with external data sources as well as ingestion/
 - Organizations interested in membership? **Join Us:** [Enroll](https://enrollment.lfx.linuxfoundation.org/?project=LFCF)
 - **Please Note:** you/your organization does not need to be a member to contribute your skills, time, code, and/or data.
 
-## Charter & Oversight (also see Governance section below & <https://os-climate.org/governance/>)
+## Charter & Oversight also see Governance section below & [Governance overview on our website](https://os-climate.org/governance/>)
 
 - OS-Climate Charter, Participation Agreement & Membership Agreement: members are expected to adhere to the following agreements signed at the onset of their membership,
   1. OS-Climate Participation Agreement & Charter: [View OS-C Agreement/Charter](https://drive.google.com/file/d/1heeB5PEAPuFldyTvSSSa6mBYphkddSgj/view)
   2. Linux Foundation Membership Agreement: [View LF Member Agreement](https://drive.google.com/file/d/1PGgq2TKI_wiD1cTjN1JEJZMvyQYDAPPk/view)
-- Governing Board (fee-paying members + Academia, IGO, NGO) decides strategy, priorities, & budget. (see Governance section below for more info)
-  1. Premier Membership: $100K/year; General Membership $30K/year; Associate Membership (Academia, IGO, NGO): $0K/year
-  2. Meets every 3rd Wednesday of the month
-- Technical Advisory Council (TAC) sets technical vision, facilitates collaboration among the Technical Projects, and recommends budget and technical decisions to Board.
-  1. Comprised of TSC chairpersons and Premier Members’ technical delegates.
-  2. Meets 2nd and 4th Monday of the month
-- Technical Steering Committees (TSCs) are responsible for technical oversight of each Project (meet weekly, see community calendar for days/times).
+- Projects meet weekly, see community calendar for days/times.
   1. Data Commons Charter: [View Charter](https://docs.google.com/document/d/1yLL3fBkwe_EC1EOtBHV7mAThlDVSA5dQnkI4Ijnv0eI/edit?usp=sharing)
   2. Physical Risk & Resilience Charter: [View Charter](https://docs.google.com/document/d/1TiHw4KL2sQIdUsvkKq0Eg-ju5T681nQC/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
-  3. Portfolio Alignment Charter: [View Charter](https://docs.google.com/document/d/1l5Sdz0YODYA8uLO4NHMykYLtOsUHl5nK/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
-  4. Transition Analysis Charter: [View Charter](https://docs.google.com/document/d/1oApdAxwjM8_TCeHFgBE8GJp-JOeM6U21/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
 
 ## Security, Legal & Governance
 
@@ -172,10 +164,6 @@ Unless otherwise specified in a given repository's LICENSE file:
 - OS-Climate code is distributed under the Apache License, Version 2.0 (<http://www.apache.org/licenses/LICENSE-2.0>).
 - OS-Climate data is distributed under CDLA, Version 2.0 (<https://cdla.dev/permissive-2-0/>).
 
-Please see OS-Climate Data Licensing Principles for more details: [Licensing Info](https://docs.google.com/document/d/1RsX_v3joy0jidgs1-jOLjv5l0k8HfSX-BHZ3Qt6Kqvw/edit?usp=sharing)
-
 ## OS-Climate's Business Model
 
 - OS-Climate Business Model: non-profit 501(c)(6) business association under the Linux Foundation (largest organizer of open-source tech initiatives globally); platform management and development funded by annual member fees plus philanthropic grants.
-- Why Open Source? To overcome data & analytics barriers which block investments needed to meet Paris Climate Accord goals, we apply the community-based open-source approach that enabled major breakthroughs in Life Sciences & Tech (Human Genome Project, COVID Vaccines, Hyperledger, Linux OS). Please see <https://os-climate.org/about-open-source/>
-- OS-Climate's Theory of Change: <https://os-climate.org/theory-of-change/>
