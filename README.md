@@ -128,10 +128,10 @@ Data Commons enables federation with external data sources as well as ingestion/
 - Organizations interested in membership? **Join Us:** [Enroll](https://enrollment.lfx.linuxfoundation.org/?project=LFCF)
 - **Please Note:** you/your organization does not need to be a member to contribute your skills, time, code, and/or data.
 
-## Charter & Oversight also see Governance section below & [Governance overview on our website](https://os-climate.org/governance/>)
+## Charter & Oversight [(See Governance Overview for more details)](https://os-climate.org/governance/)
 
 - OS-Climate Charter, Participation Agreement & Membership Agreement: members are expected to adhere to the following agreements signed at the onset of their membership,
-  1. OS-Climate Participation Agreement & Charter: [View OS-C Agreement/Charter](https://drive.google.com/file/d/1heeB5PEAPuFldyTvSSSa6mBYphkddSgj/view)
+  1. OS-Climate Participation Agreement & Charter: [View OS-C Agreement/Charter](https://os-climate.org/wp-content/uploads/sites/40/2025/09/OS-Climate-SDF-Agreement-and-Charter.pdf)
   2. Linux Foundation Membership Agreement: [View LF Member Agreement](https://drive.google.com/file/d/1PGgq2TKI_wiD1cTjN1JEJZMvyQYDAPPk/view)
 - Projects meet weekly, see community calendar for days/times.
   1. Data Commons Charter: [View Charter](https://docs.google.com/document/d/1yLL3fBkwe_EC1EOtBHV7mAThlDVSA5dQnkI4Ijnv0eI/edit?usp=sharing)
