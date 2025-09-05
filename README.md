@@ -143,12 +143,6 @@ OS-Climate is part of The Linux Foundation® (LF). All rights reserved. The Linu
 
 - **To report a Security concern and/or incident, please send an email to:** <security@os-climate.org>
 
-- **Governance Info:** the OS-C Governing Board meets on the 3rd Wednesday of every month. Premium members can name a person to serve on the Governing Board and the Technical Advisory Council (TAC). General members can select a person to represent them as a Board Observer, attending quarterly Governing Board meetings.
-
-Additionally, for every 4 General Members, one Board member will be elected to represent this cohort. Associate members can select a person to represent them as a Board Observer, attending quarterly Governing Board meetings. Additionally, Associate members can elect one Academic, one IGO, and one NGO member to represent them on the Governing Board.
-
-Physical Risk & Resilience, Data Commons, Portfolio Alignment, and Transition Analysis projects are governed by Technical Steering Committees (TSCs). The chair people (elected by project contributors) for these TSCs also serve as members of the TAC.
-
 For more information, including links to applicable charters, please see the on-boarding guide referenced above or visit <https://os-climate.org/governance//>.
 
 - **Policies:** OS-Climate abides by all of the following Linux Foundation policies: <https://www.linuxfoundation.org/policies/>
