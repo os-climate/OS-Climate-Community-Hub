@@ -27,8 +27,7 @@
 
 **Join one of our meetings! Subscribe to a group list! Connect over Slack!**
 
-- Community Calendar (Meetings & Events): [Link to Calendar](https://west.exch092.serverdata.net/owa/calendar/f55f275b1e724cc49b5a52f50c30a11f@os-climate.org/022d1c0017744eebbf9f14f737493bd67046415453482209411/calendar.html)
-  - [List](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md) of OS-Climate's Recurring Meetings (community-wide and project specific)
+- [List](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/MEETING_LIST.md) of OS-Climate's Recurring Meetings (community-wide and project specific)
 - Recordings of Prior Events: [Watch Events](https://os-climate.org/events/#watchevents)
 - Recordings of Prior Meetings: [View Meetings](https://osclimateorg.sharepoint.com/:x:/g/EYeq5o9996JNohc5Kq7E6YoBFvNZNkEL-C4WD8pbhOpRjQ?e=hjLi53)
 - Connect via Slack (os-climate.slack.com): [Join Slack](https://join.slack.com/t/os-climate/shared_invite/zt-14d7z1q78-gf68YdWxcaDcB2gKnVJDvg)
