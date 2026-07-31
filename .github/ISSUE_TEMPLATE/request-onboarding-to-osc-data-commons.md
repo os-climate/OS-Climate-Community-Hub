@@ -3,7 +3,8 @@ name: Request Onboarding to OSC Data Commons
 about: Request memberships on OS-Climate github org and credentials for Trino
 title: Request Onboarding to OSC Data Commons
 labels: onboarding
-assignees: wendallkaters, strawberry-baked-alaska
+assignees: wendallkaters
+
 ---
 
 Requesting onboarding for github user: [github-user-name]
