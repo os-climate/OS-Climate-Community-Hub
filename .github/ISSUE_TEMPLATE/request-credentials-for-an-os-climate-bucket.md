@@ -2,7 +2,7 @@
 name: Request credentials for an os-climate bucket
 about: Request credentials for an os-climate bucket
 title: Request credentials for an os-climate bucket
-labels: ''
+labels: onboarding
 assignees: wendallkaters
 
 ---
